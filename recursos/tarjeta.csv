@@ -1,0 +1,2462 @@
+origen;destino;a_ofertados;v_ofertados;distancia;tiempo;carreteras;n_tramos;riesgo;velocidad_media
+Ajalvir;Alcalá de Henares;2.5;1.0;14687.0;1122.0;M-100,Avenida de Daganzo;2;no;47.12
+Ajalvir;Algete;3.0;1.0;9353.0;709.0;M-114,M-118,M-103;3;no;47.49
+Ajalvir;Arganda del Rey;3.0;1.0;36872.0;1943.0;M-50,R-3;2;si;68.32
+Ajalvir;Brunete;3.0;1.0;58267.0;3414.0;R-2,M-40,M-513;3;si;61.44
+Ajalvir;Cobeña;1.5;1.0;5197.0;420.0;M-114;1;no;44.55
+Ajalvir;Collado Villalba;3.0;1.0;65879.0;3324.0;R-2,M-40,A-6;3;si;71.35
+Ajalvir;Getafe;1.71;1.0;42436.0;2089.0;M-50,M-45;2;si;73.13
+Ajalvir;Las Rozas de Madrid;3.0;1.0;120102.0;5894.0;M-40,M-501;2;si;73.36
+Ajalvir;Madrid;2.89;1.22;29499.0;2040.0;M-108,A-2;2;si;52.06
+Ajalvir;Rivas-Vaciamadrid;3.0;1.0;31761.0;1503.0;M-50,A-3;2;si;76.07
+Ajalvir;San Sebastián de los Reyes;2.67;1.0;18246.0;1083.0;M-113,M-50;2;si;60.65
+Ajalvir;Sevilla la Nueva;3.0;1.0;69528.0;3567.0;R-2,M-40,M-501;3;si;70.17
+Ajalvir;Torrejón de Ardoz;1.7;1.0;10221.0;757.0;M-114,M-108;2;no;48.61
+Ajalvir;Torrelodones;3.0;1.0;54502.0;2837.0;R-2,M-40,A-6;3;si;69.16
+Alameda del Valle;Alcobendas;4.0;1.0;77005.0;3609.0;M-604,A-1;2;no;76.81
+Alameda del Valle;Aranjuez;4.0;1.0;138148.0;6566.0;M-604,A-1,A-4;3;no;75.74
+Alameda del Valle;Lozoya;3.0;1.0;6681.0;424.0;M-604;1;no;56.73
+Alameda del Valle;Lozoyuela-Navas-Sieteiglesias;3.0;1.0;24543.0;1480.0;M-604;1;no;59.7
+Alameda del Valle;Madrid;3.5;1.0;92303.0;4588.0;M-604,A-1;2;no;72.43
+Alameda del Valle;Valdemoro;4.0;1.0;117201.0;5524.0;M-604,A-1,A-4;3;no;76.38
+Alcalá de Henares;Ajalvir;3.5;1.5;14809.0;1092.0;M-134,M-100;2;no;48.82
+Alcalá de Henares;Alcobendas;2.53;1.07;31354.0;1978.0;M-100,R-2;2;no;57.06
+Alcalá de Henares;Alcorcón;2.67;1.25;55536.0;2604.0;A-2,M-50,M-45;3;si;76.78
+Alcalá de Henares;Algete;2.5;1.0;22903.0;1590.0;M-134,M-100,M-103;3;no;51.86
+Alcalá de Henares;Ambite;3.0;1.0;30104.0;2224.0;M-204;1;no;48.73
+Alcalá de Henares;Aranjuez;2.56;1.28;74286.0;3620.0;M-50,A-4,M-305;3;si;73.88
+Alcalá de Henares;Arganda del Rey;3.03;1.26;24212.0;1840.0;Cuesta de Zulema,M-300,Paseo de la Ilusión;3;no;47.37
+Alcalá de Henares;Arroyomolinos;3.0;1.0;62392.0;3469.0;A-2,M-40,R-5;3;si;64.75
+Alcalá de Henares;Brunete;3.0;1.0;74192.0;3522.0;A-2,M-45,M-501;3;si;75.84
+Alcalá de Henares;Buitrago del Lozoya;2.57;1.04;80134.0;3426.0;R-2,A-1;2;no;84.2
+Alcalá de Henares;Bustarviejo;3.0;1.0;69126.0;3387.0;R-2,A-1,M-631;3;no;73.47
+Alcalá de Henares;Camarma de Esteruelas;3.0;1.0;9944.0;925.0;Avenida de Daganzo,Avenida del Doctor Marañón,M-119;3;no;38.7
+Alcalá de Henares;Campo Real;2.31;1.0;20814.0;1537.0;Cuesta de Zulema,M-300,M-219;3;no;48.75
+Alcalá de Henares;Cercedilla;3.0;1.0;83984.0;4504.0;R-2,M-104,M-607;3;no;67.13
+Alcalá de Henares;Chinchón;2.0;1.0;58232.0;3052.0;M-203,R-3,M-317;3;no;68.69
+Alcalá de Henares;Ciempozuelos;0.0;1.0;61323.0;3126.0;A-2,M-50,A-4;3;si;70.62
+Alcalá de Henares;Cobeña;2.67;1.0;18747.0;1301.0;M-100,M-114;2;no;51.87
+Alcalá de Henares;Collado Villalba;2.86;1.14;70165.0;4111.0;A-2,A-6;2;si;61.44
+Alcalá de Henares;Colmenar Viejo;3.0;1.0;54944.0;2894.0;R-2,A-1,M-104;3;no;68.35
+Alcalá de Henares;Colmenarejo;2.5;1.0;65877.0;4422.0;A-2,A-6,M-505;3;si;53.63
+Alcalá de Henares;Corpa;3.0;1.0;14356.0;1176.0;M-300,M-204,M-233;3;no;43.95
+Alcalá de Henares;Coslada;3.02;1.52;21799.0;1619.0;M-300,A-2,Avenida de la Constitución;3;si;48.47
+Alcalá de Henares;Daganzo de Arriba;3.5;1.25;12620.0;1072.0;M-134,M-100,M-118;3;no;42.38
+Alcalá de Henares;El Boalo;3.0;1.0;73763.0;3875.0;R-2,M-104,M-607;3;no;68.53
+Alcalá de Henares;El Escorial;3.0;1.0;75198.0;4960.0;A-2,A-6,M-505;3;si;54.58
+Alcalá de Henares;El Molar;3.0;1.0;47348.0;2191.0;R-2,A-1;2;no;77.8
+Alcalá de Henares;Fuenlabrada;2.0;1.14;56824.0;2759.0;A-2,M-50;2;si;74.15
+Alcalá de Henares;Fuente el Saz de Jarama;4.0;2.0;26961.0;1830.0;M-100,M-103;2;no;53.04
+Alcalá de Henares;Fuentidueña de Tajo;2.33;1.0;57570.0;3252.0;M-220,M-220,A-3;3;si;63.73
+Alcalá de Henares;Galapagar;1.5;1.0;64205.0;4311.0;A-2,A-6,M-505;3;si;53.62
+Alcalá de Henares;Getafe;3.21;1.4;46489.0;2443.0;A-2,M-50,M-45;3;si;68.51
+Alcalá de Henares;Guadarrama;2.71;1.0;77263.0;4473.0;A-2,A-6;2;si;62.18
+Alcalá de Henares;Hoyo de Manzanares;2.56;1.11;67889.0;4246.0;A-2,A-6;2;si;57.56
+Alcalá de Henares;Las Rozas de Madrid;2.67;1.17;127699.0;6131.0;A-2,M-45,M-501;3;si;74.98
+Alcalá de Henares;Leganés;2.29;1.24;47496.0;2490.0;A-2,M-50,M-45;3;si;68.67
+Alcalá de Henares;Loeches;2.73;1.0;15214.0;1075.0;M-300;1;no;50.95
+Alcalá de Henares;Los Santos de la Humosa;3.0;1.0;15042.0;1121.0;A-2,M-226;2;si;48.31
+Alcalá de Henares;Madrid;25.5;12.04;32789.0;2328.0;M-300,A-2;2;si;50.7
+Alcalá de Henares;Majadahonda;2.55;1.0;49808.0;3478.0;M-300,A-2,A-6;3;si;51.56
+Alcalá de Henares;Meco;2.76;1.12;10275.0;1135.0;Avenida de Meco,Carretera de Meco,M-121;3;no;32.59
+Alcalá de Henares;Mejorada del Campo;2.27;1.27;17044.0;1219.0;M-300,M-203;2;no;50.34
+Alcalá de Henares;Miraflores de la Sierra;3.0;1.0;72660.0;3504.0;R-2,A-1,M-608;3;no;74.65
+Alcalá de Henares;Móstoles;3.63;1.6;53372.0;3240.0;A-2,M-40,R-5;3;si;59.3
+Alcalá de Henares;Navalcarnero;1.5;1.0;74554.0;3267.0;A-2,M-45,A-5;3;si;82.15
+Alcalá de Henares;Navas del Rey;3.0;1.0;96619.0;4301.0;A-2,M-45,M-501;3;si;80.87
+Alcalá de Henares;Paracuellos de Jarama;2.33;1.0;20919.0;1550.0;M-100,M-113;2;no;48.59
+Alcalá de Henares;Parla;2.5;1.0;54555.0;2681.0;A-2,M-50;2;si;73.26
+Alcalá de Henares;Perales de Tajuña;3.0;1.0;33239.0;2366.0;M-220,M-220;2;no;50.57
+Alcalá de Henares;Pezuela de las Torres;3.0;1.0;21896.0;1622.0;M-204,M-233,M-225;3;no;48.6
+Alcalá de Henares;Pinto;3.2;1.3;47971.0;2392.0;A-2,M-50;2;si;72.2
+Alcalá de Henares;Pozuelo de Alarcón;2.65;1.0;44117.0;3321.0;M-300,A-2,M-503;3;si;47.82
+Alcalá de Henares;Rivas-Vaciamadrid;2.93;1.17;35875.0;1879.0;M-300,A-2,M-50;3;si;68.73
+Alcalá de Henares;San Fernando de Henares;2.86;1.14;20056.0;1375.0;M-300,A-2;2;si;52.51
+Alcalá de Henares;San Lorenzo de El Escorial;2.5;1.0;86306.0;4952.0;A-2,A-6,M-600;3;si;62.74
+Alcalá de Henares;San Martín de la Vega;3.0;1.0;44280.0;2930.0;M-300,M-506;2;no;54.41
+Alcalá de Henares;San Sebastián de los Reyes;2.73;1.31;31040.0;1844.0;M-100,R-2,M-50;3;si;60.6
+Alcalá de Henares;Sevilla la Nueva;0.0;1.0;78953.0;3747.0;A-2,M-45,M-501;3;si;75.86
+Alcalá de Henares;Soto del Real;3.0;1.0;65369.0;3383.0;R-2,A-1,M-104;3;no;69.56
+Alcalá de Henares;Talamanca de Jarama;2.67;1.0;40502.0;2576.0;M-100,M-103;2;no;56.6
+Alcalá de Henares;Tielmes;2.0;1.0;31878.0;2301.0;M-220,M-224;2;no;49.87
+Alcalá de Henares;Torrejón de Ardoz;6.92;3.33;13635.0;1088.0;M-300,A-2;2;si;45.12
+Alcalá de Henares;Torrelodones;3.5;1.0;58788.0;3624.0;A-2,A-6;2;si;58.4
+Alcalá de Henares;Torres de la Alameda;2.0;1.0;10961.0;916.0;M-300,M-220;2;no;43.08
+Alcalá de Henares;Tres Cantos;3.0;1.0;47812.0;2611.0;R-2,M-40,M-607;3;si;65.92
+Alcalá de Henares;Valdemoro;3.75;1.6;53499.0;2562.0;A-2,M-50,A-4;3;si;75.17
+Alcalá de Henares;Valdilecha;2.0;1.0;25501.0;1866.0;M-220,M-224;2;no;49.2
+Alcalá de Henares;Velilla de San Antonio;2.12;1.0;21944.0;1548.0;M-300,M-203;2;no;51.03
+Alcalá de Henares;Villalbilla;2.5;1.0;9914.0;873.0;M-300,M-204;2;no;40.88
+Alcalá de Henares;Villanueva de la Cañada;3.0;1.0;67574.0;4200.0;A-2,M-40,M-503;3;si;57.92
+Alcalá de Henares;Villarejo de Salvanés;1.8;1.0;42953.0;3050.0;M-220,M-224,M-228;3;no;50.7
+Alcobendas;Alameda del Valle;4.0;1.0;77629.0;3682.0;A-1,M-604;2;no;75.9
+Alcobendas;Alcalá de Henares;2.74;1.15;31800.0;2102.0;M-50,R-2,Avenida de Daganzo;3;si;54.46
+Alcobendas;Alcorcón;2.32;1.21;35523.0;2188.0;A-1,M-30,M-40;3;si;58.45
+Alcobendas;Algete;2.0;1.0;15614.0;1290.0;Antigua Carretera de Burgos,M-100,M-106;3;no;43.57
+Alcobendas;Aranjuez;2.5;1.2;64105.0;3542.0;M-30,A-4;2;no;65.15
+Alcobendas;Arganda del Rey;3.0;1.0;42413.0;2500.0;M-30,A-3;2;si;61.07
+Alcobendas;Arroyomolinos;2.33;1.0;49380.0;2742.0;A-1,M-30,R-5;3;no;64.83
+Alcobendas;Berzosa del Lozoya;3.0;1.0;77238.0;3817.0;A-1,M-127;2;no;72.85
+Alcobendas;Boadilla del Monte;2.83;1.0;31240.0;2233.0;M-40,M-513;2;si;50.36
+Alcobendas;Brunete;3.0;1.0;41394.0;2838.0;M-40,M-513;2;si;52.51
+Alcobendas;Buitrago del Lozoya;2.75;1.2;61523.0;2678.0;A-1;1;no;82.7
+Alcobendas;Chinchón;3.0;1.0;59337.0;3399.0;M-30,A-3,M-311;3;si;62.85
+Alcobendas;Collado Villalba;2.57;1.0;49006.0;2748.0;M-40,A-6;2;si;64.2
+Alcobendas;Colmenar Viejo;2.33;1.0;21198.0;1327.0;M-616,M-607;2;no;57.51
+Alcobendas;Coslada;2.52;1.05;20161.0;1475.0;M-12,M-40,M-201;3;si;49.21
+Alcobendas;Daganzo de Arriba;2.0;1.0;22058.0;1620.0;M-50,M-113;2;si;49.02
+Alcobendas;El Boalo;3.0;1.0;40632.0;2299.0;M-607;1;no;63.63
+Alcobendas;El Escorial;3.0;1.0;54039.0;3597.0;M-40,M-505;2;si;54.08
+Alcobendas;El Molar;2.73;1.13;28737.0;1444.0;A-1;1;no;71.64
+Alcobendas;El Álamo;3.0;1.0;60114.0;3110.0;A-1,M-30,R-5;3;no;69.59
+Alcobendas;Fuenlabrada;2.0;1.0;43285.0;2571.0;A-1,M-30,A-42;3;si;60.61
+Alcobendas;Fuentidueña de Tajo;3.0;1.0;77228.0;3590.0;A-3;1;si;77.44
+Alcobendas;Galapagar;3.0;1.0;43241.0;2935.0;M-40,A-6,M-505;3;si;53.04
+Alcobendas;Getafe;2.86;1.0;34299.0;2135.0;M-30,A-42;2;si;57.83
+Alcobendas;Guadalix de la Sierra;2.0;1.0;45167.0;2101.0;A-1;1;no;77.39
+Alcobendas;Guadarrama;2.0;1.0;56104.0;3110.0;M-40,A-6;2;si;64.94
+Alcobendas;La Cabrera;2.5;1.0;45845.0;2157.0;A-1;1;no;76.51
+Alcobendas;Las Rozas de Madrid;2.52;1.1;103229.0;5319.0;M-40,M-501;2;si;69.87
+Alcobendas;Lozoya;3.0;1.0;71034.0;3277.0;A-1;1;no;78.04
+Alcobendas;Lozoyuela-Navas-Sieteiglesias;3.0;1.0;53371.0;2349.0;A-1;1;no;81.79
+Alcobendas;Madrid;8.7;3.97;18260.0;1564.0;A-1,M-30,Calle de Alcalá;3;no;42.03
+Alcobendas;Mejorada del Campo;3.0;1.0;34038.0;1982.0;A-1,M-30,R-3;3;no;61.82
+Alcobendas;Móstoles;2.26;1.05;40360.0;2513.0;A-1,M-30,R-5;3;no;57.82
+Alcobendas;Navalcarnero;2.27;1.0;54541.0;2850.0;M-30,M-40,A-5;3;si;68.89
+Alcobendas;Paracuellos de Jarama;2.4;1.0;19035.0;1295.0;M-50,M-113;2;si;52.92
+Alcobendas;Parla;3.25;1.0;42615.0;2502.0;M-30,A-42;2;si;61.32
+Alcobendas;Pinto;2.8;1.0;37634.0;2253.0;M-30,A-4;2;no;60.13
+Alcobendas;Pozuelo de Alarcón;1.75;1.0;24447.0;2002.0;A-1,M-40;2;si;43.96
+Alcobendas;Rivas-Vaciamadrid;2.2;1.0;34068.0;2008.0;M-30,A-3;2;si;61.08
+Alcobendas;San Lorenzo de El Escorial;3.0;1.0;65147.0;3589.0;M-40,A-6,M-600;3;si;65.35
+Alcobendas;San Sebastián de los Reyes;3.24;1.36;2381.0;317.0;Calle de Ruperto Chapí,Avenida de España,Avenida de la Sierra;3;no;27.04
+Alcobendas;Somosierra;3.0;1.0;78156.0;3217.0;A-1;1;no;87.46
+Alcobendas;Soto del Real;3.0;1.0;32238.0;1807.0;M-616,M-607,M-609;3;no;64.23
+Alcobendas;Talamanca de Jarama;3.0;1.0;30875.0;2021.0;Antigua Carretera de Burgos,M-111,M-103;3;no;55.0
+Alcobendas;Torrejón de Ardoz;2.17;1.0;26834.0;1679.0;M-50,M-108;2;si;57.54
+Alcobendas;Torrelaguna;3.0;1.0;45446.0;2226.0;A-1;1;no;73.5
+Alcobendas;Torrelodones;2.5;1.5;37629.0;2261.0;M-40,A-6;2;si;59.91
+Alcobendas;Tres Cantos;1.6;1.1;12616.0;930.0;M-616,M-607;2;no;48.84
+Alcobendas;Valdemorillo;3.0;1.0;49455.0;3011.0;M-40,M-503;2;si;59.13
+Alcobendas;Valdemoro;2.38;1.0;43158.0;2499.0;M-30,A-4;2;no;62.17
+Alcobendas;Velilla de San Antonio;1.0;1.0;33820.0;1952.0;A-1,M-30,R-3;3;no;62.37
+Alcobendas;Venturada;2.5;1.0;38259.0;1790.0;A-1;1;no;76.95
+Alcobendas;Villanueva de la Cañada;2.0;1.0;45176.0;2795.0;M-40,M-503;2;si;58.19
+Alcorcón;Alcalá de Henares;2.62;1.15;48306.0;2920.0;M-40,A-2;2;si;59.56
+Alcorcón;Alcobendas;2.62;1.14;37450.0;2073.0;M-40,M-30,A-1;3;si;65.04
+Alcorcón;Algete;2.0;1.0;51683.0;2630.0;M-40,M-30,A-1;3;si;70.74
+Alcorcón;Aranjuez;2.94;1.11;50314.0;2558.0;M-45,A-4,M-305;3;no;70.81
+Alcorcón;Arganda del Rey;2.82;1.0;42194.0;2141.0;M-45,A-3;2;si;70.95
+Alcorcón;Arroyomolinos;4.25;1.38;17568.0;958.0;A-5,M-413;2;si;66.02
+Alcorcón;Boadilla del Monte;2.92;1.23;12036.0;824.0;A-5,M-50;2;si;52.58
+Alcorcón;Brunete;3.0;1.0;20563.0;1185.0;A-5,M-506,M-501;3;si;62.47
+Alcorcón;Buitrago del Lozoya;3.0;1.0;95355.0;4070.0;M-30,A-1;2;no;84.34
+Alcorcón;Collado Villalba;2.88;1.12;43975.0;1983.0;M-50,A-6;2;si;79.83
+Alcorcón;Colmenar Viejo;3.0;1.25;46614.0;2911.0;A-5,M-30,M-607;3;si;57.65
+Alcorcón;Coslada;3.4;1.2;28247.0;1719.0;M-40;1;si;59.16
+Alcorcón;El Álamo;3.0;1.0;26287.0;1263.0;A-5;1;si;74.93
+Alcorcón;Fresnedillas de la Oliva;2.0;1.0;45074.0;2675.0;M-506,M-501,M-521;3;no;60.66
+Alcorcón;Fuenlabrada;3.31;1.47;10956.0;855.0;Avenida de Móstoles,M-506;2;no;46.13
+Alcorcón;Galapagar;3.0;1.0;36688.0;2063.0;M-50,M-505;2;si;64.02
+Alcorcón;Getafe;3.51;1.46;14984.0;946.0;E-90,M-40,M-45;3;si;57.02
+Alcorcón;Guadarrama;2.0;1.0;51073.0;2346.0;M-50,A-6;2;si;78.37
+Alcorcón;Hoyo de Manzanares;3.0;1.0;41821.0;2117.0;M-50,A-6;2;si;71.12
+Alcorcón;La Cabrera;2.33;1.0;79677.0;3548.0;M-30,A-1;2;no;80.84
+Alcorcón;Las Rozas de Madrid;2.71;1.14;75808.0;3775.0;M-501;1;no;72.29
+Alcorcón;Leganés;2.43;1.16;7649.0;975.0;Avenida de Leganés,M-406,Avenida de la Universidad;3;no;28.24
+Alcorcón;Madrid;6.26;3.06;15205.0;1332.0;A-5,Avenida de Portugal;2;si;41.09
+Alcorcón;Majadahonda;2.5;1.14;22185.0;1221.0;A-5,M-50;2;si;65.41
+Alcorcón;Móstoles;4.24;1.84;5140.0;630.0;Avenida de Móstoles,Avenida de Portugal,Avenida de la Constitución;3;no;29.37
+Alcorcón;Navalcarnero;4.15;1.48;20835.0;968.0;A-5;1;si;77.49
+Alcorcón;Navas del Rey;3.0;1.0;42900.0;2002.0;M-501;1;no;77.14
+Alcorcón;Parla;3.0;1.0;19672.0;1310.0;Avenida de Móstoles,M-50,A-42;3;si;54.06
+Alcorcón;Perales de Tajuña;3.0;1.0;53480.0;2419.0;M-45,A-3;2;si;79.59
+Alcorcón;Pinto;3.12;1.12;23843.0;1268.0;E-90,M-45,A-4;3;no;67.69
+Alcorcón;Pozuelo de Alarcón;1.5;1.75;17268.0;1042.0;E-90,M-40;2;si;59.66
+Alcorcón;Rivas-Vaciamadrid;2.0;1.08;33849.0;1650.0;M-45,A-3;2;si;73.85
+Alcorcón;San Fernando de Henares;2.5;1.0;33576.0;1821.0;M-45;1;no;66.38
+Alcorcón;San Lorenzo de El Escorial;4.0;1.0;51556.0;3002.0;M-50,M-503,M-600;3;si;61.83
+Alcorcón;San Martín de Valdeiglesias;3.0;1.0;61322.0;3030.0;M-501;1;no;72.86
+Alcorcón;San Martín de la Vega;3.0;1.0;36028.0;1925.0;M-45,M-301;2;no;67.38
+Alcorcón;San Sebastián de los Reyes;2.62;1.08;38099.0;2147.0;M-40,M-30,A-1;3;si;63.88
+Alcorcón;Somosierra;3.0;1.0;111988.0;4608.0;A-1;1;no;87.49
+Alcorcón;Torrejón de Ardoz;1.33;1.0;41538.0;2021.0;M-45,M-50;2;si;73.99
+Alcorcón;Torrelodones;2.75;1.0;32598.0;1496.0;A-5,M-50;2;si;78.44
+Alcorcón;Tres Cantos;2.4;1.0;38032.0;2514.0;A-5,M-30,M-607;3;si;54.46
+Alcorcón;Valdemorillo;0.0;1.0;38236.0;2069.0;M-50,M-503,M-600;3;si;66.53
+Alcorcón;Valdemoro;3.3;1.1;29367.0;1515.0;M-45,A-4;2;no;69.78
+Alcorcón;Villanueva de la Cañada;2.62;1.08;25374.0;1642.0;M-506,M-501,M-600;3;no;55.63
+Alcorcón;Villarejo de Salvanés;3.0;1.0;64671.0;2796.0;M-45,A-3;2;si;83.27
+Alcorcón;Villaviciosa de Odón;2.56;1.19;9247.0;699.0;A-5,M-506,Avenida Príncipe de Asturias;3;si;47.62
+Aldea del Fresno;Madrid;4.0;1.0;52964.0;3143.0;M-507,A-5;2;si;60.67
+Aldea del Fresno;Navalcarnero;3.5;1.0;17996.0;1340.0;M-507;1;no;48.35
+Aldea del Fresno;Villamanta;4.0;1.0;8683.0;555.0;M-507;1;no;56.32
+Algete;Ajalvir;3.0;1.0;9336.0;698.0;M-103,M-118,M-114;3;no;48.15
+Algete;Alcalá de Henares;2.2;1.1;23608.0;1663.0;M-103,M-100,Avenida de Daganzo;3;no;51.11
+Algete;Alcobendas;2.5;1.0;15080.0;1219.0;M-106,M-100,Antigua Carretera de Burgos;3;no;44.53
+Algete;Alcorcón;2.0;1.0;49988.0;2753.0;A-1,M-30,M-40;3;si;65.37
+Algete;Aranjuez;2.33;1.0;82691.0;3710.0;M-50,A-4;2;si;80.24
+Algete;Brunete;3.0;1.0;55859.0;3404.0;A-1,M-40,M-513;3;si;59.08
+Algete;Buitrago del Lozoya;2.0;1.0;59187.0;2444.0;A-1;1;no;87.18
+Algete;Bustarviejo;3.0;1.0;48179.0;2406.0;A-1,M-631;2;no;72.09
+Algete;Collado Villalba;2.0;1.0;63471.0;3314.0;A-1,M-40,A-6;3;si;68.95
+Algete;Coslada;3.0;1.0;31223.0;1717.0;M-106,M-111,M-50;3;si;65.46
+Algete;El Molar;3.0;1.0;26401.0;1209.0;M-106,A-1;2;no;78.61
+Algete;Fuenlabrada;0.0;1.0;57750.0;3136.0;A-1,M-30,A-42;3;si;66.29
+Algete;Getafe;3.0;1.0;48764.0;2701.0;A-1,M-30,A-42;3;si;64.99
+Algete;Guadalix de la Sierra;0.0;1.0;41997.0;1910.0;A-1,M-608;2;no;79.16
+Algete;Las Rozas de Madrid;2.0;1.0;117694.0;5884.0;M-40,M-501;2;si;72.01
+Algete;Lozoyuela-Navas-Sieteiglesias;2.0;1.0;51035.0;2114.0;A-1;1;no;86.91
+Algete;Madrid;3.12;1.19;32725.0;2129.0;M-106,A-1,M-30;3;no;55.34
+Algete;Paracuellos de Jarama;2.0;1.0;16087.0;1090.0;M-106,M-111;2;no;53.13
+Algete;Parla;3.0;1.0;62800.0;2786.0;M-50;1;si;81.15
+Algete;Rivas-Vaciamadrid;3.0;1.0;44120.0;1984.0;M-111,M-50;2;si;80.06
+Algete;San Sebastián de los Reyes;2.92;1.23;13332.0;990.0;M-106,M-100,Antigua Carretera de Burgos;3;no;48.48
+Algete;Sevilla la Nueva;3.0;1.0;67120.0;3557.0;A-1,M-40,M-501;3;si;67.93
+Algete;Somosierra;0.0;1.0;75820.0;2982.0;A-1;1;no;91.53
+Algete;Talamanca de Jarama;3.0;1.0;18398.0;1210.0;M-103;1;no;54.74
+Algete;Torrejón de Ardoz;3.0;1.0;20945.0;1427.0;M-103,M-100,M-108;3;no;52.84
+Algete;Torrelodones;2.0;1.0;52094.0;2827.0;A-1,M-40,A-6;3;si;66.34
+Algete;Valdemoro;2.0;1.0;61744.0;2667.0;M-50,A-4;2;si;83.34
+Alpedrete;Aranjuez;1.0;1.0;90281.0;3910.0;A-6,M-50,A-4;3;si;83.12
+Alpedrete;Arganda del Rey;3.0;1.0;74031.0;3748.0;A-6,M-30,A-3;3;si;71.11
+Alpedrete;Ciempozuelos;3.0;1.0;77158.0;3431.0;A-6,M-50;2;si;80.96
+Alpedrete;Collado Villalba;2.25;1.0;4955.0;435.0;M-619,M-601,Calle Real;3;no;41.01
+Alpedrete;El Molar;3.0;1.0;51882.0;3105.0;M-608,M-607,M-104;3;no;60.15
+Alpedrete;Guadarrama;2.5;1.0;7010.0;645.0;M-619,N-VI;2;no;39.13
+Alpedrete;Madrid;3.0;1.22;43009.0;2368.0;A-6;1;no;65.39
+Alpedrete;Majadahonda;2.5;1.0;29097.0;1529.0;A-6,M-50;2;si;68.51
+Alpedrete;Móstoles;2.0;1.0;46754.0;2128.0;A-6,M-50;2;si;79.1
+Alpedrete;Torrelodones;3.0;1.0;14458.0;780.0;M-601,A-6;2;no;66.73
+Alpedrete;Villarejo de Salvanés;3.0;1.0;96508.0;4403.0;A-6,A-3;2;si;78.91
+Ambite;Campo Real;3.0;1.0;19792.0;1277.0;M-204,M-209;2;no;55.8
+Ambite;Madrid;3.0;1.0;54905.0;3153.0;M-209,M-209,R-3;3;no;62.69
+Anchuelo;Madrid;4.0;2.0;42226.0;2817.0;M-300,A-2;2;si;53.96
+Aranjuez;Alameda del Valle;4.0;1.0;137939.0;6556.0;A-4,A-1,M-604;3;no;75.74
+Aranjuez;Alcalá de Henares;3.06;1.26;73925.0;3714.0;M-305,A-4,M-50;3;si;71.66
+Aranjuez;Alcobendas;3.4;1.2;63928.0;3556.0;M-305,A-4,M-30;3;no;64.72
+Aranjuez;Alcorcón;3.06;1.12;49574.0;2652.0;A-4,M-50;2;si;67.3
+Aranjuez;Algete;2.25;1.0;78650.0;3833.0;A-4,M-50;2;si;73.87
+Aranjuez;Arganda del Rey;2.1;1.0;46729.0;3144.0;M-305,M-311,M-313;3;no;53.51
+Aranjuez;Becerril de la Sierra;3.0;1.0;97743.0;4627.0;A-4,M-50,A-6;3;si;76.05
+Aranjuez;Buitrago del Lozoya;4.5;1.5;121833.0;5553.0;A-4,A-1;2;no;78.98
+Aranjuez;Cercedilla;2.5;1.0;104181.0;4958.0;A-4,M-50,A-6;3;si;75.65
+Aranjuez;Chapinería;3.0;1.0;84789.0;3934.0;A-4,M-50,M-501;3;si;77.59
+Aranjuez;Ciempozuelos;3.0;1.12;18755.0;1414.0;M-305,M-307;2;no;47.75
+Aranjuez;Collado Villalba;2.83;1.17;88924.0;4021.0;A-4,M-50,A-6;3;si;79.61
+Aranjuez;Colmenar Viejo;3.0;1.0;80486.0;4300.0;A-4,M-30,M-607;3;no;67.38
+Aranjuez;Colmenar de Oreja;2.67;1.0;22573.0;1443.0;M-305,M-318;2;no;56.32
+Aranjuez;Coslada;2.5;1.0;54485.0;2941.0;A-4,M-45;2;no;66.69
+Aranjuez;Cubas de la Sagra;1.0;1.0;39384.0;2031.0;R-4,M-404;2;no;69.81
+Aranjuez;El Boalo;2.0;1.0;100840.0;5171.0;A-4,M-50,A-6;3;si;70.2
+Aranjuez;El Escorial;3.0;1.0;92630.0;4749.0;A-4,M-50,M-505;3;si;70.22
+Aranjuez;Fuenlabrada;3.23;1.16;38699.0;2269.0;M-305,A-4,M-506;3;no;61.4
+Aranjuez;Galapagar;2.0;1.0;81637.0;4100.0;A-4,M-50,M-505;3;si;71.68
+Aranjuez;Getafe;3.5;1.35;37682.0;2148.0;M-305,A-4,M-506;3;no;63.15
+Aranjuez;Guadarrama;3.0;1.0;96022.0;4383.0;A-4,M-50,A-6;3;si;78.87
+Aranjuez;Las Rozas de Madrid;2.58;1.0;120766.0;5821.0;A-4,M-50,M-501;3;si;74.69
+Aranjuez;Leganés;2.84;1.08;40852.0;2404.0;M-305,A-4,M-506;3;no;61.18
+Aranjuez;Madrid;6.73;2.92;48202.0;3035.0;M-305,A-4;2;no;57.18
+Aranjuez;Majadahonda;1.33;1.0;67134.0;3258.0;A-4,M-50;2;si;74.18
+Aranjuez;Mejorada del Campo;3.0;1.0;53947.0;2706.0;A-4,M-50;2;si;71.77
+Aranjuez;Moralzarzal;3.0;1.0;95575.0;4520.0;A-4,M-50,A-6;3;si;76.12
+Aranjuez;Móstoles;2.43;1.14;48791.0;2632.0;A-4,M-50;2;si;66.74
+Aranjuez;Navalcarnero;2.33;1.0;60954.0;3164.0;R-4,M-404,R-5;3;no;69.35
+Aranjuez;Paracuellos de Jarama;3.0;1.0;70555.0;3277.0;A-4,M-50;2;si;77.51
+Aranjuez;Parla;2.57;1.0;34639.0;2195.0;M-305,A-4;2;no;56.81
+Aranjuez;Pinto;2.94;1.34;27971.0;1599.0;M-305,A-4;2;no;62.97
+Aranjuez;Pozuelo de Alarcón;3.0;1.0;60467.0;3199.0;M-305,A-4,M-40;3;si;68.05
+Aranjuez;Rivas-Vaciamadrid;2.5;1.0;51290.0;2529.0;M-305,A-4,M-50;3;si;73.01
+Aranjuez;San Martín de la Vega;1.5;1.0;23919.0;1632.0;M-305,M-307;2;no;52.76
+Aranjuez;San Sebastián de los Reyes;2.83;1.17;64577.0;3630.0;M-305,A-4,M-30;3;no;64.04
+Aranjuez;Sevilla la Nueva;2.0;1.0;70192.0;3493.0;M-305,A-4,M-50;3;si;72.34
+Aranjuez;Soto del Real;3.0;1.0;91526.0;4780.0;A-4,M-30,M-607;3;no;68.93
+Aranjuez;Torrejón de Ardoz;2.48;1.17;60237.0;3077.0;A-4,M-50;2;si;70.48
+Aranjuez;Torrelaguna;3.0;1.0;105756.0;5100.0;A-4,A-1;2;no;74.65
+Aranjuez;Tres Cantos;2.5;1.0;71904.0;3903.0;M-305,A-4,M-30;3;no;66.32
+Aranjuez;Valdemoro;4.1;1.81;22297.0;1360.0;M-305,A-4;2;no;59.02
+Aranjuez;Velilla de San Antonio;3.0;1.0;55785.0;2728.0;A-4,M-50;2;si;73.62
+Aranjuez;Villamanrique de Tajo;3.0;1.0;38814.0;2411.0;M-318,M-325;2;no;57.96
+Aranjuez;Villaviciosa de Odón;3.5;1.0;54205.0;2745.0;A-4,M-50;2;si;71.09
+Aranjuez;Zarzalejo;3.0;1.0;96885.0;5004.0;A-4,M-50,M-503;3;si;69.7
+Arganda del Rey;Ajalvir;1.5;1.0;35911.0;1735.0;R-3,M-50;2;si;74.51
+Arganda del Rey;Alcalá de Henares;2.15;1.09;26199.0;1875.0;M-300;1;no;50.3
+Arganda del Rey;Alcobendas;2.0;1.0;42320.0;2445.0;A-3,M-30;2;si;62.31
+Arganda del Rey;Alcorcón;1.85;1.0;43438.0;2148.0;A-3,M-50,M-45;3;si;72.8
+Arganda del Rey;Aranjuez;2.56;1.06;46889.0;3176.0;M-313,M-311,M-305;3;no;53.15
+Arganda del Rey;Arroyomolinos;4.0;1.0;56491.0;2573.0;A-3,M-50;2;si;79.04
+Arganda del Rey;Boadilla del Monte;2.67;1.0;49802.0;2444.0;A-3,M-45,M-40;3;si;73.36
+Arganda del Rey;Buitrago del Lozoya;0.0;1.0;96220.0;3856.0;M-50,A-1;2;si;89.83
+Arganda del Rey;Campo Real;2.6;1.0;9244.0;797.0;Paseo de la Ilusión,M-209;2;no;41.75
+Arganda del Rey;Chinchón;2.0;1.0;27868.0;1572.0;Carretera de Valencia,A-3,M-317;3;si;63.82
+Arganda del Rey;Ciempozuelos;3.93;1.36;31528.0;2244.0;A-3,M-506,M-307;3;si;50.58
+Arganda del Rey;Colmenar Viejo;2.0;1.0;58878.0;3189.0;A-3,M-30,M-607;3;si;66.47
+Arganda del Rey;Colmenar de Oreja;4.5;1.5;36167.0;1964.0;A-3,M-404,M-311;3;si;66.29
+Arganda del Rey;Coslada;3.0;1.33;24858.0;1578.0;R-3;1;no;56.71
+Arganda del Rey;Daganzo de Arriba;1.0;1.0;38102.0;1993.0;R-3,M-50;2;si;68.82
+Arganda del Rey;Fuenlabrada;2.38;1.0;42624.0;2107.0;A-3,M-50;2;si;72.83
+Arganda del Rey;Fuentidueña de Tajo;2.23;1.0;36310.0;1694.0;A-3;1;si;77.16
+Arganda del Rey;Gargantilla del Lozoya y Pinilla de Buitrago;3.0;1.0;101528.0;4256.0;M-50,A-1;2;si;85.88
+Arganda del Rey;Getafe;2.77;1.31;37867.0;1798.0;A-3,M-50;2;si;75.82
+Arganda del Rey;Las Rozas de Madrid;3.0;1.0;119234.0;5474.0;M-50,M-501;2;si;78.41
+Arganda del Rey;Leganés;2.75;1.17;35398.0;2034.0;A-3,M-50,M-45;3;si;62.65
+Arganda del Rey;Loeches;3.0;1.0;11311.0;850.0;M-300;1;no;47.91
+Arganda del Rey;Madrid;4.95;2.41;29047.0;1823.0;A-3;1;si;57.36
+Arganda del Rey;Mejorada del Campo;2.67;1.0;14012.0;948.0;Paseo de la Ilusión,R-3;2;no;53.21
+Arganda del Rey;Morata de Tajuña;3.0;1.0;10830.0;894.0;Carretera de Morata de Tajuña,M-313;2;no;43.61
+Arganda del Rey;Móstoles;2.27;1.0;47259.0;2286.0;A-3,M-50;2;si;74.42
+Arganda del Rey;Parla;2.0;1.0;40355.0;2029.0;A-3,M-50;2;si;71.6
+Arganda del Rey;Perales de Tajuña;2.2;1.0;12149.0;887.0;Calle Real,Avenida de Valencia,Carretera de Valencia;3;no;49.31
+Arganda del Rey;Pinto;3.0;1.0;33775.0;1663.0;A-3,M-50;2;si;73.11
+Arganda del Rey;Pozuelo de Alarcón;2.75;1.0;44896.0;2697.0;A-3,M-30;2;si;59.93
+Arganda del Rey;Rivas-Vaciamadrid;3.0;1.23;9802.0;691.0;AR-30,A-3;2;si;51.07
+Arganda del Rey;San Martín de la Vega;3.75;1.25;22786.0;1538.0;A-3,M-832,M-506;3;si;53.34
+Arganda del Rey;San Sebastián de los Reyes;2.33;1.17;47126.0;2274.0;R-3,M-50;2;si;74.61
+Arganda del Rey;Tielmes;2.0;1.0;16410.0;1168.0;Carretera de Valencia,Carretera Nacional III,M-204;3;no;50.58
+Arganda del Rey;Torrejón de Ardoz;2.65;1.2;26212.0;1608.0;R-3,M-50;2;si;58.68
+Arganda del Rey;Torrelodones;4.0;1.0;61224.0;3147.0;A-3,A-6;2;si;70.04
+Arganda del Rey;Tres Cantos;1.5;1.0;50296.0;2792.0;A-3,M-30,M-607;3;si;64.85
+Arganda del Rey;Valdelaguna;3.0;1.0;23013.0;1337.0;Carretera de Valencia,A-3,M-317;3;si;61.96
+Arganda del Rey;Valdemoro;2.5;1.0;39299.0;1910.0;A-3,M-50,A-4;3;si;74.07
+Arganda del Rey;Velilla de San Antonio;2.5;1.0;10200.0;908.0;Carretera de Loeches,Avenida de Valdearganda,M-208;3;no;40.44
+Arganda del Rey;Villar del Olmo;3.0;1.0;23247.0;1577.0;M-209,M-209;2;no;53.07
+Arganda del Rey;Villarejo de Salvanés;3.0;1.2;23972.0;1259.0;Carretera de Valencia,A-3;2;si;68.55
+Arganda del Rey;Villaviciosa de Odón;3.5;1.67;52673.0;2398.0;A-3,M-50;2;si;79.08
+Arroyomolinos;Alcalá de Henares;2.33;1.0;61710.0;3440.0;R-5,M-40,A-2;3;si;64.58
+Arroyomolinos;Alcobendas;2.67;1.0;50980.0;2616.0;R-5,M-30,A-1;3;no;70.16
+Arroyomolinos;Alcorcón;3.7;1.2;16597.0;965.0;A-5;1;si;61.92
+Arroyomolinos;Arganda del Rey;2.5;1.0;55071.0;2492.0;R-5,M-50;2;si;79.56
+Arroyomolinos;Boadilla del Monte;2.0;1.0;21869.0;1229.0;A-5,M-50;2;si;64.06
+Arroyomolinos;Buitrago del Lozoya;3.0;1.0;108885.0;4612.0;R-5,A-1;2;no;84.99
+Arroyomolinos;Ciempozuelos;1.0;1.0;33390.0;2238.0;M-410,M-404;2;no;53.71
+Arroyomolinos;Collado Villalba;2.0;1.0;53808.0;2388.0;A-5,M-50,A-6;3;si;81.12
+Arroyomolinos;Fuenlabrada;3.0;1.0;16088.0;1033.0;M-413,R-5,M-506;3;no;56.07
+Arroyomolinos;Getafe;3.0;1.0;24653.0;1267.0;R-5,M-50;2;si;70.05
+Arroyomolinos;Humanes de Madrid;2.5;1.0;10595.0;735.0;M-413,M-410;2;no;51.89
+Arroyomolinos;Las Rozas de Madrid;1.67;1.0;62194.0;3938.0;M-507;1;no;56.86
+Arroyomolinos;Madrid;3.23;1.31;31873.0;1863.0;R-5,A-42;2;si;61.59
+Arroyomolinos;Majadahonda;2.0;1.0;32018.0;1626.0;A-5,M-50;2;si;70.89
+Arroyomolinos;Móstoles;2.87;1.13;12741.0;844.0;M-413,A-5;2;si;54.35
+Arroyomolinos;Navalcarnero;2.77;1.15;12259.0;725.0;M-413,A-5;2;si;60.87
+Arroyomolinos;Parla;2.0;1.0;18470.0;1151.0;M-410,A-42;2;si;57.77
+Arroyomolinos;Pinto;3.0;1.0;29464.0;1389.0;R-5,M-50;2;si;76.36
+Arroyomolinos;Rivas-Vaciamadrid;2.0;1.0;46726.0;2001.0;R-5,M-50;2;si;84.06
+Arroyomolinos;San Sebastián de los Reyes;2.5;1.0;51629.0;2690.0;R-5,M-30,A-1;3;no;69.09
+Arroyomolinos;Somosierra;3.0;1.0;125518.0;5150.0;R-5,A-1;2;no;87.74
+Arroyomolinos;Torrelodones;2.0;1.0;42431.0;1901.0;A-5,M-50;2;si;80.35
+Becerril de la Sierra;Collado Villalba;2.0;1.0;11572.0;907.0;M-623,M-601;2;no;45.93
+Becerril de la Sierra;Las Rozas de Madrid;2.0;1.0;79177.0;5616.0;M-600,M-512,M-501;3;no;50.75
+Becerril de la Sierra;Madrid;2.0;1.0;49626.0;2840.0;A-6;1;no;62.91
+Belmonte de Tajo;Arganda del Rey;3.0;1.0;27116.0;1572.0;M-317,A-3,Carretera de Valencia;3;si;62.1
+Berzosa del Lozoya;Alcobendas;2.5;1.0;76896.0;3776.0;M-127,A-1;2;no;73.31
+Berzosa del Lozoya;La Acebeda;2.0;1.0;25147.0;1557.0;M-127,M-137,M-978;3;no;58.14
+Berzosa del Lozoya;Pinto;3.0;1.0;111568.0;5444.0;M-127,A-1,A-4;3;no;73.78
+Berzosa del Lozoya;Valdemoro;2.0;1.0;117092.0;5690.0;M-127,A-1,A-4;3;no;74.08
+Boadilla del Monte;Alcobendas;2.75;1.0;31981.0;2357.0;M-513,M-40;2;si;48.85
+Boadilla del Monte;Alcorcón;3.09;1.18;12585.0;762.0;M-501,M-40,A-5;3;si;59.46
+Boadilla del Monte;Aranjuez;2.0;1.0;56277.0;2653.0;M-50,A-4;2;si;76.37
+Boadilla del Monte;Arganda del Rey;3.0;1.0;48510.0;2430.0;M-40,M-45,A-3;3;si;71.87
+Boadilla del Monte;Arroyomolinos;2.0;1.0;21800.0;1178.0;M-50,A-5;2;si;66.62
+Boadilla del Monte;Brunete;2.8;1.0;12185.0;890.0;M-513;1;no;49.29
+Boadilla del Monte;Cadalso de los Vidrios;3.0;1.0;63637.0;3263.0;M-501;1;no;70.21
+Boadilla del Monte;Chapinería;3.0;1.0;35020.0;1590.0;M-501;1;no;79.29
+Boadilla del Monte;Collado Villalba;2.38;1.0;33838.0;1580.0;M-50,A-6;2;si;77.1
+Boadilla del Monte;Coslada;2.0;1.0;34563.0;2008.0;M-40;1;si;61.97
+Boadilla del Monte;El Escorial;3.0;1.0;37544.0;2308.0;M-50,M-505;2;si;58.56
+Boadilla del Monte;Fuenlabrada;2.83;1.0;18067.0;1044.0;M-50,M-506;2;si;62.3
+Boadilla del Monte;Galapagar;1.5;1.0;26371.0;1638.0;M-50,M-505;2;si;57.96
+Boadilla del Monte;Getafe;2.71;1.0;21300.0;1235.0;M-501,M-40,M-45;3;si;62.09
+Boadilla del Monte;Guadarrama;2.0;1.0;40936.0;1942.0;M-50,A-6;2;si;75.89
+Boadilla del Monte;Hoyo de Manzanares;2.0;1.0;31684.0;1713.0;M-50,A-6;2;si;66.59
+Boadilla del Monte;Humanes de Madrid;4.5;1.5;21836.0;1356.0;M-50,M-506;2;si;57.97
+Boadilla del Monte;Las Rozas de Madrid;2.11;1.11;70997.0;3476.0;M-501;1;no;73.53
+Boadilla del Monte;Leganés;2.62;1.0;17730.0;1243.0;M-501,M-40,M-425;3;si;51.35
+Boadilla del Monte;Madrid;3.62;1.55;18282.0;1487.0;M-501,M-511,Avenida de Portugal;3;no;44.26
+Boadilla del Monte;Majadahonda;2.71;1.18;12048.0;817.0;M-50,M-509;2;si;53.09
+Boadilla del Monte;Móstoles;3.35;1.35;12750.0;871.0;M-50,M-506;2;si;52.7
+Boadilla del Monte;Navacerrada;0.0;1.0;44413.0;2192.0;M-50,A-6,M-601;3;si;72.94
+Boadilla del Monte;Navalcarnero;2.25;1.0;25067.0;1188.0;M-50,A-5;2;si;75.96
+Boadilla del Monte;Navas del Rey;3.0;1.0;38089.0;1703.0;M-501;1;no;80.52
+Boadilla del Monte;Parla;2.5;1.0;26295.0;1387.0;M-50;1;si;68.25
+Boadilla del Monte;Pelayos de la Presa;3.0;1.0;49544.0;2390.0;M-501;1;no;74.63
+Boadilla del Monte;Pozuelo de Alarcón;1.0;1.0;9080.0;864.0;M-513,Calle de Antonio Becerril;2;no;37.83
+Boadilla del Monte;Rivas-Vaciamadrid;2.0;1.0;40165.0;1938.0;M-40,M-45;2;si;74.61
+Boadilla del Monte;San Martín de Valdeiglesias;3.0;1.0;56511.0;2732.0;M-501;1;no;74.47
+Boadilla del Monte;Sevilla la Nueva;4.0;1.0;20423.0;1149.0;Carretera de Boadilla a Villaviciosa,M-501,Calle Sevillanos;3;no;63.99
+Boadilla del Monte;Torrelodones;2.6;1.0;22461.0;1093.0;M-50,A-6;2;si;73.98
+Boadilla del Monte;Valdemoro;2.6;1.0;35330.0;1610.0;M-50;1;si;79.0
+Boadilla del Monte;Villanueva de la Cañada;3.0;1.0;16827.0;1323.0;M-513,M-600;2;no;45.79
+Boadilla del Monte;Villanueva del Pardillo;2.0;1.0;16152.0;905.0;M-50,M-509;2;si;64.25
+Boadilla del Monte;Villaviciosa de Odón;3.06;1.06;8922.0;693.0;Carretera de Boadilla a Villaviciosa,M-501,Avenida Príncipe de Asturias;3;no;46.35
+Brea de Tajo;Leganés;1.0;1.0;72118.0;3675.0;M-221,M-204,A-3;3;si;70.65
+Brea de Tajo;Tielmes;1.0;1.0;19876.0;1158.0;M-221,M-204;2;no;61.79
+Brunete;Ajalvir;3.0;1.0;71559.0;3013.0;M-501,M-45,M-50;3;si;85.5
+Brunete;Alcalá de Henares;3.0;1.0;68628.0;3784.0;M-501,M-40,A-2;3;si;65.29
+Brunete;Alcorcón;2.5;1.0;20228.0;1175.0;M-600,M-501,M-506;3;no;61.98
+Brunete;Algete;3.0;1.0;56242.0;3520.0;M-513,M-40,A-1;3;si;57.52
+Brunete;Boadilla del Monte;3.0;1.0;11852.0;869.0;M-513;1;no;49.1
+Brunete;Cadalso de los Vidrios;3.33;1.0;48919.0;2584.0;M-501;1;no;68.15
+Brunete;Chapinería;3.0;1.0;20302.0;911.0;M-501;1;no;80.23
+Brunete;Collado Villalba;2.0;1.0;32040.0;2375.0;M-600,M-510;2;no;48.57
+Brunete;El Escorial;3.0;1.0;26404.0;1638.0;M-600;1;no;58.03
+Brunete;Fresnedillas de la Oliva;3.0;1.0;25545.0;1698.0;M-522,M-521,M-521;3;no;54.16
+Brunete;Fuenlabrada;3.0;1.0;25737.0;1400.0;M-501,M-506;2;no;66.18
+Brunete;Galapagar;3.0;1.0;24388.0;1812.0;M-600,M-510;2;no;48.45
+Brunete;Getafe;2.0;1.0;32868.0;1636.0;M-501,M-506,M-50;3;si;72.33
+Brunete;Las Rozas de Madrid;1.0;1.0;56279.0;2797.0;M-501;1;no;72.44
+Brunete;Leganés;3.0;1.0;28231.0;1641.0;M-501,M-506,M-50;3;si;61.93
+Brunete;Madrid;3.47;1.32;32288.0;2062.0;M-501,M-511,Avenida de Portugal;3;no;56.37
+Brunete;Majadahonda;1.33;1.0;20855.0;1323.0;M-513,M-50;2;si;56.75
+Brunete;Móstoles;3.4;1.2;16593.0;1038.0;M-501,M-506,M-856;3;no;57.55
+Brunete;Navalagamella;2.0;1.0;19814.0;1271.0;M-522,M-521;2;no;56.12
+Brunete;Navalcarnero;3.33;1.17;15468.0;1075.0;M-600;1;no;51.8
+Brunete;Navas del Rey;4.0;1.5;23371.0;1024.0;M-501;1;no;82.16
+Brunete;Parla;3.0;1.0;34168.0;1782.0;M-501,M-506,M-50;3;si;69.03
+Brunete;Pelayos de la Presa;3.0;1.0;34826.0;1711.0;M-501;1;no;73.28
+Brunete;Pinto;3.0;1.0;37679.0;1759.0;M-501,M-506,M-50;3;si;77.11
+Brunete;Quijorna;3.0;1.0;8836.0;530.0;M-501,M-522;2;no;60.02
+Brunete;San Lorenzo de El Escorial;2.0;1.0;28363.0;1964.0;M-600;1;no;51.99
+Brunete;San Martín de Valdeiglesias;4.71;1.57;41793.0;2053.0;M-501;1;no;73.29
+Brunete;Sevilla la Nueva;2.67;1.0;7866.0;537.0;Calle de Madrid,M-600,Calle Sevillanos;3;no;52.73
+Brunete;Torrejón de Ardoz;4.0;1.0;61860.0;2886.0;M-501,M-45;2;no;77.16
+Brunete;Valdemoro;3.0;1.0;43203.0;2005.0;M-501,M-50,A-4;3;si;77.57
+Brunete;Villanueva de la Cañada;2.75;1.0;5132.0;489.0;M-600;1;no;37.78
+Brunete;Villaviciosa de Odón;2.93;1.13;12841.0;715.0;M-501,M-506;2;no;64.65
+Buitrago del Lozoya;Alcalá de Henares;2.77;1.08;80033.0;3492.0;A-1,R-2;2;no;82.51
+Buitrago del Lozoya;Alcobendas;3.11;1.29;61055.0;2622.0;A-1;1;no;83.83
+Buitrago del Lozoya;Alcorcón;3.0;1.0;93616.0;4225.0;A-1,M-30;2;no;79.77
+Buitrago del Lozoya;Algete;2.0;1.0;59754.0;2534.0;A-1;1;no;84.89
+Buitrago del Lozoya;Aranjuez;1.0;1.0;122198.0;5580.0;A-1,A-4;2;no;78.84
+Buitrago del Lozoya;Arganda del Rey;0.5;1.0;97341.0;4042.0;A-1,M-50;2;si;86.7
+Buitrago del Lozoya;Arroyomolinos;3.0;1.0;107473.0;4780.0;A-1,R-5;2;no;80.94
+Buitrago del Lozoya;Cercedilla;3.0;1.0;66026.0;4256.0;M-604;1;no;55.85
+Buitrago del Lozoya;Collado Mediano;1.0;1.0;68670.0;3691.0;A-1,M-608;2;no;66.98
+Buitrago del Lozoya;Colmenar Viejo;4.0;1.5;53635.0;2748.0;A-1,M-608;2;no;70.26
+Buitrago del Lozoya;Coslada;2.14;1.0;75196.0;3308.0;A-1;1;no;81.83
+Buitrago del Lozoya;El Molar;3.22;1.22;32471.0;1405.0;A-1;1;no;83.2
+Buitrago del Lozoya;Fuenlabrada;1.0;1.0;101378.0;4609.0;A-1,A-42;2;si;79.18
+Buitrago del Lozoya;Getafe;3.0;1.0;92392.0;4173.0;A-1;1;no;79.71
+Buitrago del Lozoya;Guadalix de la Sierra;2.4;1.0;31792.0;1475.0;A-1;1;no;77.59
+Buitrago del Lozoya;La Acebeda;3.0;1.0;12640.0;698.0;A-1,M-978;2;no;65.19
+Buitrago del Lozoya;La Cabrera;2.06;1.06;16685.0;910.0;A-1;1;no;66.01
+Buitrago del Lozoya;Leganés;2.5;1.0;91524.0;4336.0;A-1;1;no;75.99
+Buitrago del Lozoya;Lozoya;3.0;1.0;21783.0;1247.0;A-1,M-604;2;no;62.89
+Buitrago del Lozoya;Lozoyuela-Navas-Sieteiglesias;3.25;1.12;8593.0;493.0;Avenida de Madrid,A-1;2;no;62.75
+Buitrago del Lozoya;Madrid;5.0;2.42;76353.0;3602.0;A-1;1;no;76.31
+Buitrago del Lozoya;Manzanares el Real;2.0;1.0;50132.0;2736.0;A-1,M-608;2;no;65.96
+Buitrago del Lozoya;Miraflores de la Sierra;3.0;1.0;41765.0;2090.0;A-1,M-608;2;no;71.94
+Buitrago del Lozoya;Montejo de la Sierra;3.0;1.0;15542.0;1025.0;M-137;1;no;54.59
+Buitrago del Lozoya;Móstoles;2.75;1.0;98453.0;4550.0;A-1,M-30;2;no;77.9
+Buitrago del Lozoya;Parla;3.0;1.0;100708.0;4540.0;A-1,A-42;2;si;79.86
+Buitrago del Lozoya;Pinto;3.0;1.0;95727.0;4290.0;A-1,A-4;2;no;80.33
+Buitrago del Lozoya;Puebla de la Sierra;3.0;1.0;31603.0;2280.0;M-137,M-130;2;no;49.9
+Buitrago del Lozoya;Rivas-Vaciamadrid;1.0;1.0;92230.0;3602.0;A-1,M-50;2;si;92.18
+Buitrago del Lozoya;San Martín de la Vega;0.0;1.0;107427.0;4504.0;A-1,M-50;2;si;85.87
+Buitrago del Lozoya;San Sebastián de los Reyes;2.93;1.22;57133.0;2565.0;A-1;1;no;80.19
+Buitrago del Lozoya;Somosierra;2.06;1.0;16878.0;766.0;A-1;1;no;79.32
+Buitrago del Lozoya;Soto del Real;2.0;1.0;41301.0;1995.0;A-1,M-608;2;no;74.53
+Buitrago del Lozoya;Talamanca de Jarama;2.0;1.0;41333.0;2110.0;A-1,M-122;2;no;70.52
+Buitrago del Lozoya;Torrejón de Ardoz;2.0;1.0;74804.0;3111.0;A-1;1;no;86.56
+Buitrago del Lozoya;Torrelaguna;3.0;1.0;27526.0;1578.0;A-1,M-124;2;no;62.8
+Buitrago del Lozoya;Torrelodones;2.0;1.0;79484.0;4448.0;A-1,M-608,M-618;3;no;64.33
+Buitrago del Lozoya;Tres Cantos;3.0;1.0;64165.0;3129.0;A-1,M-608,M-607;3;no;73.82
+Buitrago del Lozoya;Velilla de San Antonio;1.0;1.0;86870.0;3438.0;A-1,M-50;2;si;90.96
+Buitrago del Lozoya;Venturada;3.0;1.0;25700.0;1117.0;A-1;1;no;82.83
+Buitrago del Lozoya;Villarejo de Salvanés;3.0;1.0;119231.0;4602.0;A-1,M-50,R-3;3;si;93.27
+Buitrago del Lozoya;Villaviciosa de Odón;2.0;1.0;99247.0;4573.0;A-1,M-40;2;si;78.13
+Bustarviejo;Alcalá de Henares;3.0;1.0;68350.0;3375.0;M-631,A-1,R-2;3;no;72.91
+Bustarviejo;Algete;3.0;1.0;48071.0;2418.0;M-631,A-1;2;no;71.57
+Bustarviejo;Berzosa del Lozoya;2.0;1.0;44021.0;2721.0;M-610,A-1,M-127;3;no;58.24
+Bustarviejo;La Acebeda;2.0;1.0;40701.0;2052.0;M-610,A-1;2;no;71.41
+Bustarviejo;La Cabrera;2.0;1.0;11398.0;923.0;M-610;1;no;44.46
+Bustarviejo;Madrid;0.5;1.0;64670.0;3485.0;M-631,A-1;2;no;66.8
+Bustarviejo;San Sebastián de los Reyes;1.0;1.0;45450.0;2449.0;M-631,A-1;2;no;66.81
+Bustarviejo;Talamanca de Jarama;3.0;1.0;29650.0;1994.0;M-631,A-1,M-122;3;no;53.53
+Cabanillas de la Sierra;Madrid;3.0;1.0;55179.0;2862.0;A-1;1;no;69.41
+Cadalso de los Vidrios;Boadilla del Monte;3.0;1.0;61810.0;3298.0;M-541,M-501;2;no;67.47
+Cadalso de los Vidrios;Brunete;3.0;1.0;48658.0;2627.0;M-541,M-501,M-501;3;no;66.68
+Cadalso de los Vidrios;Cenicientos;3.0;1.0;5158.0;349.0;M-541;1;no;53.21
+Cadalso de los Vidrios;Madrid;3.4;1.2;77251.0;4360.0;M-541,M-501,M-501;3;no;63.79
+Cadalso de los Vidrios;Navas del Rey;3.0;1.0;22976.0;1504.0;M-541,M-501;2;no;55.0
+Cadalso de los Vidrios;Pelayos de la Presa;3.0;1.0;13435.0;977.0;M-541;1;no;49.5
+Cadalso de los Vidrios;San Martín de Valdeiglesias;3.0;1.0;11328.0;733.0;M-542,M-501;2;no;55.64
+Cadalso de los Vidrios;Villaviciosa de Odón;3.0;1.0;57804.0;3013.0;M-541,M-501,M-501;3;no;69.07
+Camarma de Esteruelas;Alcalá de Henares;2.0;1.0;9655.0;909.0;M-119,Avenida de Daganzo,Calle Vía Complutense;3;no;38.24
+Camarma de Esteruelas;Madrid;2.0;1.0;37452.0;2371.0;M-119,A-2;2;si;56.87
+Camarma de Esteruelas;Torrejón de Ardoz;2.0;1.0;18298.0;1131.0;M-119,A-2;2;si;58.24
+Campo Real;Alcalá de Henares;2.55;1.09;19876.0;1579.0;M-220,M-300;2;no;45.32
+Campo Real;Arganda del Rey;2.64;1.0;9551.0;841.0;M-209,M-821,Paseo de la Ilusión;3;no;40.88
+Campo Real;Ciempozuelos;2.0;1.0;34726.0;2479.0;M-209,M-506,M-307;3;no;50.43
+Campo Real;Loeches;2.33;1.11;8257.0;599.0;M-220,M-822,M-219;3;no;49.62
+Campo Real;Madrid;1.8;1.0;34778.0;1976.0;M-209,R-3;2;no;63.36
+Campo Real;Nuevo Baztán;1.0;1.0;13676.0;979.0;M-219;1;no;50.29
+Campo Real;Olmeda de las Fuentes;3.0;1.0;18357.0;1162.0;M-209,M-234;2;no;56.87
+Campo Real;Perales de Tajuña;3.0;1.0;14003.0;843.0;M-220;1;no;59.8
+Campo Real;Rivas-Vaciamadrid;3.17;1.33;14458.0;1025.0;M-209,M-300,A-3;3;si;50.78
+Campo Real;San Martín de la Vega;2.0;1.0;25984.0;1774.0;M-209,M-506;2;no;52.73
+Campo Real;Torrejón de Ardoz;1.0;1.5;19456.0;1565.0;M-219,M-206,Carretera de Loeches;3;no;44.76
+Campo Real;Villar del Olmo;3.0;1.0;13959.0;903.0;M-209;1;no;55.65
+Campo Real;Villarejo de Salvanés;0.0;1.0;25996.0;1293.0;M-220,A-3;2;si;72.38
+Canencia;Madrid;3.0;1.0;82360.0;4170.0;A-1;1;no;71.1
+Carabaña;Madrid;3.0;1.0;53624.0;2834.0;A-3;1;si;68.12
+Casarrubuelos;Alcalá de Henares;3.0;1.0;64902.0;2995.0;A-42,M-50;2;si;78.01
+Casarrubuelos;Getafe;2.5;1.0;19866.0;951.0;A-42;1;si;75.2
+Casarrubuelos;Madrid;5.5;2.0;34191.0;1937.0;A-42;1;si;63.55
+Casarrubuelos;Parla;4.5;1.5;12455.0;681.0;A-42;1;si;65.84
+Casarrubuelos;San Fernando de Henares;3.0;1.0;46474.0;2170.0;A-42,M-50;2;si;77.1
+Casarrubuelos;Torrejón de Ardoz;3.0;1.0;51214.0;2358.0;A-42,M-50;2;si;78.19
+Cenicientos;Cadalso de los Vidrios;3.0;1.0;5158.0;349.0;M-541;1;no;53.21
+Cenicientos;Madrid;2.67;1.0;82981.0;4759.0;M-541,M-501,M-501;3;no;62.77
+Cenicientos;Navas del Rey;3.0;1.0;28706.0;1902.0;M-541,M-541,M-501;3;no;54.33
+Cenicientos;San Martín de Valdeiglesias;3.0;1.0;16486.0;1083.0;M-541,M-542,M-501;3;no;54.8
+Cercedilla;Alcalá de Henares;3.0;1.0;83834.0;4548.0;M-607,M-104,A-1;3;no;66.36
+Cercedilla;Aranjuez;2.0;1.0;103201.0;4701.0;A-6,M-50,A-4;3;si;79.03
+Cercedilla;Buitrago del Lozoya;3.0;1.0;73541.0;3957.0;M-608,A-1;2;no;66.91
+Cercedilla;Collado Villalba;2.4;1.2;17875.0;1226.0;M-622,Carretera Nacional 601,M-601;3;no;52.49
+Cercedilla;Colmenar Viejo;2.0;1.0;29990.0;1973.0;M-607;1;no;54.72
+Cercedilla;Getafe;2.0;1.0;68128.0;3361.0;A-6,M-50,M-40;3;si;72.97
+Cercedilla;Guadalix de la Sierra;3.0;1.0;41721.0;2661.0;M-607,M-608;2;no;56.44
+Cercedilla;Guadarrama;2.67;1.0;9205.0;816.0;M-622;1;no;40.61
+Cercedilla;Las Rozas de Madrid;2.0;1.0;79334.0;5567.0;M-600,M-512,M-501;3;no;51.3
+Cercedilla;Lozoyuela-Navas-Sieteiglesias;3.0;1.0;65389.0;3628.0;M-608,A-1;2;no;64.88
+Cercedilla;Madrid;2.0;1.23;55929.0;3159.0;M-601,A-6;2;no;63.74
+Cercedilla;Majadahonda;2.0;1.0;42017.0;2321.0;M-601,A-6,M-50;3;si;65.17
+Cercedilla;Pinto;3.0;1.0;76730.0;3412.0;A-6,M-50;2;si;80.96
+Cercedilla;Puebla de la Sierra;3.0;1.0;96678.0;6021.0;M-608,M-127,M-130;3;no;57.8
+Cercedilla;Rivas-Vaciamadrid;2.0;1.0;78606.0;4048.0;A-6,M-30,A-3;3;si;69.91
+Cercedilla;Soto del Real;3.0;1.0;28597.0;1973.0;M-607,M-608;2;no;52.18
+Cercedilla;Torrejón de Ardoz;0.0;1.0;73050.0;4299.0;M-607,M-40;2;si;61.17
+Cercedilla;Tres Cantos;2.0;1.0;40275.0;2331.0;M-607;1;no;62.2
+Cercedilla;Valdemoro;2.5;1.0;82254.0;3659.0;M-601,A-6,M-50;3;si;80.93
+Cervera de Buitrago;El Berrueco;2.0;1.0;13396.0;836.0;M-127;1;no;57.69
+Cervera de Buitrago;Madrid;2.0;1.0;86691.0;4373.0;M-127,A-1;2;no;71.37
+Chapinería;Aranjuez;3.0;1.0;83080.0;3738.0;M-501,M-50,A-4;3;si;80.01
+Chapinería;Boadilla del Monte;3.0;1.0;35777.0;1690.0;M-501;1;no;76.21
+Chapinería;Brunete;3.0;1.0;22625.0;1020.0;M-501;1;no;79.85
+Chapinería;Cadalso de los Vidrios;3.0;1.0;29801.0;1845.0;M-501,M-541;2;no;58.15
+Chapinería;Cenicientos;3.0;1.0;35071.0;2205.0;M-501,M-541;2;no;57.26
+Chapinería;Fuenlabrada;3.0;1.0;44667.0;2091.0;M-501,M-506;2;no;76.9
+Chapinería;Getafe;2.0;1.0;51798.0;2327.0;M-501,M-50;2;si;80.13
+Chapinería;Leganés;2.5;1.0;47161.0;2332.0;M-501,M-50;2;si;72.8
+Chapinería;Madrid;3.0;1.0;51218.0;2753.0;M-501;1;no;66.98
+Chapinería;Móstoles;2.67;1.0;35523.0;1729.0;M-501;1;no;73.96
+Chapinería;Navas del Rey;3.0;1.0;4253.0;285.0;M-501,M-855;2;no;53.72
+Chapinería;Pelayos de la Presa;3.0;1.0;15708.0;972.0;M-501;1;no;58.18
+Chapinería;Pinto;2.0;1.0;56609.0;2449.0;M-501,M-50;2;si;83.21
+Chapinería;San Martín de Valdeiglesias;3.25;1.0;22675.0;1314.0;M-501;1;no;62.12
+Chapinería;Valdemoro;3.0;1.0;62133.0;2696.0;M-501,M-50;2;si;82.97
+Chapinería;Villaviciosa de Odón;2.5;1.0;31771.0;1405.0;M-501;1;no;81.41
+Chinchón;Alcalá de Henares;2.0;1.0;58176.0;3042.0;A-3,R-3,M-203;3;si;68.85
+Chinchón;Alcobendas;3.0;1.0;59439.0;3394.0;M-311,A-3,M-30;3;si;63.05
+Chinchón;Arganda del Rey;2.0;1.0;27550.0;1487.0;M-316,M-317,A-3;3;si;66.7
+Chinchón;Madrid;3.0;1.0;46166.0;2772.0;M-311,A-3;2;si;59.96
+Chinchón;Valdelaguna;3.0;1.0;5145.0;337.0;M-316;1;no;54.96
+Ciempozuelos;Alpedrete;3.0;1.0;78005.0;3506.0;M-50,A-6;2;si;80.1
+Ciempozuelos;Aranjuez;2.96;1.17;18212.0;1226.0;M-307,M-305;2;no;53.48
+Ciempozuelos;Arganda del Rey;2.87;1.07;30443.0;2122.0;M-307,M-506,A-3;3;si;51.65
+Ciempozuelos;Fuenlabrada;3.0;1.0;25534.0;1622.0;A-4,M-506;2;no;56.67
+Ciempozuelos;Getafe;3.0;1.0;24517.0;1501.0;A-4,M-506,A-42;3;si;58.8
+Ciempozuelos;Madrid;2.35;1.35;35037.0;2388.0;A-4;1;no;52.82
+Ciempozuelos;Móstoles;3.5;2.0;35626.0;1985.0;A-4,M-50;2;si;64.61
+Ciempozuelos;Parla;2.0;1.0;21474.0;1548.0;M-404,A-4,M-408;3;no;49.94
+Ciempozuelos;Pinto;2.0;1.0;14806.0;952.0;M-404,A-4;2;no;55.99
+Ciempozuelos;Rivas-Vaciamadrid;3.0;1.0;24992.0;1759.0;M-307,M-506,M-832;3;no;51.15
+Ciempozuelos;San Martín de la Vega;2.93;1.07;8631.0;718.0;M-307;1;no;43.28
+Ciempozuelos;Torrelodones;1.0;1.0;64382.0;2887.0;A-4,M-50;2;si;80.28
+Ciempozuelos;Valdemoro;2.54;1.23;9132.0;713.0;M-404,A-4;2;no;46.11
+Ciempozuelos;Villarejo de Salvanés;3.0;1.0;35159.0;2246.0;M-404,M-404;2;no;56.35
+Cobeña;Ajalvir;0.0;1.0;4870.0;392.0;M-114;1;no;44.72
+Cobeña;Alcalá de Henares;2.33;1.0;19142.0;1357.0;M-100,Avenida de Daganzo;2;no;50.78
+Cobeña;Arganda del Rey;2.0;1.0;41316.0;2268.0;M-114,M-50,R-3;3;si;65.58
+Cobeña;Fuente el Saz de Jarama;6.0;2.0;8873.0;622.0;M-103;1;no;51.35
+Cobeña;Getafe;2.0;1.0;46880.0;2414.0;M-114,M-50,M-45;3;si;69.91
+Cobeña;Las Rozas de Madrid;1.0;1.0;118612.0;5958.0;M-40,M-501;2;si;71.67
+Cobeña;Madrid;2.0;1.33;32048.0;2228.0;R-2,M-12,A-2;3;si;51.78
+Cobeña;San Sebastián de los Reyes;2.33;1.0;14250.0;1065.0;M-100,Antigua Carretera de Burgos,Paseo Europa;3;no;48.17
+Cobeña;Torrejón de Ardoz;2.0;1.0;14665.0;1082.0;M-114,M-108;2;no;48.79
+Collado Mediano;Becerril de la Sierra;3.0;1.0;4288.0;413.0;M-623,Calle Real;2;no;37.38
+Collado Mediano;Buitrago del Lozoya;1.0;1.0;68557.0;3671.0;M-608,A-1;2;no;67.23
+Collado Mediano;Collado Villalba;2.25;1.25;8514.0;642.0;M-863,M-601;2;no;47.74
+Collado Mediano;Las Rozas de Madrid;2.67;1.0;76756.0;5151.0;M-600,M-512,M-501;3;no;53.64
+Collado Mediano;Madrid;2.5;1.0;46568.0;2575.0;A-6;1;no;65.1
+Collado Mediano;Torrelodones;3.0;1.0;18017.0;988.0;M-601,A-6;2;no;65.65
+Collado Villalba;Alcalá de Henares;2.75;1.0;69380.0;3962.0;A-6,A-2;2;si;63.04
+Collado Villalba;Alcobendas;2.29;1.0;49148.0;2788.0;A-6,M-40;2;si;63.46
+Collado Villalba;Alcorcón;2.5;1.0;43512.0;1862.0;A-6,M-50;2;si;84.13
+Collado Villalba;Algete;0.0;1.0;63381.0;3345.0;A-6,M-40,A-1;3;si;68.21
+Collado Villalba;Alpedrete;3.5;2.0;4905.0;450.0;Calle Real,M-601,M-619;3;no;39.24
+Collado Villalba;Aranjuez;2.56;1.0;87426.0;3722.0;A-6,M-50,A-4;3;si;84.56
+Collado Villalba;Arganda del Rey;2.0;1.0;71176.0;3561.0;A-6,A-3;2;si;71.96
+Collado Villalba;Arroyomolinos;2.0;1.0;52949.0;2248.0;A-6,M-50;2;si;84.79
+Collado Villalba;Becerril de la Sierra;2.5;1.0;11478.0;924.0;Calle Real,Carretera de la Granja,M-601;3;no;44.72
+Collado Villalba;Boadilla del Monte;2.87;1.2;33268.0;1470.0;A-6,M-50;2;si;81.47
+Collado Villalba;Brunete;2.0;1.0;41802.0;1929.0;A-6,M-50;2;si;78.01
+Collado Villalba;Bustarviejo;1.5;1.0;50147.0;3577.0;M-608,M-610;2;no;50.47
+Collado Villalba;Cercedilla;2.33;1.0;17916.0;1255.0;M-601,Carretera Nacional 601,M-622;3;no;51.39
+Collado Villalba;Collado Mediano;2.33;1.11;8503.0;660.0;M-601,M-863;2;no;46.38
+Collado Villalba;Colmenar Viejo;1.88;1.0;27732.0;2068.0;M-608,M-607;2;no;48.28
+Collado Villalba;Colmenarejo;2.33;1.0;8690.0;845.0;M-528,M-510;2;no;37.02
+Collado Villalba;El Boalo;2.83;1.33;14697.0;1319.0;Carretera de Moralzarzal,M-608;2;no;40.11
+Collado Villalba;El Escorial;3.0;1.0;19660.0;1173.0;AP-6,M-600;2;no;60.34
+Collado Villalba;Fresnedillas de la Oliva;3.0;1.0;33072.0;2250.0;M-510,M-505,M-532;3;no;52.92
+Collado Villalba;Fuenlabrada;2.75;1.12;49216.0;2114.0;A-6,M-50;2;si;83.81
+Collado Villalba;Fuentidueña de Tajo;3.0;1.0;105991.0;4651.0;A-6,A-3;2;si;82.04
+Collado Villalba;Galapagar;2.18;1.18;6314.0;672.0;M-528;1;no;33.82
+Collado Villalba;Getafe;2.38;1.0;52353.0;2381.0;A-6,M-50,M-40;3;si;79.16
+Collado Villalba;Guadalix de la Sierra;2.0;1.0;39463.0;2756.0;M-608;1;no;51.55
+Collado Villalba;Guadarrama;3.28;1.4;9404.0;803.0;N-VI;1;no;42.16
+Collado Villalba;Hoyo de Manzanares;3.0;1.25;13485.0;997.0;A-6,Avenida de Asturias,Avenida de La Berzosa;3;no;48.69
+Collado Villalba;Humanes de Madrid;4.0;1.33;52985.0;2426.0;A-6,M-50;2;si;78.63
+Collado Villalba;Las Rozas de Madrid;2.99;1.32;76640.0;4932.0;M-510,M-501;2;no;55.94
+Collado Villalba;Leganés;2.8;1.2;48783.0;2389.0;A-6,M-50,M-40;3;si;73.51
+Collado Villalba;Madrid;6.49;2.92;40154.0;2180.0;A-6;1;no;66.31
+Collado Villalba;Majadahonda;2.7;1.15;26242.0;1342.0;A-6,M-50;2;si;70.4
+Collado Villalba;Manzanares el Real;2.67;1.0;18224.0;1509.0;M-608;1;no;43.48
+Collado Villalba;Miraflores de la Sierra;1.5;1.5;40555.0;2864.0;M-608;1;no;50.98
+Collado Villalba;Moralzarzal;3.0;1.1;7593.0;757.0;Carretera de Moralzarzal,M-608;2;no;36.11
+Collado Villalba;Móstoles;2.97;1.31;43899.0;1941.0;A-6,M-50;2;si;81.42
+Collado Villalba;Navacerrada;2.75;1.5;13234.0;930.0;M-601;1;no;51.23
+Collado Villalba;Navalafuente;3.0;1.0;43966.0;2976.0;M-608;1;no;53.18
+Collado Villalba;Navalcarnero;2.33;1.0;56216.0;2258.0;A-6,M-50,A-5;3;si;89.63
+Collado Villalba;Paracuellos de Jarama;3.0;1.0;57233.0;3351.0;A-6,M-30,M-11;3;no;61.49
+Collado Villalba;Parla;3.14;1.0;57444.0;2457.0;A-6,M-50;2;si;84.17
+Collado Villalba;Pinto;2.4;1.2;60955.0;2433.0;A-6,M-50;2;si;90.19
+Collado Villalba;Pozuelo de Alarcón;2.79;1.07;34639.0;1635.0;A-6,M-50;2;si;76.27
+Collado Villalba;Rascafría;2.0;1.0;44290.0;3028.0;M-601,M-604;2;no;52.66
+Collado Villalba;Rivas-Vaciamadrid;1.83;1.0;62831.0;3069.0;A-6,A-3;2;si;73.7
+Collado Villalba;San Lorenzo de El Escorial;3.0;1.12;19999.0;1275.0;A-6,AP-6,M-600;3;no;56.47
+Collado Villalba;San Sebastián de los Reyes;4.8;1.6;49797.0;2862.0;A-6,M-40;2;si;62.64
+Collado Villalba;Soto del Real;2.67;1.0;26339.0;2067.0;M-608;1;no;45.87
+Collado Villalba;Talamanca de Jarama;3.0;1.0;64519.0;4070.0;M-608,N-320;2;si;57.07
+Collado Villalba;Torrejón de Ardoz;2.83;1.0;59120.0;3412.0;A-6,A-2;2;si;62.38
+Collado Villalba;Torrejón de Velasco;3.0;1.0;64005.0;2571.0;A-6,M-50;2;si;89.62
+Collado Villalba;Torrelaguna;3.0;1.0;51424.0;3568.0;M-608,M-608,N-320;3;si;51.89
+Collado Villalba;Torrelodones;2.53;1.06;11603.0;593.0;A-6;1;no;70.44
+Collado Villalba;Tres Cantos;2.4;1.0;38017.0;2425.0;M-608,M-607;2;no;56.44
+Collado Villalba;Valdemoro;2.7;1.1;66479.0;2680.0;A-6,M-50;2;si;89.3
+Collado Villalba;Venturada;2.0;1.0;47468.0;3109.0;M-608;1;no;54.96
+Collado Villalba;Villaviciosa de Odón;1.67;1.0;40214.0;1841.0;A-6,M-50;2;si;78.64
+Colmenar Viejo;Alcalá de Henares;2.25;1.0;55032.0;2985.0;M-104,A-1,R-2;3;no;66.37
+Colmenar Viejo;Alcobendas;2.25;1.0;21710.0;1316.0;M-607,M-616;2;no;59.39
+Colmenar Viejo;Alcorcón;3.0;1.33;48624.0;2597.0;M-607,M-40;2;si;67.4
+Colmenar Viejo;Aranjuez;2.5;1.0;81318.0;4292.0;M-607,M-30,A-4;3;no;68.21
+Colmenar Viejo;Arganda del Rey;2.0;1.0;59626.0;3250.0;M-607,A-3;2;si;66.05
+Colmenar Viejo;Buitrago del Lozoya;3.0;1.0;49628.0;2765.0;M-625,A-1;2;no;64.62
+Colmenar Viejo;Bustarviejo;1.5;1.0;30475.0;2281.0;M-609,M-611,M-610;3;no;48.1
+Colmenar Viejo;Collado Villalba;2.2;1.0;28750.0;2076.0;M-607,M-608;2;no;49.86
+Colmenar Viejo;El Boalo;2.67;1.0;20642.0;1351.0;M-607;1;no;55.0
+Colmenar Viejo;El Molar;3.0;1.0;24640.0;1516.0;M-104,A-1;2;no;58.51
+Colmenar Viejo;Getafe;3.0;1.0;48563.0;2876.0;M-607,M-30,A-42;3;si;60.79
+Colmenar Viejo;Guadalix de la Sierra;2.5;1.0;18223.0;1384.0;M-625;1;no;47.4
+Colmenar Viejo;Madrid;6.11;2.52;35473.0;2314.0;M-607,M-30;2;no;55.19
+Colmenar Viejo;Miraflores de la Sierra;3.5;1.5;20883.0;1567.0;M-609,Carretera de Miraflores,M-611;3;no;47.98
+Colmenar Viejo;Moralzarzal;2.0;1.0;22732.0;1498.0;M-607,M-608;2;no;54.63
+Colmenar Viejo;Móstoles;2.33;1.0;53304.0;3150.0;M-607,M-40;2;si;60.92
+Colmenar Viejo;Pinto;1.67;1.0;54847.0;3003.0;M-607,M-30,A-4;3;no;65.75
+Colmenar Viejo;Rivas-Vaciamadrid;2.0;1.0;51281.0;2758.0;M-607,A-3;2;si;66.94
+Colmenar Viejo;San Sebastián de los Reyes;2.0;1.0;23827.0;1578.0;M-607,M-616;2;no;54.36
+Colmenar Viejo;Somosierra;3.0;1.0;66261.0;3303.0;M-625,A-1;2;no;72.22
+Colmenar Viejo;Soto del Real;2.5;1.0;12248.0;859.0;Avenida de los Remedios,M-607,M-609;3;no;51.33
+Colmenar Viejo;Torrelodones;4.5;1.5;22755.0;1702.0;M-618;1;no;48.13
+Colmenar Viejo;Tres Cantos;3.2;1.4;10824.0;753.0;M-607,Carretera de Colmenar Viejo;2;no;51.75
+Colmenar Viejo;Valdemoro;1.5;1.0;60371.0;3249.0;M-607,A-4;2;no;66.89
+Colmenar Viejo;Venturada;2.0;1.0;25813.0;1822.0;M-625,M-608;2;no;51.0
+Colmenar de Oreja;Aranjuez;3.0;1.0;22843.0;1472.0;M-318,M-305;2;no;55.87
+Colmenar de Oreja;Arganda del Rey;4.2;1.4;29328.0;1607.0;M-315,M-317,A-3;3;si;65.7
+Colmenar de Oreja;Campo Real;2.0;1.0;31502.0;1742.0;M-317,A-3,M-220;3;si;65.1
+Colmenar de Oreja;El Boalo;3.0;1.0;100040.0;5421.0;M-311,A-3,M-607;3;si;66.43
+Colmenar de Oreja;Las Rozas de Madrid;6.0;2.0;132565.0;6551.0;M-404,M-50,M-501;3;si;72.85
+Colmenar de Oreja;Madrid;3.0;1.0;50775.0;3083.0;M-311,A-3;2;si;59.29
+Colmenar de Oreja;Morata de Tajuña;6.0;2.0;18286.0;1148.0;M-315;1;no;57.34
+Colmenar de Oreja;Rivas-Vaciamadrid;6.0;2.0;31530.0;1950.0;M-311;1;no;58.21
+Colmenar de Oreja;Valdelaguna;3.0;1.0;6902.0;481.0;M-315;1;no;51.66
+Colmenar de Oreja;Villarejo de Salvanés;3.0;1.0;12726.0;777.0;M-311,M-404;2;no;58.96
+Colmenar del Arroyo;Madrid;2.4;1.0;55236.0;2985.0;M-501,M-511;2;no;66.62
+Colmenar del Arroyo;Navas del Rey;2.0;1.0;8011.0;492.0;M-510,M-501;2;no;58.62
+Colmenar del Arroyo;San Martín de Valdeiglesias;3.0;1.5;26433.0;1521.0;M-501;1;no;62.56
+Colmenarejo;Alcalá de Henares;1.6;1.0;65458.0;4352.0;M-505,A-6,A-2;3;si;54.15
+Colmenarejo;Collado Villalba;2.0;1.0;9920.0;925.0;M-510,M-519,M-528;3;no;38.61
+Colmenarejo;Madrid;2.14;1.0;36232.0;2570.0;M-505,A-6;2;no;50.75
+Colmenarejo;Manzanares el Real;3.0;1.0;30224.0;2545.0;M-510,M-608;2;no;42.75
+Colmenarejo;Navalcarnero;3.0;1.0;37127.0;2472.0;M-600;1;no;54.07
+Colmenarejo;Soto del Real;3.0;1.0;38339.0;3104.0;M-510,M-608;2;no;44.47
+Colmenarejo;Valdemorillo;3.0;1.0;10023.0;791.0;M-510;1;no;45.62
+Corpa;Pezuela de las Torres;3.0;1.0;8021.0;511.0;M-225;1;no;56.51
+Coslada;Alcalá de Henares;3.49;1.65;21437.0;1544.0;M-21,A-2,M-300;3;si;49.98
+Coslada;Alcobendas;2.29;1.0;19387.0;1441.0;M-40,M-12,Avenida de España;3;si;48.43
+Coslada;Alcorcón;2.4;1.0;28151.0;1758.0;M-40;1;si;57.65
+Coslada;Aranjuez;2.33;1.0;54428.0;2804.0;M-45,A-4,M-305;3;no;69.88
+Coslada;Arganda del Rey;2.2;1.0;25540.0;1586.0;R-3;1;no;57.97
+Coslada;Buitrago del Lozoya;2.5;1.0;74349.0;3255.0;A-1;1;no;82.23
+Coslada;Casarrubuelos;3.0;1.0;44747.0;2147.0;M-45,M-50,A-42;3;si;75.03
+Coslada;Daganzo de Arriba;2.5;1.0;20592.0;1398.0;M-21,M-108;2;no;53.03
+Coslada;Getafe;2.5;1.0;24204.0;1544.0;M-45;1;no;56.43
+Coslada;Guadarrama;1.0;1.0;61252.0;3513.0;M-40,M-30,A-6;3;si;62.77
+Coslada;Las Rozas de Madrid;2.0;1.0;102142.0;5228.0;M-40,M-501;2;si;70.33
+Coslada;Leganés;2.5;1.0;25150.0;1569.0;M-45;1;no;57.71
+Coslada;Loeches;2.75;1.0;22226.0;1364.0;R-3,M-217;2;no;58.66
+Coslada;Madrid;3.58;1.93;12960.0;1256.0;M-40,M-23,Calle de O'Donnell;3;si;37.15
+Coslada;Majadahonda;2.53;1.0;33797.0;2518.0;M-40,M-30,A-6;3;si;48.32
+Coslada;Meco;3.0;1.0;29162.0;1840.0;A-2,M-121;2;si;57.06
+Coslada;Móstoles;2.71;1.14;32988.0;2083.0;M-40,R-5;2;si;57.01
+Coslada;Nuevo Baztán;3.0;1.0;38525.0;2435.0;R-3,M-217,M-219;3;no;56.96
+Coslada;Parla;2.5;1.0;34537.0;1880.0;M-45,M-50;2;si;66.13
+Coslada;Pinto;2.5;1.0;27957.0;1514.0;M-45,M-50;2;si;66.48
+Coslada;Pozuelo de Alarcón;2.67;1.0;31472.0;2217.0;M-40,M-30,M-503;3;si;51.1
+Coslada;Rivas-Vaciamadrid;2.0;1.0;18649.0;1133.0;M-45,A-3;2;si;59.26
+Coslada;San Fernando de Henares;3.0;1.0;2647.0;354.0;Avenida de la Constitución,Avenida de los Príncipes de España;2;no;26.92
+Coslada;San Sebastián de los Reyes;3.0;1.0;18906.0;1369.0;M-40,M-12;2;si;49.72
+Coslada;Torrejón de Ardoz;3.07;1.33;11177.0;994.0;Calle de la Rioja,M-21,A-2;3;si;40.48
+Coslada;Torrejón de la Calzada;3.0;1.0;39281.0;1941.0;M-45,M-50,A-42;3;si;72.86
+Coslada;Torrelaguna;2.0;1.0;58272.0;2802.0;M-12,A-1;2;no;74.87
+Coslada;Valdemoro;2.5;1.0;33481.0;1761.0;M-45,M-50,A-4;3;si;68.44
+Coslada;Velilla de San Antonio;3.33;1.33;15069.0;983.0;R-3,Calle de Federico García Lorca;2;no;55.19
+Coslada;Villavieja del Lozoya;2.0;1.0;79371.0;3535.0;A-1;1;no;80.83
+Cubas de la Sagra;Fuenlabrada;3.0;1.0;12830.0;1185.0;Camino de Madrid,M-405,Calle de Luis Sauquillo;3;no;38.98
+Cubas de la Sagra;Madrid;3.0;1.0;32001.0;1986.0;A-42;1;si;58.01
+Daganzo de Arriba;Ajalvir;3.0;1.0;2756.0;334.0;M-113;1;no;29.71
+Daganzo de Arriba;Alcalá de Henares;3.0;1.0;12771.0;1125.0;M-118,M-100,Avenida de Daganzo;3;no;40.87
+Daganzo de Arriba;Camarma de Esteruelas;3.0;1.0;17622.0;1236.0;M-118,M-100,M-119;3;no;51.33
+Daganzo de Arriba;Coslada;2.0;1.0;20959.0;1433.0;M-108,M-50,M-21;3;si;52.65
+Daganzo de Arriba;Madrid;2.62;1.0;31594.0;2237.0;M-108,A-2;2;si;50.84
+Daganzo de Arriba;San Sebastián de los Reyes;3.82;1.41;19338.0;1354.0;M-100,Antigua Carretera de Burgos;2;no;51.42
+Daganzo de Arriba;Torrejón de Ardoz;2.0;1.0;12316.0;954.0;M-108;1;no;46.48
+El Berrueco;Cervera de Buitrago;2.0;1.0;13321.0;828.0;M-127;1;no;57.92
+El Berrueco;Madrid;2.67;1.0;66487.0;3263.0;A-1;1;no;73.35
+El Berrueco;Patones;3.0;1.0;17052.0;1182.0;M-131,M-102;2;no;51.94
+El Boalo;Alcobendas;3.0;1.0;41742.0;2279.0;M-607;1;no;65.94
+El Boalo;Alpedrete;3.83;1.33;14507.0;1173.0;M-608,M-619;2;no;44.52
+El Boalo;Aranjuez;3.25;1.25;99789.0;4789.0;A-6,M-50,A-4;3;si;75.01
+El Boalo;Collado Villalba;5.55;1.91;13969.0;1255.0;Camino del Boalo a Cerceda,M-608,Carretera de Moralzarzal;3;no;40.07
+El Boalo;Colmenar Viejo;2.75;1.0;20571.0;1359.0;M-608,M-607;2;no;54.49
+El Boalo;Colmenar de Oreja;3.0;1.0;103176.0;5577.0;M-607,A-3,M-311;3;si;66.6
+El Boalo;Guadalix de la Sierra;2.0;1.5;26954.0;1697.0;M-608;1;no;57.18
+El Boalo;Madrid;3.68;1.29;52517.0;3247.0;M-608,A-6;2;no;58.23
+El Boalo;Manzanares el Real;2.0;1.0;5715.0;450.0;M-617,M-608;2;no;45.72
+El Boalo;Moralzarzal;3.83;1.33;7951.0;677.0;Calle de la Peña Hoyuela,Camino del Boalo a Cerceda,M-608;3;no;42.28
+El Boalo;Móstoles;3.0;1.0;56262.0;3008.0;M-608,A-6,M-50;3;si;67.33
+El Boalo;Rivas-Vaciamadrid;1.0;1.0;71313.0;3722.0;M-607,A-3;2;si;68.98
+El Boalo;Soto del Real;2.0;1.5;13830.0;1008.0;M-608,Carretera de Torrelaguna a El Escorial;2;no;49.39
+El Boalo;Tres Cantos;3.0;1.0;29831.0;1712.0;M-607;1;no;62.73
+El Escorial;Alcobendas;3.0;1.0;54483.0;3677.0;M-505,M-40;2;si;53.34
+El Escorial;Aranjuez;3.0;1.0;92512.0;4399.0;M-600,M-50,A-4;3;si;75.71
+El Escorial;Boadilla del Monte;3.0;1.0;38354.0;2147.0;M-600,M-503;2;no;64.31
+El Escorial;Brunete;3.0;1.0;26029.0;1604.0;M-600;1;no;58.42
+El Escorial;Collado Villalba;1.25;1.0;17814.0;1171.0;M-600,AP-6;2;no;54.77
+El Escorial;Fresnedillas de la Oliva;3.0;1.0;15624.0;1097.0;M-600,M-533,M-532;3;no;51.27
+El Escorial;Fuenlabrada;3.0;1.0;54302.0;2791.0;M-600,M-503,M-50;3;si;70.04
+El Escorial;Galapagar;3.0;1.25;11626.0;796.0;M-505;1;no;52.58
+El Escorial;Getafe;3.0;1.0;57605.0;3039.0;M-600,M-503,M-40;3;si;68.24
+El Escorial;Guadarrama;3.67;1.0;11160.0;758.0;M-600;1;no;53.0
+El Escorial;Las Rozas de Madrid;3.6;1.1;61208.0;3927.0;M-512,M-501;2;no;56.11
+El Escorial;Madrid;3.12;1.27;45489.0;3069.0;M-505,A-6;2;no;53.36
+El Escorial;Majadahonda;3.4;1.0;29820.0;2083.0;M-505;1;no;51.54
+El Escorial;Móstoles;1.5;1.0;42423.0;2602.0;M-600,M-501;2;no;58.69
+El Escorial;Navalcarnero;3.0;1.0;41298.0;2639.0;M-600;1;no;56.34
+El Escorial;Soto del Real;3.0;1.0;40756.0;2901.0;M-600,M-623,M-608;3;no;50.58
+El Escorial;Villanueva de la Cañada;3.0;1.0;21292.0;1383.0;M-600;1;no;55.42
+El Molar;Alcalá de Henares;3.0;1.0;47356.0;2274.0;A-1,M-50,R-2;3;si;74.97
+El Molar;Alcobendas;3.0;1.27;28378.0;1404.0;A-1;1;no;72.76
+El Molar;Alpedrete;3.0;1.0;51069.0;3060.0;M-104,M-607,M-608;3;no;60.08
+El Molar;Arganda del Rey;1.0;1.0;64664.0;2823.0;A-1,M-50;2;si;82.46
+El Molar;Buitrago del Lozoya;2.75;1.0;32179.0;1390.0;A-1;1;no;83.34
+El Molar;Colmenar Viejo;3.0;1.0;23604.0;1436.0;A-1,M-104;2;no;59.17
+El Molar;Fuenlabrada;4.0;2.0;68701.0;3390.0;A-1,M-30,A-42;3;si;72.96
+El Molar;La Acebeda;3.0;1.0;44574.0;1860.0;A-1;1;no;86.27
+El Molar;La Cabrera;2.5;1.0;16501.0;868.0;Carretera de Burgos,A-1;2;no;68.44
+El Molar;Las Rozas de Madrid;3.0;1.0;128645.0;6138.0;A-1,M-501;2;no;75.45
+El Molar;Lozoya;3.0;1.0;41690.0;1988.0;A-1,M-604;2;no;75.49
+El Molar;Lozoyuela-Navas-Sieteiglesias;2.75;1.0;24027.0;1060.0;A-1;1;no;81.6
+El Molar;Madrid;3.25;1.3;43676.0;2383.0;A-1;1;no;65.98
+El Molar;Móstoles;3.0;1.0;65776.0;3332.0;A-1,M-30,R-5;3;no;71.07
+El Molar;Rivas-Vaciamadrid;1.0;1.0;59553.0;2384.0;A-1,M-50;2;si;89.93
+El Molar;San Sebastián de los Reyes;3.25;1.12;24456.0;1347.0;A-1,Antigua Carretera de Burgos;2;no;65.36
+El Molar;Somosierra;3.0;1.0;48812.0;1928.0;A-1;1;no;91.14
+El Molar;Talamanca de Jarama;3.0;1.0;14848.0;1062.0;M-129,M-122,M-103;3;no;50.33
+El Molar;Torrejón de Ardoz;3.0;1.0;42127.0;1892.0;A-1,M-50;2;si;80.16
+El Molar;Tres Cantos;3.0;1.0;32247.0;1897.0;A-1,M-104,M-607;3;no;61.2
+El Molar;Valdemoro;2.0;1.0;68574.0;3318.0;A-1,A-4;2;no;74.4
+El Molar;Venturada;3.0;1.0;8915.0;502.0;Carretera de Francia,Carretera de Burgos,A-1;3;no;63.93
+El Vellón;Alcobendas;3.0;1.0;33089.0;1584.0;A-1;1;no;75.2
+El Vellón;Madrid;3.0;1.0;48387.0;2563.0;A-1;1;no;67.96
+El Álamo;Alcalá de Henares;1.0;1.0;72591.0;3864.0;R-5,M-40,A-2;3;si;67.63
+El Álamo;Alcobendas;3.0;1.0;61735.0;3018.0;R-5,M-30,A-1;3;no;73.64
+El Álamo;Alcorcón;2.75;1.0;25525.0;1273.0;A-5;1;si;72.18
+El Álamo;Getafe;2.0;1.0;35408.0;1669.0;R-5,M-50;2;si;76.37
+El Álamo;Griñón;2.5;1.0;13326.0;923.0;M-404;1;no;51.98
+El Álamo;La Cabrera;3.0;1.0;103962.0;4493.0;R-5,A-1;2;no;83.3
+El Álamo;Leganés;1.5;1.0;30769.0;1659.0;R-5;1;no;66.77
+El Álamo;Madrid;2.27;1.09;39703.0;2283.0;A-5,Avenida de Portugal;2;si;62.61
+El Álamo;Móstoles;2.5;1.12;21669.0;1152.0;M-404,A-5;2;si;67.72
+El Álamo;Navalcarnero;2.5;1.0;7349.0;554.0;M-404,Calle de San Roque;2;no;47.76
+El Álamo;San Fernando de Henares;1.0;1.0;58074.0;2771.0;A-5,M-45;2;si;75.45
+El Álamo;Somosierra;3.0;1.0;136273.0;5553.0;R-5,A-1;2;no;88.35
+El Álamo;Torrejón de Ardoz;1.0;1.0;66428.0;2951.0;R-5,M-50;2;si;81.04
+El Álamo;Valdemoro;2.5;1.0;31230.0;2048.0;M-404;1;no;54.9
+El Álamo;Villarejo de Salvanés;2.0;1.0;88303.0;3550.0;R-5,M-50,A-3;3;si;89.55
+Fresnedillas de la Oliva;Alcorcón;2.0;1.0;44691.0;2678.0;M-521,M-501,M-506;3;no;60.08
+Fresnedillas de la Oliva;Madrid;2.5;1.0;54860.0;3397.0;M-510,M-600,M-503;3;no;58.14
+Fuenlabrada;Alcalá de Henares;1.8;1.0;54648.0;2809.0;M-50;1;si;70.04
+Fuenlabrada;Alcobendas;2.5;1.0;43640.0;2426.0;R-5,M-30,A-1;3;no;64.76
+Fuenlabrada;Alcorcón;3.32;1.42;10345.0;794.0;M-506,Avenida de Móstoles;2;no;46.9
+Fuenlabrada;Aranjuez;3.27;1.27;37838.0;2326.0;M-506,A-4,M-305;3;no;58.56
+Fuenlabrada;Arganda del Rey;2.0;1.0;40297.0;2128.0;M-50,A-3;2;si;68.17
+Fuenlabrada;Arroyomolinos;3.0;1.0;12248.0;1162.0;M-413;1;no;37.95
+Fuenlabrada;Boadilla del Monte;2.5;1.25;17763.0;1056.0;M-506,M-50;2;si;60.56
+Fuenlabrada;Brunete;3.0;1.0;26299.0;1425.0;M-506,M-506,M-501;3;no;66.44
+Fuenlabrada;Buitrago del Lozoya;1.0;1.0;101545.0;4423.0;M-30,A-1;2;no;82.65
+Fuenlabrada;Chapinería;3.0;1.0;45567.0;2128.0;M-506,M-501;2;no;77.09
+Fuenlabrada;Ciempozuelos;2.25;1.0;24715.0;1847.0;M-506,A-4,M-404;3;no;48.17
+Fuenlabrada;Collado Villalba;3.75;1.38;49702.0;2215.0;M-50,A-6;2;si;80.78
+Fuenlabrada;El Boalo;2.0;1.0;61618.0;3365.0;M-50,A-6,M-608;3;si;65.92
+Fuenlabrada;Fresnedillas de la Oliva;3.0;1.0;50810.0;2915.0;M-506,M-501,M-521;3;no;62.75
+Fuenlabrada;Fuentidueña de Tajo;3.0;1.0;75112.0;3218.0;M-50,A-3;2;si;84.03
+Fuenlabrada;Getafe;3.19;1.23;9379.0;882.0;Calle de Leganés,M-409,M-406;3;no;38.28
+Fuenlabrada;Griñón;2.85;1.09;10124.0;1019.0;M-405;1;no;35.77
+Fuenlabrada;Guadarrama;3.0;1.0;56800.0;2577.0;M-50,A-6;2;si;79.35
+Fuenlabrada;Humanes de Madrid;2.83;1.09;5456.0;619.0;Calle de Luis Sauquillo,M-405;2;no;31.73
+Fuenlabrada;Las Rozas de Madrid;3.57;1.36;81544.0;4015.0;M-506,M-501;2;no;73.12
+Fuenlabrada;Leganés;3.27;1.27;6662.0;706.0;Calle de Leganés,M-409,Avenida de Fuenlabrada;3;no;33.97
+Fuenlabrada;Loeches;2.0;1.0;43604.0;2216.0;M-50,M-217;2;si;70.84
+Fuenlabrada;Madrid;5.76;2.48;24533.0;1673.0;M-506,R-5,A-42;3;si;52.79
+Fuenlabrada;Majadahonda;2.57;1.0;27912.0;1452.0;M-506,M-50;2;si;69.2
+Fuenlabrada;Moraleja de Enmedio;3.0;1.0;6677.0;711.0;M-413;1;no;33.81
+Fuenlabrada;Móstoles;3.89;1.61;8988.0;736.0;Calle de Francia,M-506,Calle del Camino de Leganés;3;no;43.96
+Fuenlabrada;Navalcarnero;2.33;1.11;26590.0;1284.0;A-5;1;si;74.55
+Fuenlabrada;Navas del Rey;3.0;1.0;48636.0;2242.0;M-506,M-501;2;no;78.1
+Fuenlabrada;Parla;3.05;1.05;9501.0;1038.0;Calle de la Constitución,A-42,Calle Real;3;si;32.95
+Fuenlabrada;Pinto;2.7;1.2;14690.0;1025.0;Avenida Hispanidad,M-50,A-4;3;si;51.59
+Fuenlabrada;Rivas-Vaciamadrid;2.47;1.07;31952.0;1636.0;M-50;1;si;70.31
+Fuenlabrada;San Fernando de Henares;2.0;1.0;32615.0;2129.0;M-409,A-42,M-45;3;si;55.15
+Fuenlabrada;San Lorenzo de El Escorial;3.0;1.0;57283.0;3234.0;M-50,M-503,M-600;3;si;63.77
+Fuenlabrada;San Martín de Valdeiglesias;2.5;1.0;67058.0;3270.0;M-501;1;no;73.83
+Fuenlabrada;San Sebastián de los Reyes;2.5;1.0;44289.0;2500.0;R-5,M-30,A-1;3;no;63.78
+Fuenlabrada;Serranillos del Valle;1.5;1.0;13194.0;994.0;M-413,M-407;2;no;47.79
+Fuenlabrada;Torrejón de Ardoz;2.0;1.0;40899.0;2184.0;M-50;1;si;67.42
+Fuenlabrada;Torrelodones;2.0;1.0;38325.0;1728.0;M-506,M-50;2;si;79.84
+Fuenlabrada;Valdemoro;3.37;1.5;16891.0;1284.0;M-506,A-4;2;no;47.36
+Fuenlabrada;Villanueva de la Cañada;2.86;1.14;31110.0;1882.0;M-506,M-501,M-600;3;no;59.51
+Fuenlabrada;Villanueva del Pardillo;3.0;1.0;32016.0;1540.0;M-50,M-509;2;si;74.84
+Fuenlabrada;Villarejo de Salvanés;1.5;1.0;62774.0;2783.0;M-50,A-3;2;si;81.2
+Fuenlabrada;Villaviciosa de Odón;3.92;1.58;14983.0;939.0;M-506,M-50,M-506;3;si;57.44
+Fuente el Saz de Jarama;Alcalá de Henares;2.33;1.67;27575.0;1910.0;M-103,M-100,Avenida de Daganzo;3;no;51.97
+Fuente el Saz de Jarama;Algete;1.0;1.0;6207.0;485.0;M-103;1;no;46.07
+Fuente el Saz de Jarama;Cobeña;4.0;2.0;8768.0;608.0;M-103;1;no;51.92
+Fuente el Saz de Jarama;Collado Villalba;2.67;1.0;65631.0;3562.0;A-1,M-40,A-6;3;si;66.33
+Fuente el Saz de Jarama;Madrid;2.29;1.0;34885.0;2378.0;Avenida de las Víctimas del Terrorismo,A-1,M-30;3;no;52.81
+Fuente el Saz de Jarama;Móstoles;3.0;1.0;56985.0;3327.0;A-1,M-30,R-5;3;no;61.66
+Fuente el Saz de Jarama;Navalcarnero;3.0;1.0;71166.0;3664.0;A-1,M-30,A-5;3;si;69.92
+Fuente el Saz de Jarama;Pozuelo de Alarcón;3.0;1.0;41072.0;2816.0;Avenida de las Víctimas del Terrorismo,A-1,M-40;3;si;52.51
+Fuente el Saz de Jarama;San Sebastián de los Reyes;3.12;1.12;15492.0;1239.0;Calle de Madrid,Avenida de las Víctimas del Terrorismo,Antigua Carretera de Burgos;3;no;45.01
+Fuente el Saz de Jarama;Torrelodones;2.0;1.0;54254.0;3075.0;A-1,M-40,A-6;3;si;63.52
+Fuente el Saz de Jarama;Valdemoro;3.0;1.0;63904.0;2916.0;M-50,A-4;2;si;78.89
+Fuentidueña de Tajo;Alcalá de Henares;0.0;1.0;65956.0;3206.0;A-3,R-3,M-203;3;si;74.06
+Fuentidueña de Tajo;Alcobendas;3.0;1.0;76792.0;3590.0;A-3;1;si;77.01
+Fuentidueña de Tajo;Arganda del Rey;1.8;1.0;35330.0;1651.0;A-3;1;si;77.04
+Fuentidueña de Tajo;Brea de Tajo;3.0;1.0;16350.0;1010.0;M-240,M-241,M-238;3;no;58.28
+Fuentidueña de Tajo;Collado Villalba;3.0;1.0;107073.0;4779.0;A-3,A-6;2;si;80.66
+Fuentidueña de Tajo;Getafe;2.0;1.0;72339.0;2943.0;A-3,M-50;2;si;88.49
+Fuentidueña de Tajo;Guadarrama;3.0;1.0;114171.0;5141.0;A-3,A-6;2;si;79.95
+Fuentidueña de Tajo;Las Rozas de Madrid;3.0;1.0;153706.0;6618.0;A-3,M-50,M-501;3;si;83.61
+Fuentidueña de Tajo;Leganés;3.0;1.0;69870.0;3179.0;A-3,M-45;2;si;79.12
+Fuentidueña de Tajo;Madrid;2.67;1.13;63519.0;2968.0;A-3;1;si;77.04
+Fuentidueña de Tajo;Mejorada del Campo;2.0;1.0;47991.0;2051.0;A-3,R-3;2;si;84.24
+Fuentidueña de Tajo;Móstoles;2.0;1.0;81731.0;3430.0;A-3,M-50;2;si;85.78
+Fuentidueña de Tajo;Perales de Tajuña;2.2;1.0;23456.0;1105.0;A-3;1;si;76.42
+Fuentidueña de Tajo;Rivas-Vaciamadrid;2.0;1.0;44274.0;1836.0;A-3;1;si;86.81
+Fuentidueña de Tajo;Torrelodones;3.0;1.0;95696.0;4292.0;A-3,A-6;2;si;80.27
+Fuentidueña de Tajo;Velilla de San Antonio;2.0;1.0;48265.0;2051.0;A-3,R-3;2;si;84.72
+Fuentidueña de Tajo;Villarejo de Salvanés;2.08;1.0;12633.0;687.0;M-831,A-3;2;si;66.2
+Galapagar;Alcalá de Henares;1.0;1.0;65460.0;4170.0;M-519,A-6,A-2;3;si;56.51
+Galapagar;Alcobendas;3.0;1.0;45228.0;2997.0;A-6,M-40;2;si;54.33
+Galapagar;Alcorcón;3.0;1.0;36332.0;2039.0;M-505,M-50;2;si;64.15
+Galapagar;Aranjuez;1.0;1.0;80086.0;3914.0;M-50,A-4;2;si;73.66
+Galapagar;Boadilla del Monte;2.0;1.0;26088.0;1647.0;M-505,M-50;2;si;57.02
+Galapagar;Brunete;1.5;1.0;24189.0;1733.0;M-510,M-600;2;no;50.25
+Galapagar;Collado Mediano;3.0;1.0;16331.0;1287.0;M-525,A-6,M-601;3;no;45.68
+Galapagar;Collado Villalba;1.75;1.0;6190.0;667.0;M-528;1;no;33.41
+Galapagar;El Escorial;2.0;1.0;11668.0;837.0;M-505;1;no;50.18
+Galapagar;El Molar;3.0;1.0;57768.0;3874.0;M-608,M-607,M-104;3;no;53.68
+Galapagar;Las Rozas de Madrid;2.94;1.24;67076.0;4340.0;M-510,M-501;2;no;55.64
+Galapagar;Madrid;3.15;1.45;36234.0;2389.0;M-519,A-6;2;no;54.6
+Galapagar;Majadahonda;3.25;1.25;18969.0;1472.0;M-505;1;no;46.39
+Galapagar;Móstoles;3.25;1.0;36719.0;2118.0;M-505,M-50;2;si;62.41
+Galapagar;Navalcarnero;2.0;1.0;39458.0;2768.0;M-510,M-600;2;no;51.32
+Galapagar;Pinto;3.0;1.0;53771.0;2687.0;M-505,M-50;2;si;72.04
+Galapagar;Robregordo;3.0;1.0;91374.0;5192.0;M-608,A-1;2;no;63.36
+Galapagar;San Lorenzo de El Escorial;3.0;1.5;14018.0;1209.0;M-505,Avenida de los Reyes Católicos;2;no;41.74
+Galapagar;San Sebastián de los Reyes;3.0;1.0;45528.0;3088.0;A-6,M-40;2;si;53.08
+Galapagar;Torrelodones;1.67;1.0;8213.0;718.0;M-519,Avenida de Rosario Manzaneque,A-6;3;no;41.18
+Galapagar;Tres Cantos;3.0;1.0;40637.0;3067.0;M-618,M-607;2;no;47.7
+Galapagar;Valdemorillo;2.0;1.0;12354.0;1087.0;M-510;1;no;40.91
+Galapagar;Valdemoro;2.0;1.0;59299.0;2857.0;M-505,M-50;2;si;74.72
+Galapagar;Villanueva de la Cañada;2.0;1.0;19452.0;1511.0;M-510,M-600;2;no;46.34
+Gargantilla del Lozoya y Pinilla de Buitrago;Arganda del Rey;3.0;1.0;102488.0;4425.0;A-1,M-50;2;si;83.38
+Gargantilla del Lozoya y Pinilla de Buitrago;Buitrago del Lozoya;2.5;1.0;12520.0;926.0;M-635,M-634;2;no;48.67
+Gargantilla del Lozoya y Pinilla de Buitrago;La Cabrera;3.0;1.0;21832.0;1293.0;M-604,A-1;2;no;60.79
+Gargantilla del Lozoya y Pinilla de Buitrago;Lozoyuela-Navas-Sieteiglesias;3.0;1.0;13740.0;876.0;M-634,M-604;2;no;56.47
+Gargantilla del Lozoya y Pinilla de Buitrago;Madrid;2.5;1.0;81500.0;3984.0;A-1;1;no;73.64
+Gargantilla del Lozoya y Pinilla de Buitrago;San Sebastián de los Reyes;3.0;1.0;62280.0;2948.0;A-1;1;no;76.05
+Getafe;Ajalvir;1.43;1.0;42912.0;1978.0;M-45,M-50;2;si;78.1
+Getafe;Alcalá de Henares;3.53;1.51;46901.0;2488.0;M-45,M-50,A-2;3;si;67.86
+Getafe;Alcobendas;2.88;1.12;34577.0;2072.0;A-42,M-30,A-1;3;si;60.08
+Getafe;Alcorcón;3.07;1.34;16010.0;1039.0;A-42,M-45,M-40;3;si;55.47
+Getafe;Algete;3.0;1.0;48810.0;2628.0;A-42,M-30,A-1;3;si;66.86
+Getafe;Aranjuez;3.36;1.34;36986.0;2098.0;A-4,M-305;2;no;63.47
+Getafe;Arganda del Rey;3.07;1.21;33869.0;1971.0;A-4,M-45,A-3;3;si;61.86
+Getafe;Arroyomolinos;3.0;1.0;23310.0;1491.0;M-419,M-410,M-413;3;no;56.28
+Getafe;Boadilla del Monte;2.33;1.0;22374.0;1335.0;A-42,M-45,M-40;3;si;60.33
+Getafe;Brunete;3.0;1.0;33565.0;1720.0;M-50,M-506,M-501;3;si;70.25
+Getafe;Buitrago del Lozoya;2.5;1.0;92482.0;4069.0;A-1;1;no;81.82
+Getafe;Casarrubuelos;2.0;1.0;20029.0;1036.0;A-42;1;si;69.6
+Getafe;Cenicientos;3.0;1.0;86720.0;4457.0;M-50,M-501,M-541;3;si;70.05
+Getafe;Cercedilla;2.0;1.0;69293.0;3519.0;M-40,A-6,M-601;3;si;70.89
+Getafe;Chapinería;1.0;1.0;52833.0;2423.0;M-50,M-501;2;si;78.5
+Getafe;Ciempozuelos;4.5;1.5;23863.0;1620.0;A-4,M-404;2;no;53.03
+Getafe;Cobeña;2.0;1.0;47470.0;2318.0;M-45,M-50,M-114;3;si;73.72
+Getafe;Collado Villalba;2.16;1.05;54036.0;2583.0;M-40,M-50,A-6;3;si;75.31
+Getafe;Colmenar Viejo;3.0;1.0;51135.0;2816.0;A-42,M-30,M-607;3;si;65.37
+Getafe;Coslada;3.0;1.0;24889.0;1552.0;A-4,M-45;2;no;57.73
+Getafe;El Boalo;3.0;1.0;65952.0;3733.0;M-40,M-50,A-6;3;si;63.6
+Getafe;El Escorial;2.0;1.0;58565.0;3116.0;M-40,M-503,M-600;3;si;67.66
+Getafe;El Álamo;2.0;1.0;36801.0;1776.0;M-50,R-5;2;si;74.6
+Getafe;Fuenlabrada;3.11;1.17;10489.0;837.0;M-406,A-42,M-506;3;si;45.11
+Getafe;Griñón;2.0;1.0;20694.0;1182.0;A-42,M-404;2;si;63.03
+Getafe;Guadalix de la Sierra;1.0;1.0;75292.0;3534.0;M-30,A-1;2;no;76.7
+Getafe;Guadarrama;3.0;1.0;61134.0;2945.0;M-40,M-50,A-6;3;si;74.73
+Getafe;Humanes de Madrid;3.0;1.0;14069.0;1166.0;A-42,M-506,M-405;3;si;43.44
+Getafe;Las Rozas de Madrid;2.42;1.11;88810.0;4309.0;M-50,M-501;2;si;74.2
+Getafe;Leganés;2.88;1.42;4317.0;553.0;Paseo Felipe Calleja,M-406,Avenida del Museo;3;no;28.1
+Getafe;Loeches;3.0;1.25;36620.0;1933.0;M-45,R-3,M-217;3;no;68.2
+Getafe;Madrid;7.54;3.66;15470.0;1319.0;A-42,Paseo de Santa María de la Cabeza,Paseo del Prado;3;si;42.22
+Getafe;Majadahonda;1.75;1.25;28962.0;1891.0;A-42,M-45,M-40;3;si;55.14
+Getafe;Manzanares el Real;1.0;1.0;68339.0;3671.0;A-42,M-30,M-607;3;si;67.02
+Getafe;Mejorada del Campo;3.0;1.0;27053.0;1631.0;A-4,M-45,M-203;3;no;59.71
+Getafe;Móstoles;2.78;1.27;16835.0;1121.0;M-406,A-42,M-50;3;si;54.06
+Getafe;Navalcarnero;2.67;1.0;33867.0;1586.0;M-50,A-5;2;si;76.87
+Getafe;Navas del Rey;1.0;1.0;55902.0;2536.0;M-50,M-501;2;si;79.36
+Getafe;Parla;3.23;1.43;9819.0;768.0;A-42,Calle Real;2;si;46.03
+Getafe;Pinto;3.1;1.32;10515.0;809.0;M-406,A-4;2;no;46.79
+Getafe;Pozuelo de Alarcón;3.0;1.0;25256.0;1506.0;A-42,M-45,M-40;3;si;60.37
+Getafe;Rascafría;3.0;1.0;95667.0;5293.0;A-6,M-601,M-604;3;no;65.07
+Getafe;Rivas-Vaciamadrid;2.52;1.12;25524.0;1479.0;A-4,M-45,A-3;3;si;62.13
+Getafe;San Fernando de Henares;2.5;1.0;25251.0;1650.0;A-4,M-45;2;no;55.09
+Getafe;San Lorenzo de El Escorial;3.0;1.0;60524.0;3442.0;M-40,M-503,M-600;3;si;63.3
+Getafe;San Martín de Valdeiglesias;2.89;1.0;74324.0;3565.0;M-50,M-501;2;si;75.05
+Getafe;San Sebastián de los Reyes;2.0;1.0;35226.0;2146.0;A-42,M-30,A-1;3;si;59.09
+Getafe;Somosierra;3.0;1.0;109115.0;4607.0;A-1;1;no;85.26
+Getafe;Soto del Real;3.0;1.0;62175.0;3296.0;A-42,M-30,M-607;3;si;67.91
+Getafe;Torrejón de Ardoz;3.15;1.29;33213.0;1851.0;M-406,A-4,M-45;3;no;64.6
+Getafe;Torrejón de Velasco;3.0;1.0;16380.0;883.0;A-42;1;si;66.78
+Getafe;Torrejón de la Calzada;2.67;1.0;14563.0;830.0;A-42;1;si;63.16
+Getafe;Torrelodones;1.5;1.0;42659.0;2096.0;M-45,M-40,M-50;3;si;73.27
+Getafe;Tres Cantos;3.0;1.0;42553.0;2419.0;A-42,M-30,M-607;3;si;63.33
+Getafe;Valdemoro;3.15;1.33;16039.0;1056.0;M-406,A-4;2;no;54.68
+Getafe;Villanueva de la Cañada;2.2;1.0;38376.0;2176.0;M-50,M-506,M-501;3;si;63.49
+Getafe;Villanueva del Pardillo;1.0;1.0;36350.0;1908.0;M-45,M-40,M-509;3;si;68.58
+Getafe;Villarejo de Salvanés;3.0;1.0;56346.0;2626.0;M-45,A-3;2;si;77.25
+Getafe;Villaviciosa de Odón;3.25;1.25;22249.0;1234.0;A-42,M-50;2;si;64.91
+Getafe;Zarzalejo;3.0;1.0;60904.0;3407.0;M-40,M-503,M-600;3;si;64.35
+Griñón;El Álamo;1.5;1.0;12931.0;893.0;M-404;1;no;52.13
+Griñón;Fuenlabrada;3.19;1.22;10061.0;972.0;M-405;1;no;37.26
+Griñón;Getafe;2.0;1.0;18463.0;1206.0;M-405,M-419,A-42;3;si;55.11
+Griñón;Humanes de Madrid;3.28;1.24;5462.0;466.0;M-405;1;no;42.2
+Griñón;Leganés;2.0;1.0;20076.0;1269.0;M-407;1;no;56.95
+Griñón;Madrid;2.62;1.25;33352.0;1972.0;M-407,R-5,A-42;3;si;60.89
+Griñón;Móstoles;3.0;1.5;17818.0;1117.0;M-407,M-506,Calle del Camino de Leganés;3;no;57.43
+Griñón;Navalcarnero;2.0;1.0;19174.0;1241.0;M-404;1;no;55.62
+Griñón;Parla;3.0;1.0;11607.0;857.0;M-404,Calle Real,A-42;3;si;48.76
+Griñón;Serranillos del Valle;1.0;1.0;3008.0;354.0;Avenida de Navalcarnero,M-404,Calle Madrid;3;no;30.59
+Griñón;Talamanca de Jarama;1.0;1.0;81953.0;4012.0;R-5,M-30,A-1;3;no;73.54
+Griñón;Torrejón de la Calzada;3.0;1.0;5481.0;420.0;M-404;1;no;46.98
+Griñón;Valdemoro;2.0;1.0;17771.0;1258.0;M-404;1;no;50.86
+Guadalix de la Sierra;Alcobendas;2.67;1.0;43671.0;2067.0;A-1;1;no;76.06
+Guadalix de la Sierra;Buitrago del Lozoya;2.75;1.0;31913.0;1481.0;A-1;1;no;77.57
+Guadalix de la Sierra;Cercedilla;3.0;1.0;37767.0;2650.0;M-608,M-608,M-607;3;no;51.31
+Guadalix de la Sierra;Collado Villalba;3.0;1.0;35654.0;2746.0;M-608,M-608;2;no;46.74
+Guadalix de la Sierra;Colmenar Viejo;3.33;1.33;18123.0;1364.0;M-625;1;no;47.83
+Guadalix de la Sierra;El Molar;3.0;1.0;15087.0;850.0;M-608,A-1;2;no;63.9
+Guadalix de la Sierra;Getafe;1.0;1.0;65620.0;3898.0;M-625,M-607,M-30;3;no;60.6
+Guadalix de la Sierra;Lozoyuela-Navas-Sieteiglesias;3.0;1.0;23761.0;1151.0;M-608,A-1;2;no;74.32
+Guadalix de la Sierra;Madrid;2.22;1.11;58969.0;3046.0;A-1;1;no;69.69
+Guadalix de la Sierra;Manzanares el Real;1.0;1.0;18149.0;1422.0;M-608,Carretera de Torrelaguna a El Escorial,M-608;3;no;45.95
+Guadalix de la Sierra;Miraflores de la Sierra;2.0;1.0;9581.0;779.0;M-626;1;no;44.28
+Guadalix de la Sierra;Moralzarzal;3.0;1.0;29636.0;2168.0;M-608,M-608;2;no;49.21
+Guadalix de la Sierra;Pinto;1.0;1.0;78339.0;3812.0;A-1,A-4;2;no;73.98
+Guadalix de la Sierra;Puebla de la Sierra;3.0;1.0;55050.0;3545.0;A-1,M-127,M-130;3;no;55.9
+Guadalix de la Sierra;Rivas-Vaciamadrid;3.0;1.0;74846.0;3047.0;A-1,M-50;2;si;88.43
+Guadalix de la Sierra;San Fernando de Henares;3.0;1.0;59319.0;2637.0;A-1,M-50;2;si;80.98
+Guadalix de la Sierra;San Sebastián de los Reyes;2.5;1.0;39749.0;2010.0;M-608,A-1;2;no;71.19
+Guadalix de la Sierra;Somosierra;1.5;1.0;48546.0;2019.0;A-1;1;no;86.56
+Guadalix de la Sierra;Soto del Real;3.0;1.0;9318.0;681.0;Avenida Alejandro Rubio,M-608;2;no;49.26
+Guadalix de la Sierra;Tres Cantos;4.0;1.5;27881.0;1775.0;M-625,M-607;2;no;56.55
+Guadarrama;Alcalá de Henares;3.0;1.0;78940.0;4307.0;A-6,A-2;2;si;65.98
+Guadarrama;Alcobendas;2.0;1.0;52934.0;3161.0;M-623,M-607;2;no;60.29
+Guadarrama;Alcorcón;3.0;1.0;53072.0;2207.0;A-6,M-50;2;si;86.57
+Guadarrama;Alpedrete;0.0;1.0;7055.0;651.0;N-VI,M-619,Avenida de los Canteros;3;no;39.01
+Guadarrama;Cercedilla;2.5;1.0;9191.0;812.0;M-622;1;no;40.75
+Guadarrama;Collado Villalba;3.32;1.24;9391.0;788.0;N-VI;1;no;42.9
+Guadarrama;Colmenar Viejo;3.0;1.0;31763.0;2241.0;M-623,M-607;2;no;51.02
+Guadarrama;El Boalo;5.5;1.5;17703.0;1489.0;M-623,Avenida Central;2;no;42.8
+Guadarrama;El Escorial;3.33;1.0;11192.0;787.0;M-600;1;no;51.2
+Guadarrama;El Molar;3.0;1.0;55215.0;3347.0;M-623,M-607,M-104;3;no;59.39
+Guadarrama;Fuenlabrada;3.0;1.0;58776.0;2459.0;A-6,M-50;2;si;86.05
+Guadarrama;Fuentidueña de Tajo;3.0;1.0;115551.0;4996.0;A-6,A-3;2;si;83.26
+Guadarrama;Galapagar;0.0;1.0;14452.0;1124.0;N-VI,M-510;2;no;46.29
+Guadarrama;Getafe;2.33;1.0;61913.0;2726.0;A-6,M-50,M-40;3;si;81.76
+Guadarrama;Guadalix de la Sierra;3.0;1.0;43494.0;2929.0;M-623,M-608;2;no;53.46
+Guadarrama;Hoyo de Manzanares;3.5;1.5;23045.0;1342.0;AP-6,A-6,Avenida de Asturias;3;no;61.82
+Guadarrama;Las Rozas de Madrid;3.06;1.22;70703.0;4695.0;M-600,M-512,M-501;3;no;54.21
+Guadarrama;Leganés;2.0;1.0;58343.0;2734.0;A-6,M-50,M-40;3;si;76.82
+Guadarrama;Los Molinos;3.0;1.0;5194.0;384.0;M-622,Calle del Molino de la Cruz;2;no;48.69
+Guadarrama;Madrid;3.54;1.46;49714.0;2525.0;A-6;1;no;70.88
+Guadarrama;Majadahonda;2.8;1.0;35802.0;1687.0;AP-6,A-6;2;no;76.4
+Guadarrama;Miraflores de la Sierra;3.0;1.0;44586.0;3037.0;M-623,M-608;2;no;52.85
+Guadarrama;Moralzarzal;4.0;1.0;14932.0;1284.0;M-619,M-608;2;no;41.87
+Guadarrama;Móstoles;1.43;1.0;53459.0;2286.0;A-6,M-50;2;si;84.19
+Guadarrama;Navalcarnero;3.0;1.0;65776.0;2603.0;A-6,M-50,A-5;3;si;90.97
+Guadarrama;Pinto;3.0;1.0;70515.0;2778.0;A-6,M-50;2;si;91.38
+Guadarrama;Pozuelo de Alarcón;3.0;1.0;44199.0;1980.0;AP-6,A-6,M-50;3;si;80.36
+Guadarrama;San Lorenzo de El Escorial;2.5;1.0;11531.0;889.0;M-600,Ruta Imperial;2;no;46.69
+Guadarrama;San Sebastián de los Reyes;3.0;1.0;59357.0;3207.0;A-6,M-40;2;si;66.63
+Guadarrama;Soto del Real;3.0;1.0;30370.0;2241.0;M-623,M-608;2;no;48.79
+Guadarrama;Torrelodones;2.75;1.0;21163.0;938.0;AP-6,A-6;2;no;81.22
+Guadarrama;Tres Cantos;3.0;1.0;42048.0;2599.0;M-623,M-607;2;no;58.24
+Guadarrama;Valdemoro;2.0;1.0;76039.0;3025.0;A-6,M-50;2;si;90.49
+Guadarrama;Villanueva de la Cañada;3.0;1.0;32834.0;2177.0;M-600;1;no;54.3
+Hoyo de Manzanares;Alcalá de Henares;2.75;1.12;64994.0;3993.0;M-618,A-6,A-2;3;si;58.6
+Hoyo de Manzanares;Boadilla del Monte;2.0;1.0;28882.0;1500.0;M-618,M-50;2;si;69.32
+Hoyo de Manzanares;Collado Villalba;1.67;1.33;12940.0;1150.0;Avenida de La Berzosa,Avenida de Asturias,Carretera de la Coruña;3;no;40.51
+Hoyo de Manzanares;Getafe;3.0;1.0;47967.0;2412.0;M-618,M-50,M-40;3;si;71.59
+Hoyo de Manzanares;Guadarrama;1.5;1.5;21192.0;1498.0;A-6,N-VI;2;no;50.93
+Hoyo de Manzanares;Las Rozas de Madrid;2.0;1.0;97903.0;4656.0;M-50,M-501;2;si;75.7
+Hoyo de Manzanares;Madrid;2.33;1.24;35768.0;2211.0;M-618,A-6;2;no;58.24
+Hoyo de Manzanares;Majadahonda;4.67;1.67;21856.0;1373.0;M-618,A-6,M-50;3;si;57.31
+Hoyo de Manzanares;Móstoles;1.5;1.0;39513.0;1972.0;M-618,A-6,M-50;3;si;72.13
+Hoyo de Manzanares;Torrelodones;3.22;1.33;7217.0;552.0;M-618;1;no;47.07
+Humanes de Madrid;Arroyomolinos;3.0;1.0;9342.0;769.0;Camino de Moraleja de Enmedio,M-413;2;no;43.73
+Humanes de Madrid;Boadilla del Monte;4.5;1.5;21647.0;1382.0;M-506,M-50;2;si;56.39
+Humanes de Madrid;Collado Villalba;4.5;1.5;53586.0;2542.0;M-50,A-6;2;si;75.89
+Humanes de Madrid;Fuenlabrada;3.15;1.18;5171.0;580.0;M-405,Calle de Luis Sauquillo;2;no;32.1
+Humanes de Madrid;Getafe;2.5;1.0;12947.0;1085.0;M-405,M-506,A-42;3;si;42.96
+Humanes de Madrid;Griñón;2.88;1.09;5425.0;493.0;M-405;1;no;39.61
+Humanes de Madrid;Leganés;3.0;1.0;11069.0;1147.0;M-405,Calle de Luis Sauquillo,M-409;3;no;34.74
+Humanes de Madrid;Madrid;1.91;1.09;28417.0;2000.0;M-405,R-5,A-42;3;si;51.15
+Humanes de Madrid;Móstoles;3.5;1.33;12872.0;1063.0;M-405,M-506;2;no;43.59
+Humanes de Madrid;Navalcarnero;2.0;1.0;19955.0;1214.0;M-413,R-5,M-404;3;no;59.17
+Humanes de Madrid;Parla;3.0;1.0;11896.0;800.0;M-410,A-42;2;si;53.53
+Humanes de Madrid;Pinto;2.5;1.0;16173.0;1298.0;M-405,M-506;2;no;44.86
+Humanes de Madrid;San Sebastián de los Reyes;3.0;1.0;48173.0;2827.0;R-5,M-30,A-1;3;no;61.35
+Humanes de Madrid;Serranillos del Valle;1.0;1.0;9715.0;667.0;M-405,M-407,M-404;3;no;52.43
+Humanes de Madrid;Torrejón de Velasco;2.5;1.0;11935.0;860.0;M-410,M-419,M-404;3;no;49.96
+Humanes de Madrid;Torrejón de la Calzada;3.0;1.0;9538.0;641.0;M-405,M-419,M-404;3;no;53.57
+La Acebeda;Buitrago del Lozoya;2.5;1.0;12979.0;692.0;M-978,A-1;2;no;67.52
+La Acebeda;El Molar;3.0;1.0;44732.0;1876.0;A-1;1;no;85.84
+La Acebeda;La Cabrera;2.0;1.0;28946.0;1382.0;A-1;1;no;75.4
+La Acebeda;Madrid;2.5;1.0;88614.0;4073.0;A-1;1;no;78.32
+La Acebeda;Móstoles;2.0;1.0;110714.0;5022.0;A-1,M-30;2;no;79.36
+La Acebeda;Venturada;3.0;1.0;37961.0;1589.0;A-1;1;no;86.0
+La Cabrera;Alcobendas;3.0;1.0;45204.0;2093.0;A-1;1;no;77.75
+La Cabrera;Alcorcón;2.6;1.0;77765.0;3696.0;A-1,M-30;2;no;75.75
+La Cabrera;Buitrago del Lozoya;2.2;1.07;16861.0;890.0;A-1;1;no;68.2
+La Cabrera;El Molar;3.0;1.0;16620.0;875.0;A-1;1;no;68.38
+La Cabrera;El Álamo;3.0;1.0;102356.0;4618.0;A-1,R-5;2;no;79.79
+La Cabrera;Garganta de los Montes;3.0;1.0;19914.0;1108.0;A-1,M-604;2;no;64.7
+La Cabrera;Lozoyuela-Navas-Sieteiglesias;2.67;1.0;8709.0;560.0;Avenida de la Cabrera,A-1;2;no;55.99
+La Cabrera;Madrid;1.93;1.07;60502.0;3072.0;A-1;1;no;70.9
+La Cabrera;Móstoles;2.5;1.0;82602.0;4021.0;A-1,M-30;2;no;73.95
+La Cabrera;Navalcarnero;3.0;1.0;96783.0;4359.0;A-1,A-5;2;si;79.93
+La Cabrera;Perales de Tajuña;1.0;1.0;92189.0;3695.0;A-1,M-50,R-3;3;si;89.82
+La Cabrera;San Sebastián de los Reyes;2.0;1.0;41282.0;2036.0;A-1;1;no;72.99
+La Cabrera;Somosierra;1.93;1.0;33494.0;1428.0;A-1;1;no;84.44
+La Cabrera;Soto del Real;2.0;1.0;25450.0;1466.0;A-1,M-608;2;no;62.5
+La Hiruela;Madrid;1.0;1.0;97592.0;5433.0;M-135,A-1;2;no;64.67
+Las Rozas de Madrid;Ajalvir;2.0;1.0;124017.0;5533.0;M-501,M-501,M-45;3;no;80.69
+Las Rozas de Madrid;Alcalá de Henares;2.33;1.08;119308.0;6362.0;M-501,M-501,M-40;3;si;67.51
+Las Rozas de Madrid;Alcobendas;2.53;1.07;101614.0;5426.0;M-501,M-501,M-40;3;si;67.42
+Las Rozas de Madrid;Alcorcón;2.1;1.05;72686.0;3695.0;M-501,M-501,M-506;3;no;70.82
+Las Rozas de Madrid;Algete;1.0;1.0;115847.0;5982.0;M-501,M-501,M-40;3;si;69.72
+Las Rozas de Madrid;Alpedrete;3.0;1.33;78682.0;5204.0;M-501,M-510;2;no;54.43
+Las Rozas de Madrid;Aranjuez;2.29;1.0;116608.0;5568.0;M-501,M-50,A-4;3;si;75.39
+Las Rozas de Madrid;Arganda del Rey;3.0;1.0;115744.0;5382.0;M-501,M-501,M-50;3;si;77.42
+Las Rozas de Madrid;Arroyomolinos;3.0;1.0;61693.0;3893.0;M-507;1;no;57.05
+Las Rozas de Madrid;Becerril de la Sierra;3.0;1.0;79894.0;5676.0;M-501,M-512,M-512;3;no;50.67
+Las Rozas de Madrid;Boadilla del Monte;3.29;1.47;69305.0;3520.0;M-501,M-501;2;no;70.88
+Las Rozas de Madrid;Cercedilla;2.0;1.0;80695.0;5570.0;M-501,M-512,M-512;3;no;52.15
+Las Rozas de Madrid;Cobeña;3.0;1.0;116028.0;5934.0;M-501,M-501,M-40;3;si;70.39
+Las Rozas de Madrid;Collado Mediano;2.2;1.0;77384.0;5205.0;M-501,M-512,M-512;3;no;53.52
+Las Rozas de Madrid;Collado Villalba;3.35;1.41;74118.0;4869.0;M-501,M-855,M-510;3;no;54.8
+Las Rozas de Madrid;Colmenar de Oreja;6.0;2.0;134389.0;6390.0;M-501,M-50,A-4;3;si;75.71
+Las Rozas de Madrid;Colmenarejo;8.0;2.0;64198.0;3943.0;M-501,M-510;2;no;58.61
+Las Rozas de Madrid;Coslada;0.0;1.0;101027.0;5104.0;M-501,M-501,M-40;3;si;71.26
+Las Rozas de Madrid;El Escorial;3.36;1.0;61190.0;3917.0;M-501,M-512,M-512;3;no;56.24
+Las Rozas de Madrid;El Molar;3.0;1.0;126733.0;6188.0;M-501,M-40,A-1;3;si;73.73
+Las Rozas de Madrid;Fuenlabrada;2.62;1.15;78195.0;3921.0;M-501,M-501,M-506;3;no;71.79
+Las Rozas de Madrid;Fuentidueña de Tajo;3.0;1.0;150559.0;6472.0;M-501,M-50,A-3;3;si;83.75
+Las Rozas de Madrid;Galapagar;2.57;1.29;64789.0;4299.0;M-501,M-510;2;no;54.25
+Las Rozas de Madrid;Getafe;2.2;1.0;85326.0;4157.0;M-501,M-501,M-50;3;si;73.89
+Las Rozas de Madrid;Guadarrama;2.76;1.1;71401.0;4749.0;M-501,M-512,M-512;3;no;54.13
+Las Rozas de Madrid;Hoyo de Manzanares;4.0;1.5;81031.0;5341.0;M-501,M-510,M-618;3;no;54.62
+Las Rozas de Madrid;Humanes de Madrid;0.0;1.0;70740.0;4396.0;M-507,R-5;2;no;57.93
+Las Rozas de Madrid;Leganés;2.0;1.0;80689.0;4161.0;M-501,M-501,M-50;3;si;69.81
+Las Rozas de Madrid;Loeches;0.0;1.0;117725.0;5488.0;M-501,M-501,M-45;3;no;77.22
+Las Rozas de Madrid;Madrid;7.53;3.28;84746.0;4583.0;M-501,M-855,M-501;3;no;66.57
+Las Rozas de Madrid;Majadahonda;3.2;1.4;76159.0;4074.0;M-501,M-501,M-513;3;no;67.3
+Las Rozas de Madrid;Moralzarzal;2.5;1.0;83791.0;5738.0;M-501,M-855,M-510;3;no;52.57
+Las Rozas de Madrid;Morata de Tajuña;3.0;1.0;114373.0;5648.0;M-501,M-501,M-506;3;no;72.9
+Las Rozas de Madrid;Móstoles;2.97;1.32;69051.0;3559.0;M-501,M-855,M-501;3;no;69.85
+Las Rozas de Madrid;Navacerrada;4.0;2.0;82892.0;5656.0;M-501,M-512,M-614;3;no;52.76
+Las Rozas de Madrid;Navalcarnero;2.0;1.0;49220.0;3390.0;M-507;1;no;52.27
+Las Rozas de Madrid;Paracuellos de Jarama;0.0;1.0;110814.0;5815.0;M-501,M-501,M-40;3;si;68.6
+Las Rozas de Madrid;Parla;4.0;2.0;86626.0;4303.0;M-501,M-501,M-50;3;si;72.47
+Las Rozas de Madrid;Pinto;1.8;1.0;90137.0;4279.0;M-501,M-501,M-50;3;si;75.83
+Las Rozas de Madrid;Pozuelo de Alarcón;2.42;1.0;74412.0;4222.0;M-501,M-501,M-513;3;no;63.45
+Las Rozas de Madrid;Rivas-Vaciamadrid;2.4;1.2;107399.0;4890.0;M-501,M-501,M-50;3;si;79.07
+Las Rozas de Madrid;San Lorenzo de El Escorial;2.62;1.38;59496.0;3885.0;M-501,M-512,M-512;3;no;55.13
+Las Rozas de Madrid;San Sebastián de los Reyes;2.38;1.19;102263.0;5500.0;M-501,M-501,M-40;3;si;66.94
+Las Rozas de Madrid;Torrejón de Ardoz;3.0;1.0;114318.0;5406.0;M-501,M-501,M-45;3;no;76.13
+Las Rozas de Madrid;Torrelodones;2.76;1.12;86572.0;4349.0;M-501,M-501,M-50;3;si;71.66
+Las Rozas de Madrid;Tres Cantos;3.0;1.0;102750.0;5422.0;M-501,M-501,M-40;3;si;68.22
+Las Rozas de Madrid;Valdemorillo;3.0;1.0;54245.0;3324.0;M-501,M-855,M-510;3;no;58.75
+Las Rozas de Madrid;Valdemoro;2.18;1.0;95661.0;4526.0;M-501,M-501,M-50;3;si;76.09
+Las Rozas de Madrid;Velilla de San Antonio;0.0;2.0;110568.0;5107.0;M-501,M-501,M-45;3;no;77.94
+Las Rozas de Madrid;Villanueva de la Cañada;2.5;1.0;60795.0;3283.0;M-501,M-501,M-600;3;no;66.67
+Las Rozas de Madrid;Villanueva del Pardillo;1.33;1.0;69024.0;3684.0;M-501,M-501,M-600;3;no;67.45
+Las Rozas de Madrid;Villaviciosa de Odón;1.0;1.0;65299.0;3235.0;M-501,M-501;2;no;72.67
+Leganés;Alcalá de Henares;2.41;1.19;47164.0;2522.0;M-45,M-50,A-2;3;si;67.32
+Leganés;Alcobendas;2.33;1.0;33729.0;2226.0;A-42,M-30,A-1;3;si;54.55
+Leganés;Alcorcón;3.38;1.44;11518.0;970.0;M-425,M-45,M-40;3;si;42.75
+Leganés;Aranjuez;2.57;1.07;40590.0;2399.0;M-506,A-4,M-305;3;no;60.91
+Leganés;Arganda del Rey;2.58;1.25;34132.0;2005.0;M-45,A-3;2;si;61.28
+Leganés;Boadilla del Monte;2.0;1.0;17882.0;1265.0;M-45,M-40,M-501;3;si;50.89
+Leganés;Brea de Tajo;3.0;1.0;71192.0;3655.0;M-45,A-3,M-221;3;si;70.12
+Leganés;Brunete;3.0;1.0;28592.0;1727.0;M-50,M-506,M-501;3;si;59.6
+Leganés;Buitrago del Lozoya;2.0;1.0;91634.0;4222.0;A-1;1;no;78.13
+Leganés;Chapinería;2.5;1.0;47860.0;2430.0;M-506,M-501;2;no;70.9
+Leganés;Collado Mediano;3.0;1.0;55388.0;2856.0;M-40,M-50,A-6;3;si;69.82
+Leganés;Collado Villalba;2.4;1.0;49544.0;2513.0;M-40,M-50,A-6;3;si;70.97
+Leganés;Coslada;1.0;1.0;25152.0;1586.0;M-45;1;no;57.09
+Leganés;El Álamo;2.0;1.0;31822.0;1771.0;M-409,R-5;2;no;64.69
+Leganés;Fuenlabrada;3.48;1.38;7018.0;770.0;Avenida de Fuenlabrada,M-409,Calle de Leganés;3;no;32.81
+Leganés;Fuentidueña de Tajo;3.0;1.0;68947.0;3095.0;M-45,A-3;2;si;80.2
+Leganés;Getafe;2.78;1.24;4165.0;531.0;Avenida del Museo,M-406,Calle de Leganés;3;no;28.24
+Leganés;Griñón;2.0;1.0;20688.0;1362.0;M-409,M-407;2;no;54.68
+Leganés;Humanes de Madrid;2.0;1.0;11675.0;1241.0;M-409,Calle de Luis Sauquillo,M-405;3;no;33.87
+Leganés;Las Rozas de Madrid;2.25;1.0;83837.0;4316.0;M-50,M-501;2;si;69.93
+Leganés;Loeches;3.0;1.0;36883.0;1967.0;M-45,R-3,M-217;3;no;67.5
+Leganés;Madrid;4.99;2.32;14622.0;1473.0;M-425,M-40,A-42;3;si;35.74
+Leganés;Majadahonda;3.86;1.57;24470.0;1822.0;M-45,M-40,M-503;3;si;48.35
+Leganés;Móstoles;3.4;1.47;11856.0;1116.0;Avenida de Fuenlabrada,M-409,Calle del Camino de Leganés;3;no;38.25
+Leganés;Navalcarnero;2.77;1.08;28894.0;1593.0;M-50,A-5;2;si;65.3
+Leganés;Parla;4.5;1.5;12480.0;1021.0;Avenida del Museo,A-42,Calle Real;3;si;44.0
+Leganés;Perales de Tajuña;3.0;1.0;45418.0;2282.0;M-45,A-3;2;si;71.65
+Leganés;Pinto;3.0;1.09;15781.0;1132.0;M-45,A-4;2;no;50.19
+Leganés;Pozuelo de Alarcón;2.8;1.2;20764.0;1436.0;M-45,M-40;2;si;52.05
+Leganés;Rivas-Vaciamadrid;2.4;1.6;25787.0;1513.0;M-45;1;no;61.36
+Leganés;San Martín de Valdeiglesias;2.0;1.0;69351.0;3572.0;M-506,M-501;2;no;69.89
+Leganés;San Sebastián de los Reyes;0.0;1.0;34378.0;2300.0;A-42,M-30,A-1;3;si;53.81
+Leganés;Tielmes;3.0;1.0;51321.0;2498.0;M-45,A-3;2;si;73.96
+Leganés;Torrejón de Ardoz;2.14;1.14;33476.0;1885.0;M-45;1;no;63.93
+Leganés;Torrelodones;2.5;1.0;38167.0;2026.0;M-40,M-503,M-50;3;si;67.82
+Leganés;Tres Cantos;6.0;2.0;41705.0;2572.0;M-30,A-1,M-607;3;no;58.37
+Leganés;Valdemoro;2.53;1.07;19643.0;1356.0;A-42,M-506,A-4;3;si;52.15
+Leganés;Villanueva de la Cañada;2.5;1.0;33403.0;2184.0;M-50,M-506,M-501;3;si;55.06
+Leganés;Villanueva del Pardillo;3.0;1.0;31858.0;1839.0;M-40,M-503,M-509;3;si;62.36
+Leganés;Villarejo de Salvanés;3.0;1.0;56609.0;2660.0;M-45,A-3;2;si;76.61
+Leganés;Villaviciosa de Odón;2.88;1.12;17276.0;1241.0;M-409,M-50,M-506;3;si;50.12
+Loeches;Alcalá de Henares;2.57;1.07;15388.0;1102.0;M-300;1;no;50.27
+Loeches;Arganda del Rey;2.83;1.0;11507.0;884.0;M-300,Paseo de la Ilusión;2;no;46.86
+Loeches;Camarma de Esteruelas;3.0;1.0;23312.0;1397.0;M-206,M-203,M-119;3;no;60.07
+Loeches;Campo Real;2.3;1.0;8109.0;581.0;M-219,M-220,M-220;3;no;50.25
+Loeches;Cercedilla;3.0;1.0;83535.0;4877.0;R-3,A-6,M-601;3;no;61.66
+Loeches;Coslada;2.33;1.0;21719.0;1458.0;Avenida de la Constitución,M-217,R-3;3;no;53.63
+Loeches;Daganzo de Arriba;3.0;1.0;24116.0;1370.0;M-206,M-203,M-100;3;no;63.37
+Loeches;Fuenlabrada;2.0;1.0;45761.0;2240.0;M-217,M-50;2;si;73.54
+Loeches;Getafe;2.5;1.5;36725.0;2074.0;M-217,R-3,M-45;3;no;63.75
+Loeches;Las Rozas de Madrid;2.0;1.0;119702.0;5683.0;R-3,M-45,M-501;3;no;75.83
+Loeches;Leganés;3.0;1.0;37671.0;2099.0;M-217,R-3,M-45;3;no;64.61
+Loeches;Madrid;2.45;1.13;28425.0;1832.0;M-217,R-3,M-23;3;no;55.86
+Loeches;Móstoles;3.0;1.0;50396.0;2418.0;M-217,M-50;2;si;75.03
+Loeches;Paracuellos de Jarama;2.0;1.0;26139.0;1844.0;M-206,M-50,M-113;3;si;51.03
+Loeches;Parla;0.0;1.0;43492.0;2161.0;M-217,R-3,M-50;3;si;72.45
+Loeches;Perales de Tajuña;2.67;1.0;21447.0;1360.0;M-219,M-220;2;no;56.77
+Loeches;Rivas-Vaciamadrid;1.33;1.0;16398.0;1065.0;M-300;1;no;55.43
+Loeches;San Sebastián de los Reyes;2.0;1.0;36735.0;2310.0;M-206,M-108,M-50;3;si;57.25
+Loeches;Torrejón de Ardoz;1.67;1.67;11699.0;1042.0;M-206,Carretera de Loeches;2;no;40.42
+Loeches;Torrelaguna;4.0;2.0;60772.0;3449.0;M-203,M-100,M-103;3;no;63.43
+Loeches;Velilla de San Antonio;3.0;1.33;8384.0;624.0;Avenida de la Constitución,M-217;2;no;48.37
+Loeches;Villarejo de Salvanés;1.5;1.0;33440.0;1811.0;M-220,A-3;2;si;66.47
+Los Molinos;Boadilla del Monte;3.0;1.0;48111.0;2206.0;AP-6,A-6,M-50;3;si;78.51
+Los Molinos;Collado Villalba;2.0;1.0;14604.0;1178.0;M-622,N-VI;2;no;44.63
+Los Molinos;La Cabrera;3.0;1.0;59727.0;3574.0;M-607,M-608;2;no;60.16
+Los Molinos;Madrid;1.8;1.0;54997.0;2917.0;AP-6,A-6;2;no;67.87
+Los Molinos;Parla;2.0;1.0;72287.0;3193.0;A-6,M-50;2;si;81.5
+Los Molinos;Venturada;3.0;1.0;51590.0;3154.0;M-607,M-608;2;no;58.89
+Los Santos de la Humosa;Alcalá de Henares;3.0;1.0;15465.0;1134.0;M-226,A-2,Calle Vía Complutense;3;si;49.1
+Los Santos de la Humosa;Madrid;3.0;1.0;46919.0;2648.0;A-2;1;si;63.79
+Los Santos de la Humosa;Torrejón de Ardoz;3.0;1.0;27765.0;1408.0;A-2;1;si;70.99
+Lozoya;Alcobendas;3.0;1.0;70414.0;3204.0;A-1;1;no;79.12
+Lozoya;Buitrago del Lozoya;3.0;1.0;22362.0;1295.0;M-604,A-1;2;no;62.16
+Lozoya;El Molar;3.0;1.0;41830.0;1986.0;M-604,A-1;2;no;75.82
+Lozoya;Lozoyuela-Navas-Sieteiglesias;3.0;1.0;17952.0;1075.0;M-604;1;no;60.12
+Lozoya;Madrid;3.0;1.0;85712.0;4183.0;A-1;1;no;73.77
+Lozoya;Rascafría;3.0;1.0;9884.0;615.0;M-604;1;no;57.86
+Lozoya;San Sebastián de los Reyes;3.0;1.0;66492.0;3147.0;M-604,A-1;2;no;76.06
+Lozoyuela-Navas-Sieteiglesias;Alcobendas;4.0;1.33;52881.0;2299.0;A-1;1;no;82.81
+Lozoyuela-Navas-Sieteiglesias;Algete;2.0;1.0;51580.0;2211.0;A-1;1;no;83.98
+Lozoyuela-Navas-Sieteiglesias;Buitrago del Lozoya;3.0;1.0;8505.0;494.0;A-1,Avenida de Madrid;2;no;61.98
+Lozoyuela-Navas-Sieteiglesias;Cercedilla;3.0;1.0;65453.0;3654.0;A-1,M-608;2;no;64.49
+Lozoyuela-Navas-Sieteiglesias;El Molar;3.75;1.25;24297.0;1081.0;A-1;1;no;80.92
+Lozoyuela-Navas-Sieteiglesias;Garganta de los Montes;3.0;1.0;11558.0;712.0;M-604,M-969;2;no;58.44
+Lozoyuela-Navas-Sieteiglesias;Guadalix de la Sierra;3.0;1.0;23618.0;1151.0;A-1,M-608;2;no;73.87
+Lozoyuela-Navas-Sieteiglesias;La Cabrera;3.0;1.0;8511.0;587.0;A-1,Avenida de la Cabrera;2;no;52.2
+Lozoyuela-Navas-Sieteiglesias;Lozoya;3.0;1.0;18016.0;1092.0;M-604;1;no;59.39
+Lozoyuela-Navas-Sieteiglesias;Madrid;3.58;1.17;68179.0;3278.0;A-1;1;no;74.88
+Lozoyuela-Navas-Sieteiglesias;Puebla de la Sierra;3.0;1.0;35572.0;2596.0;M-135,M-130;2;no;49.33
+Lozoyuela-Navas-Sieteiglesias;San Sebastián de los Reyes;4.0;1.5;48959.0;2242.0;A-1;1;no;78.61
+Madrid;Ajalvir;2.5;1.08;29478.0;2061.0;A-2,M-115,M-108;3;si;51.49
+Madrid;Alameda del Valle;4.0;1.5;92665.0;4550.0;A-1,M-604;2;no;73.32
+Madrid;Alcalá de Henares;25.15;12.08;33062.0;2363.0;A-2,M-300;2;si;50.37
+Madrid;Alcobendas;9.23;4.18;18654.0;1550.0;Calle de Alcalá,M-30,A-1;3;no;43.33
+Madrid;Alcorcón;7.32;3.38;17183.0;1251.0;Paseo de Santa María de la Cabeza,A-42,M-40;3;si;49.45
+Madrid;Aldea del Fresno;2.67;1.0;54908.0;3074.0;M-40,A-5,M-507;3;si;64.3
+Madrid;Algete;3.04;1.31;32887.0;2106.0;M-30,A-1,M-106;3;no;56.22
+Madrid;Alpedrete;3.81;1.38;42871.0;2371.0;A-6;1;no;65.09
+Madrid;Ambite;3.0;1.0;54871.0;3131.0;R-3,M-209,M-209;3;no;63.09
+Madrid;Anchuelo;4.0;2.0;42387.0;2823.0;A-2,M-300,M-213;3;si;54.05
+Madrid;Aranjuez;6.62;3.01;49788.0;2890.0;A-42,A-4,M-305;3;si;62.02
+Madrid;Arganda del Rey;5.31;2.7;28944.0;1831.0;A-3;1;si;56.91
+Madrid;Arroyomolinos;2.86;1.26;31040.0;1806.0;A-42,R-5;2;si;61.87
+Madrid;Becerril de la Sierra;2.44;1.0;49444.0;2845.0;A-6;1;no;62.57
+Madrid;Berzosa del Lozoya;2.0;1.0;92274.0;4685.0;A-1,M-127;2;no;70.9
+Madrid;Boadilla del Monte;3.14;1.22;17746.0;1641.0;A-5,M-511,M-501;3;si;38.93
+Madrid;Brunete;3.59;1.29;31784.0;2193.0;A-5,M-511,M-501;3;si;52.18
+Madrid;Buitrago del Lozoya;4.2;2.06;76559.0;3546.0;A-1;1;no;77.72
+Madrid;Bustarviejo;1.33;1.0;65551.0;3508.0;A-1,M-631;2;no;67.27
+Madrid;Cabanillas de la Sierra;1.0;1.0;55692.0;2842.0;A-1;1;no;70.55
+Madrid;Cadalso de los Vidrios;3.67;1.17;79669.0;4568.0;M-501,M-541;2;no;62.79
+Madrid;Campo Real;2.5;1.0;34996.0;1969.0;R-3,M-209;2;no;63.98
+Madrid;Canencia;3.0;1.0;82607.0;4118.0;A-1;1;no;72.22
+Madrid;Casarrubuelos;2.2;1.0;32797.0;1839.0;A-42;1;si;64.2
+Madrid;Cenicientos;2.5;1.0;84939.0;4929.0;M-501,M-541;2;no;62.04
+Madrid;Cercedilla;2.29;1.21;55882.0;3175.0;A-6,M-601;2;no;63.36
+Madrid;Cervera de Buitrago;2.0;1.0;86696.0;4295.0;A-1,M-127;2;no;72.67
+Madrid;Chapinería;3.0;1.0;51052.0;2896.0;M-501;1;no;63.46
+Madrid;Chinchón;3.0;1.0;45868.0;2730.0;A-3,M-311;2;si;60.49
+Madrid;Ciempozuelos;2.96;1.36;36665.0;2411.0;A-42,A-4;2;si;54.75
+Madrid;Cobeña;2.0;1.0;33677.0;2105.0;M-30,A-1,M-50;3;si;57.59
+Madrid;Collado Mediano;2.83;1.17;46469.0;2581.0;A-6;1;no;64.82
+Madrid;Collado Villalba;6.92;3.12;40625.0;2239.0;A-6;1;no;65.32
+Madrid;Colmenar Viejo;5.48;2.33;35212.0;2294.0;M-30,A-1,M-607;3;no;55.26
+Madrid;Colmenar de Oreja;2.0;1.0;52462.0;3195.0;A-3,M-311;2;si;59.11
+Madrid;Colmenar del Arroyo;2.4;1.0;54802.0;3100.0;M-511,M-501;2;no;63.64
+Madrid;Colmenarejo;3.67;1.17;36337.0;2549.0;A-6,M-505;2;no;51.32
+Madrid;Coslada;3.62;1.82;13482.0;1230.0;Calle de O'Donnell,M-23,M-40;3;si;39.46
+Madrid;Cubas de la Sagra;1.0;1.0;33581.0;1876.0;A-42;1;si;64.44
+Madrid;Daganzo de Arriba;2.38;1.0;31468.0;2250.0;A-2,M-115,M-108;3;si;50.35
+Madrid;El Berrueco;2.67;1.0;66322.0;3206.0;A-1;1;no;74.47
+Madrid;El Boalo;2.68;1.21;54646.0;3266.0;M-30,M-607;2;no;60.23
+Madrid;El Escorial;2.97;1.2;45658.0;3087.0;A-6,M-505;2;no;53.25
+Madrid;El Molar;3.65;1.41;43773.0;2311.0;A-1;1;no;68.19
+Madrid;El Álamo;2.0;1.0;41774.0;2173.0;A-42,R-5;2;si;69.21
+Madrid;Fresno de Torote;3.0;1.0;38134.0;2624.0;A-2,M-108,M-113;3;si;52.32
+Madrid;Fuenlabrada;5.67;2.44;23257.0;1640.0;A-42,M-506;2;si;51.05
+Madrid;Fuente el Saz de Jarama;2.5;1.12;34759.0;2302.0;M-30,A-1,Avenida de las Víctimas del Terrorismo;3;no;54.36
+Madrid;Fuentidueña de Tajo;2.57;1.07;63759.0;2921.0;A-3;1;si;78.58
+Madrid;Galapagar;2.85;1.34;34665.0;2439.0;A-6,M-505;2;no;51.17
+Madrid;Garganta de los Montes;3.0;1.0;79612.0;3765.0;A-1;1;no;76.12
+Madrid;Getafe;7.62;3.58;14271.0;1204.0;Paseo de Santa María de la Cabeza,A-42;2;si;42.67
+Madrid;Griñón;2.0;1.0;33462.0;1985.0;A-42;1;si;60.69
+Madrid;Guadalix de la Sierra;2.17;1.08;59369.0;3012.0;A-1;1;no;70.96
+Madrid;Guadarrama;3.42;1.42;47723.0;2601.0;A-6;1;no;66.05
+Madrid;Horcajuelo de la Sierra;3.0;1.0;93156.0;4487.0;A-1;1;no;74.74
+Madrid;Hoyo de Manzanares;3.0;1.32;38471.0;2372.0;A-6;1;no;58.39
+Madrid;Humanes de Madrid;2.2;1.1;26837.0;1969.0;A-42,M-506,M-405;3;si;49.07
+Madrid;La Acebeda;2.5;1.0;88954.0;4016.0;A-1;1;no;79.74
+Madrid;La Cabrera;2.07;1.07;60881.0;3024.0;A-1;1;no;72.48
+Madrid;La Hiruela;1.0;1.0;97553.0;5382.0;A-1,M-135;2;no;65.25
+Madrid;Las Rozas de Madrid;6.55;2.88;87029.0;4782.0;M-501;1;no;65.52
+Madrid;Leganés;4.98;2.49;13403.0;1368.0;Paseo de Santa María de la Cabeza,A-42,Avenida de la Lengua Española;3;si;35.27
+Madrid;Loeches;3.0;1.17;28578.0;1758.0;M-23,R-3,M-217;3;no;58.52
+Madrid;Los Molinos;2.25;1.0;52917.0;2986.0;A-6;1;no;63.8
+Madrid;Los Santos de la Humosa;3.0;1.0;46673.0;2617.0;A-2;1;si;64.2
+Madrid;Lozoya;3.0;1.0;86070.0;4144.0;A-1;1;no;74.77
+Madrid;Lozoyuela-Navas-Sieteiglesias;3.0;1.0;68407.0;3216.0;A-1;1;no;76.58
+Madrid;Majadahonda;4.57;1.97;20268.0;1606.0;Calle de la Princesa,A-6;2;no;45.43
+Madrid;Manzanares el Real;2.74;1.21;52416.0;3148.0;M-30,M-607,M-608;3;no;59.94
+Madrid;Meco;2.5;1.0;40787.0;2659.0;A-2;1;si;55.22
+Madrid;Mejorada del Campo;2.72;1.28;21639.0;1407.0;M-23,R-3;2;no;55.37
+Madrid;Miraflores de la Sierra;2.5;1.17;57472.0;3455.0;M-30,M-607,M-611;3;no;59.88
+Madrid;Montejo de la Sierra;3.0;1.0;87653.0;4438.0;A-1,M-135;2;no;71.1
+Madrid;Moraleja de Enmedio;1.0;1.0;28811.0;1732.0;A-42,R-5,M-407;3;si;59.88
+Madrid;Moralzarzal;2.6;1.13;47276.0;2738.0;A-6;1;no;62.16
+Madrid;Morata de Tajuña;2.5;1.0;35368.0;2060.0;A-3;1;si;61.81
+Madrid;Móstoles;10.34;4.77;22020.0;1576.0;Paseo de Santa María de la Cabeza,A-42,R-5;3;si;50.3
+Madrid;Navacerrada;2.5;1.08;51200.0;2850.0;A-6,M-601;2;no;64.67
+Madrid;Navalafuente;2.38;1.0;60493.0;3150.0;M-30,A-1;2;no;69.13
+Madrid;Navalagamella;2.0;1.0;48738.0;3066.0;M-503,M-600,M-510;3;no;57.23
+Madrid;Navalcarnero;5.15;2.06;36201.0;1914.0;M-40,A-5;2;si;68.09
+Madrid;Navas del Rey;3.11;1.22;54121.0;3009.0;M-501;1;no;64.75
+Madrid;Nuevo Baztán;2.25;1.0;44877.0;2829.0;R-3,M-217,M-219;3;no;57.11
+Madrid;Orusco de Tajuña;3.0;1.0;52450.0;2935.0;R-3,M-221,M-229;3;no;64.33
+Madrid;Paracuellos de Jarama;3.26;1.26;22826.0;1920.0;A-2,M-14,M-111;3;si;42.8
+Madrid;Parla;3.99;1.82;22587.0;1571.0;A-42;1;si;51.76
+Madrid;Patones;2.5;1.0;66053.0;3457.0;A-1,N-320;2;si;68.79
+Madrid;Pedrezuela;2.67;1.0;46481.0;2535.0;M-30,A-1;2;no;66.01
+Madrid;Pelayos de la Presa;3.5;1.33;65576.0;3696.0;M-501;1;no;63.87
+Madrid;Perales de Tajuña;2.11;1.0;40230.0;2109.0;A-3;1;si;68.67
+Madrid;Pinilla del Valle;3.0;1.0;91658.0;4484.0;A-1,M-604;2;no;73.59
+Madrid;Pinto;4.59;2.33;23317.0;1600.0;A-42,A-4;2;si;52.46
+Madrid;Pozuelo de Alarcón;3.71;2.12;13710.0;1345.0;Avenida de Valladolid,M-500,M-503;3;no;36.7
+Madrid;Pozuelo del Rey;2.0;1.0;38154.0;2335.0;M-23,R-3,M-217;3;no;58.82
+Madrid;Rascafría;2.62;1.0;82256.0;4949.0;A-6,M-601,M-604;3;no;59.83
+Madrid;Rivas-Vaciamadrid;6.05;3.71;20599.0;1339.0;A-3;1;si;55.38
+Madrid;Robledo de Chavela;2.0;1.0;68701.0;3948.0;M-501,M-512;2;no;62.65
+Madrid;Rozas de Puerto Real;3.0;1.0;87029.0;4782.0;M-501;1;no;65.52
+Madrid;San Fernando de Henares;2.95;1.58;17347.0;1513.0;Calle de O'Donnell,M-23,R-3;3;no;41.28
+Madrid;San Lorenzo de El Escorial;2.89;1.09;56766.0;3080.0;A-6,M-600;2;no;66.35
+Madrid;San Martín de Valdeiglesias;4.67;1.78;72543.0;4038.0;M-501;1;no;64.67
+Madrid;San Martín de la Vega;2.5;1.07;31483.0;2201.0;A-4,M-301;2;no;51.49
+Madrid;San Sebastián de los Reyes;6.6;2.92;19303.0;1624.0;Calle de Alcalá,M-30,A-1;3;no;42.79
+Madrid;Serranillos del Valle;2.5;1.0;34880.0;1859.0;R-5,AP-41;2;no;67.55
+Madrid;Sevilla la Nueva;2.93;1.07;36455.0;2455.0;A-5,M-511,M-501;3;si;53.46
+Madrid;Somosierra;2.07;1.07;93192.0;4084.0;A-1;1;no;82.15
+Madrid;Soto del Real;2.82;1.09;46252.0;2774.0;M-30,A-1,M-607;3;no;60.02
+Madrid;Talamanca de Jarama;3.75;1.25;48148.0;2837.0;A-1,M-111,M-103;3;no;61.1
+Madrid;Titulcia;3.0;1.0;42767.0;2642.0;A-42,A-4,M-404;3;si;58.27
+Madrid;Torrejón de Ardoz;11.03;4.93;22802.0;1813.0;Paseo de la Castellana,A-2;2;si;45.28
+Madrid;Torrejón de Velasco;3.0;1.0;29148.0;1686.0;A-42;1;si;62.24
+Madrid;Torrejón de la Calzada;2.0;1.0;27331.0;1633.0;A-42;1;si;60.25
+Madrid;Torrelaguna;3.0;1.12;60482.0;3094.0;A-1,N-320;2;si;70.37
+Madrid;Torrelodones;4.19;1.88;29248.0;1752.0;A-6;1;no;60.1
+Madrid;Tres Cantos;5.44;2.31;26630.0;1896.0;M-30,A-1,M-607;3;no;50.56
+Madrid;Valdelaguna;3.0;1.0;50462.0;2564.0;A-3;1;si;70.85
+Madrid;Valdemorillo;2.61;1.06;40296.0;2606.0;M-503,M-600;2;no;55.67
+Madrid;Valdemoro;6.82;3.39;28841.0;1847.0;A-42,A-4;2;si;56.21
+Madrid;Valdeolmos-Alalpardo;2.0;1.0;37204.0;2403.0;M-30,A-1,M-106;3;no;55.74
+Madrid;Valdepiélagos;2.0;1.0;51666.0;3073.0;A-1,M-111,M-103;3;no;60.53
+Madrid;Valdetorres de Jarama;2.5;1.0;42230.0;2482.0;M-30,A-1,M-111;3;no;61.25
+Madrid;Valdilecha;3.0;1.0;46439.0;2454.0;A-3;1;si;68.13
+Madrid;Velilla de San Antonio;2.5;1.12;21421.0;1377.0;M-23,R-3;2;no;56.0
+Madrid;Venturada;2.0;1.0;53295.0;2658.0;A-1;1;no;72.18
+Madrid;Villa del Prado;2.83;1.0;65864.0;3730.0;A-5,M-507;2;si;63.57
+Madrid;Villalbilla;2.5;1.0;39730.0;2743.0;A-2,M-300;2;si;52.14
+Madrid;Villanueva de Perales;3.0;1.0;44328.0;2727.0;M-501,M-524;2;no;58.52
+Madrid;Villanueva de la Cañada;4.13;1.67;36017.0;2389.0;M-503;1;no;54.27
+Madrid;Villanueva del Pardillo;2.07;1.14;29308.0;1942.0;A-6,M-505,M-509;3;no;54.33
+Madrid;Villar del Olmo;2.0;1.0;48999.0;2749.0;R-3,M-209,M-209;3;no;64.17
+Madrid;Villarejo de Salvanés;2.55;1.18;51421.0;2486.0;A-3;1;si;74.46
+Madrid;Villaviciosa de Odón;4.11;1.69;24613.0;1645.0;A-42,M-40,A-5;3;si;53.86
+Madrid;Villavieja del Lozoya;2.0;1.0;81581.0;3826.0;A-1;1;no;76.76
+Madrid;Zarzalejo;3.0;1.0;53996.0;3503.0;M-503,M-600;2;no;55.49
+Majadahonda;Alcalá de Henares;2.9;1.05;48165.0;3436.0;A-6,A-2,M-300;3;si;50.46
+Majadahonda;Alcobendas;3.0;1.0;27933.0;2262.0;M-509,A-6,M-40;3;si;44.46
+Majadahonda;Alcorcón;2.23;1.08;19015.0;1317.0;M-503,M-40,A-5;3;si;51.98
+Majadahonda;Alpedrete;2.0;1.0;28993.0;1594.0;M-50,A-6;2;si;65.48
+Majadahonda;Aranjuez;1.2;1.0;63919.0;3167.0;M-50,A-4;2;si;72.66
+Majadahonda;Arganda del Rey;3.0;1.0;49961.0;3034.0;A-6,M-30,A-3;3;si;59.28
+Majadahonda;Arroyomolinos;2.0;1.0;29442.0;1692.0;M-50,A-5;2;si;62.64
+Majadahonda;Boadilla del Monte;3.17;1.33;9761.0;914.0;Carretera de Boadilla del Monte,M-50,M-513;3;si;38.45
+Majadahonda;Brunete;1.0;1.0;18295.0;1373.0;M-50,M-513;2;si;47.97
+Majadahonda;Buitrago del Lozoya;3.0;1.0;85838.0;4259.0;A-1;1;no;72.56
+Majadahonda;Cercedilla;2.0;1.0;42004.0;2399.0;M-50,A-6,M-601;3;si;63.03
+Majadahonda;Collado Villalba;2.39;1.04;26747.0;1462.0;M-50,A-6;2;si;65.86
+Majadahonda;Coslada;2.87;1.0;35837.0;2421.0;A-6,M-30,M-23;3;no;53.29
+Majadahonda;El Boalo;2.0;1.0;38663.0;2613.0;M-50,A-6,M-608;3;si;53.27
+Majadahonda;El Escorial;4.12;1.12;30442.0;2154.0;M-505;1;no;50.88
+Majadahonda;Fuenlabrada;3.31;1.31;25709.0;1558.0;M-50,M-506;2;si;59.4
+Majadahonda;Galapagar;2.0;1.0;19449.0;1505.0;M-509,M-505;2;no;46.52
+Majadahonda;Getafe;1.8;1.4;27730.0;1789.0;M-503,M-40,M-45;3;si;55.8
+Majadahonda;Guadarrama;3.2;1.0;33845.0;1825.0;M-50,A-6;2;si;66.76
+Majadahonda;Hoyo de Manzanares;2.75;1.0;24593.0;1596.0;M-50,A-6,Avenida de Asturias;3;si;55.47
+Majadahonda;Las Rozas de Madrid;2.97;1.18;78782.0;4069.0;M-501;1;no;69.7
+Majadahonda;Leganés;2.71;1.43;24160.0;1797.0;M-503,M-40,M-425;3;si;48.4
+Majadahonda;Madrid;4.85;2.17;18939.0;1654.0;M-509,A-6;2;no;41.22
+Majadahonda;Meco;3.0;1.0;61500.0;3576.0;M-40,R-2;2;si;61.91
+Majadahonda;Moralzarzal;2.67;1.0;33398.0;1961.0;M-50,A-6,M-608;3;si;61.31
+Majadahonda;Móstoles;2.18;1.09;20392.0;1385.0;M-50,M-506;2;si;53.0
+Majadahonda;Navacerrada;1.0;1.0;37322.0;2074.0;A-6,M-601;2;no;64.78
+Majadahonda;Navalcarnero;3.0;1.0;32709.0;1702.0;M-50,A-5;2;si;69.18
+Majadahonda;Parla;2.0;1.0;33937.0;1901.0;M-50;1;si;64.27
+Majadahonda;Pinto;2.33;1.17;37448.0;1877.0;M-50;1;si;71.82
+Majadahonda;Pozuelo de Alarcón;3.36;1.23;10016.0;1043.0;Carretera de Pozuelo de Alarcón,M-503,Calle de Antonio Becerril;3;no;34.57
+Majadahonda;Rivas-Vaciamadrid;1.0;1.0;41616.0;2543.0;A-6,M-30,A-3;3;si;58.91
+Majadahonda;San Lorenzo de El Escorial;1.5;1.5;34155.0;2444.0;M-509,M-600;2;no;50.31
+Majadahonda;San Sebastián de los Reyes;2.55;1.0;28582.0;2336.0;M-509,A-6,M-40;3;si;44.05
+Majadahonda;Torrejón de Ardoz;2.86;1.05;37905.0;2886.0;A-6,A-2;2;si;47.28
+Majadahonda;Torrelodones;2.64;1.09;15370.0;975.0;M-509,M-50,A-6;3;si;56.75
+Majadahonda;Tres Cantos;3.0;1.0;30847.0;2201.0;A-6,M-40,M-607;3;si;50.45
+Majadahonda;Valdemorillo;2.0;1.0;20835.0;1511.0;M-509,M-600;2;no;49.64
+Majadahonda;Valdemoro;2.57;1.14;42972.0;2124.0;M-50;1;si;72.83
+Majadahonda;Villanueva de la Cañada;3.67;1.67;16556.0;1294.0;M-509,M-503;2;no;46.06
+Majadahonda;Villanueva del Pardillo;3.0;1.17;8980.0;733.0;M-509;1;no;44.1
+Majadahonda;Villarejo de Salvanés;3.0;1.0;72438.0;3690.0;M-30,A-3;2;si;70.67
+Majadahonda;Villaviciosa de Odón;2.0;1.0;16707.0;1285.0;Carretera de Boadilla del Monte,M-50,M-501;3;si;46.81
+Majadahonda;Zarzalejo;3.0;1.0;34535.0;2408.0;M-509,M-600,M-533;3;no;51.63
+Manzanares el Real;Alpedrete;2.67;1.0;18577.0;1407.0;M-608;1;no;47.53
+Manzanares el Real;Aranjuez;1.0;1.0;97641.0;5101.0;M-607,M-30,A-4;3;no;68.91
+Manzanares el Real;Collado Villalba;2.62;1.0;18039.0;1489.0;M-608;1;no;43.61
+Manzanares el Real;Colmenar Viejo;3.0;1.0;16617.0;1182.0;M-608,M-609,Carretera de Miraflores;3;no;50.61
+Manzanares el Real;Colmenarejo;3.0;1.0;30520.0;2550.0;M-608,Carretera de Moralzarzal,M-510;3;no;43.09
+Manzanares el Real;El Boalo;3.33;1.17;5391.0;416.0;M-608,M-617;2;no;46.65
+Manzanares el Real;Galapagar;2.0;1.0;24426.0;2161.0;M-608,M-528;2;no;40.69
+Manzanares el Real;Getafe;1.0;1.0;64886.0;3686.0;M-607,M-30,A-42;3;si;63.37
+Manzanares el Real;Guadalix de la Sierra;1.5;1.0;21704.0;1400.0;M-608;1;no;55.81
+Manzanares el Real;Madrid;3.12;1.41;51796.0;3123.0;M-608,M-607,M-30;3;no;59.71
+Manzanares el Real;Moralzarzal;2.71;1.0;12021.0;912.0;M-608;1;no;47.45
+Manzanares el Real;Pinto;1.0;1.0;71170.0;3812.0;M-607,M-30,A-4;3;no;67.21
+Manzanares el Real;Ribatejada;2.0;1.0;58231.0;3604.0;M-608,N-320;2;si;58.17
+Manzanares el Real;Soto del Real;2.0;1.0;8580.0;712.0;Avenida de Madrid,M-608,Carretera de Torrelaguna a El Escorial;3;no;43.38
+Meco;Alcalá de Henares;3.31;1.31;9999.0;1094.0;M-121,Carretera de Meco,Avenida de Meco;3;no;32.9
+Meco;Collado Villalba;2.0;1.0;82749.0;4098.0;R-2,A-6;2;no;72.69
+Meco;Coslada;3.0;1.0;29195.0;1887.0;M-121,A-2;2;si;55.7
+Meco;Guadarrama;2.0;1.0;89847.0;4460.0;R-2,A-6;2;no;72.52
+Meco;Madrid;2.11;1.0;40185.0;2595.0;A-2;1;si;55.75
+Meco;Majadahonda;3.0;1.0;62392.0;3465.0;R-2,M-40;2;si;64.82
+Meco;Pozuelo de Alarcón;3.0;1.0;58190.0;3351.0;R-2,M-40;2;si;62.51
+Meco;San Sebastián de los Reyes;3.0;1.0;35116.0;1857.0;R-2;1;no;68.08
+Meco;Torrejón de Ardoz;2.5;1.0;21031.0;1355.0;M-121,A-2;2;si;55.88
+Meco;Valdemoro;2.0;1.0;60895.0;2830.0;A-2,M-50;2;si;77.46
+Mejorada del Campo;Alcalá de Henares;1.7;1.1;17479.0;1280.0;M-203,M-300;2;no;49.16
+Mejorada del Campo;Aranjuez;3.0;1.0;55014.0;2688.0;M-50,A-4;2;si;73.68
+Mejorada del Campo;Arganda del Rey;3.67;1.33;14496.0;1057.0;M-208,R-3,Paseo de la Ilusión;3;no;49.37
+Mejorada del Campo;Coslada;2.5;1.0;10971.0;929.0;M-203,M-206,M-45;3;no;42.51
+Mejorada del Campo;Getafe;3.0;1.0;27105.0;1700.0;M-203,M-45;2;no;57.4
+Mejorada del Campo;Loeches;3.0;1.0;11151.0;807.0;M-208,M-217;2;no;49.74
+Mejorada del Campo;Madrid;2.75;1.25;21190.0;1450.0;R-3,M-23;2;no;52.61
+Mejorada del Campo;Navalcarnero;2.0;1.0;55109.0;2502.0;M-45,A-5;2;si;79.29
+Mejorada del Campo;Perales de Tajuña;2.0;1.0;25195.0;1240.0;R-3,A-3;2;si;73.15
+Mejorada del Campo;Rivas-Vaciamadrid;2.0;1.0;16443.0;962.0;M-203,M-50,A-3;3;si;61.53
+Mejorada del Campo;San Fernando de Henares;3.0;1.0;7512.0;712.0;M-203,M-206,Carretera de Mejorada del Campo;3;no;37.98
+Mejorada del Campo;Torrejón de Ardoz;2.0;1.17;11160.0;1082.0;M-203,Carretera de Loeches;2;no;37.13
+Mejorada del Campo;Valdemoro;2.67;1.0;34067.0;1645.0;M-50,A-4;2;si;74.55
+Mejorada del Campo;Velilla de San Antonio;3.0;1.0;3994.0;426.0;Calle de Santa Rosa,M-208,Calle de Federico García Lorca;3;no;33.75
+Mejorada del Campo;Villarejo de Salvanés;5.0;2.0;36386.0;1617.0;R-3,A-3;2;si;81.01
+Miraflores de la Sierra;Alcalá de Henares;3.0;1.0;72397.0;3524.0;M-608,A-1,R-2;3;no;73.96
+Miraflores de la Sierra;Bustarviejo;2.5;1.5;10082.0;781.0;M-610;1;no;46.47
+Miraflores de la Sierra;Colmenar Viejo;1.67;1.0;22701.0;1530.0;M-611,M-608,M-609;3;no;53.41
+Miraflores de la Sierra;Guadarrama;3.0;1.0;44372.0;3019.0;M-608,M-623;2;no;52.91
+Miraflores de la Sierra;Madrid;2.22;1.0;57880.0;3471.0;M-611,M-607,M-30;3;no;60.03
+Miraflores de la Sierra;Soto del Real;2.0;1.0;8486.0;690.0;M-611;1;no;44.27
+Miraflores de la Sierra;Tres Cantos;1.67;1.0;31212.0;1947.0;M-611,M-609,M-607;3;no;57.71
+Montejo de la Sierra;Buitrago del Lozoya;3.0;1.0;15729.0;1053.0;M-137;1;no;53.77
+Montejo de la Sierra;Madrid;3.0;1.0;87692.0;4489.0;M-135,A-1;2;no;70.33
+Montejo de la Sierra;Pinto;3.0;1.0;107066.0;5178.0;A-1,M-30,A-4;3;no;74.44
+Moraleja de Enmedio;Fuenlabrada;2.33;1.0;6676.0;705.0;M-413;1;no;34.09
+Moraleja de Enmedio;Leganés;2.0;1.0;14211.0;1023.0;M-407;1;no;50.01
+Moraleja de Enmedio;Madrid;2.0;1.0;27487.0;1726.0;M-407,R-5,A-42;3;si;57.33
+Moraleja de Enmedio;Rivas-Vaciamadrid;3.0;1.0;40919.0;1788.0;M-407,M-50;2;si;82.39
+Moralzarzal;Alpedrete;2.67;1.0;7981.0;658.0;M-608,M-619;2;no;43.67
+Moralzarzal;Aranjuez;3.0;1.0;93263.0;4275.0;A-6,M-50,A-4;3;si;78.54
+Moralzarzal;Collado Villalba;3.26;1.3;7443.0;740.0;M-608,Carretera de Moralzarzal;2;no;36.21
+Moralzarzal;Colmenar Viejo;2.0;1.0;21602.0;1476.0;M-608,M-607;2;no;52.69
+Moralzarzal;El Boalo;3.5;1.25;8567.0;727.0;M-608,Camino del Boalo a Cerceda;2;no;42.42
+Moralzarzal;Guadalix de la Sierra;2.0;1.0;33333.0;2164.0;M-608;1;no;55.45
+Moralzarzal;Las Rozas de Madrid;2.0;1.0;84751.0;5465.0;M-600,M-512,M-501;3;no;55.83
+Moralzarzal;Madrid;3.0;1.14;45991.0;2733.0;A-6;1;no;60.58
+Moralzarzal;Majadahonda;2.5;1.0;32079.0;1894.0;A-6,M-50;2;si;60.97
+Moralzarzal;Manzanares el Real;2.0;1.0;12094.0;917.0;M-608;1;no;47.48
+Moralzarzal;Móstoles;6.0;2.0;49736.0;2493.0;A-6,M-50;2;si;71.82
+Moralzarzal;Pozuelo de Alarcón;3.0;1.0;40476.0;2187.0;A-6,M-50,M-503;3;si;66.63
+Moralzarzal;San Lorenzo de El Escorial;2.0;1.0;25579.0;1659.0;M-608,AP-6,M-600;3;no;55.51
+Moralzarzal;Soto del Real;2.5;1.0;20209.0;1475.0;M-608;1;no;49.32
+Moralzarzal;Torrelodones;3.0;1.0;17440.0;1145.0;M-608,A-6;2;no;54.83
+Moralzarzal;Tres Cantos;2.0;1.0;31887.0;1833.0;M-607;1;no;62.63
+Morata de Tajuña;Arganda del Rey;3.0;1.0;10608.0;855.0;M-313,Carretera de Morata de Tajuña;2;no;44.67
+Morata de Tajuña;Ciempozuelos;2.0;1.0;23006.0;1448.0;M-313,M-404;2;no;57.2
+Morata de Tajuña;Colmenar de Oreja;6.0;2.0;19872.0;1348.0;M-315;1;no;53.07
+Morata de Tajuña;Las Rozas de Madrid;3.0;1.0;118080.0;5747.0;M-302,M-50,M-501;3;si;73.97
+Morata de Tajuña;Madrid;2.5;1.0;35412.0;2054.0;A-3;1;si;62.07
+Morata de Tajuña;Rivas-Vaciamadrid;3.0;1.0;16167.0;921.0;M-313,A-3;2;si;63.19
+Morata de Tajuña;San Martín de la Vega;3.0;1.0;14007.0;917.0;M-302,M-506;2;no;54.99
+Móstoles;Alcalá de Henares;2.8;1.32;61340.0;2983.0;M-50;1;si;74.03
+Móstoles;Alcobendas;2.39;1.17;43046.0;2469.0;R-5,M-30,A-1;3;no;62.76
+Móstoles;Alcorcón;4.01;1.81;5202.0;622.0;Avenida de Portugal,Avenida de Móstoles;2;no;30.11
+Móstoles;Alpedrete;3.0;1.0;47256.0;2267.0;M-50,A-6;2;si;75.04
+Móstoles;Aranjuez;2.46;1.28;47914.0;2476.0;M-50,A-4;2;si;69.66
+Móstoles;Arganda del Rey;2.17;1.11;47050.0;2290.0;M-50,A-3;2;si;73.97
+Móstoles;Arroyomolinos;2.62;1.14;9637.0;980.0;Calle de Villaamil,Avenida de Portugal,Avenida de la Unión Europea;3;no;35.4
+Móstoles;Boadilla del Monte;3.0;1.14;13071.0;976.0;Avenida de Portugal,M-506,M-50;3;si;48.21
+Móstoles;Brea de Tajo;3.0;1.0;84110.0;3940.0;M-50,A-3,M-221;3;si;76.85
+Móstoles;Brunete;2.86;1.0;16645.0;1059.0;M-856,M-506,M-501;3;no;56.58
+Móstoles;Buitrago del Lozoya;3.0;1.0;100951.0;4466.0;M-30,A-1;2;no;81.38
+Móstoles;Cercedilla;2.5;1.0;60267.0;3072.0;M-50,A-6,M-601;3;si;70.63
+Móstoles;Chapinería;3.0;1.0;35913.0;1762.0;M-501;1;no;73.38
+Móstoles;Ciempozuelos;3.33;2.0;34791.0;1997.0;M-50,A-4;2;si;62.72
+Móstoles;Collado Villalba;3.02;1.24;45010.0;2135.0;M-50,A-6;2;si;75.9
+Móstoles;Colmenar Viejo;2.0;1.0;53466.0;3365.0;A-5,M-30,M-607;3;si;57.2
+Móstoles;Coslada;2.6;1.1;33843.0;2115.0;R-5,M-40;2;si;57.61
+Móstoles;El Boalo;2.0;1.0;56926.0;3286.0;M-50,A-6,M-608;3;si;62.37
+Móstoles;El Molar;3.0;1.0;68165.0;3231.0;R-5,M-30,A-1;3;no;75.95
+Móstoles;El Álamo;3.17;1.17;20262.0;1310.0;A-5,M-404;2;si;55.68
+Móstoles;Fresnedillas de la Oliva;3.0;1.0;41156.0;2548.0;M-501,M-521,M-521;3;no;58.15
+Móstoles;Fuenlabrada;4.19;1.87;8368.0;732.0;Calle de Simón Hernández,M-506;2;no;41.15
+Móstoles;Fuentidueña de Tajo;2.5;1.0;81865.0;3380.0;M-50,A-3;2;si;87.19
+Móstoles;Galapagar;2.8;1.0;37723.0;2215.0;M-50,M-505;2;si;61.31
+Móstoles;Getafe;2.81;1.33;16632.0;1064.0;M-50,A-42;2;si;56.27
+Móstoles;Griñón;2.0;1.0;17363.0;1054.0;Calle de Simón Hernández,M-407;2;no;59.3
+Móstoles;Guadarrama;1.8;1.0;52108.0;2497.0;M-50,A-6;2;si;75.13
+Móstoles;Hoyo de Manzanares;4.5;1.5;42856.0;2269.0;M-506,M-50,A-6;3;si;68.0
+Móstoles;Humanes de Madrid;3.0;1.14;12137.0;1044.0;Calle de Simón Hernández,M-506,M-405;3;no;41.85
+Móstoles;La Cabrera;2.0;1.0;85273.0;3944.0;M-30,A-1;2;no;77.84
+Móstoles;Las Rozas de Madrid;3.13;1.31;71890.0;3648.0;M-501;1;no;70.94
+Móstoles;Leganés;3.67;1.61;11995.0;1063.0;Calle de Barcelona,M-409;2;no;40.62
+Móstoles;Loeches;2.0;1.0;50357.0;2377.0;M-50;1;si;76.27
+Móstoles;Madrid;10.39;4.74;22057.0;1787.0;M-506,A-5,Avenida de Portugal;3;si;44.43
+Móstoles;Majadahonda;2.74;1.16;23220.0;1372.0;M-506,M-50;2;si;60.93
+Móstoles;Manzanares el Real;3.0;1.0;60453.0;3475.0;M-50,A-6,M-608;3;si;62.63
+Móstoles;Mejorada del Campo;3.5;1.5;41362.0;1974.0;M-50;1;si;75.43
+Móstoles;Moralzarzal;4.0;1.0;51661.0;2634.0;M-50,A-6;2;si;70.61
+Móstoles;Navacerrada;0.0;1.0;55585.0;2747.0;M-50,A-6,M-601;3;si;72.85
+Móstoles;Navalcarnero;4.71;1.73;14810.0;1015.0;Avenida de Portugal,A-5;2;si;52.53
+Móstoles;Navas del Rey;3.0;1.0;38982.0;1875.0;M-501;1;no;74.85
+Móstoles;Paracuellos de Jarama;3.0;1.0;43630.0;2826.0;R-5,M-40,M-14;3;si;55.58
+Móstoles;Parla;2.8;1.0;17932.0;1210.0;M-50,A-42;2;si;53.35
+Móstoles;Perales de Tajuña;2.5;1.0;58336.0;2567.0;M-50,A-3;2;si;81.81
+Móstoles;Pinto;2.77;1.15;21443.0;1186.0;M-50;1;si;65.09
+Móstoles;Pozuelo de Alarcón;2.0;1.0;21474.0;1572.0;M-506,M-50,M-513;3;si;49.18
+Móstoles;Quijorna;2.0;1.0;24447.0;1381.0;M-856,M-501,M-522;3;no;63.73
+Móstoles;Rivas-Vaciamadrid;2.3;1.09;38705.0;1798.0;M-50;1;si;77.5
+Móstoles;San Fernando de Henares;2.4;1.0;38781.0;2267.0;R-5,M-45;2;no;61.58
+Móstoles;San Lorenzo de El Escorial;3.0;1.0;44687.0;2990.0;M-501,M-600;2;no;53.8
+Móstoles;San Martín de Valdeiglesias;2.67;1.0;57404.0;2904.0;M-501;1;no;71.16
+Móstoles;San Sebastián de los Reyes;2.45;1.09;43695.0;2543.0;R-5,M-30,A-1;3;no;61.86
+Móstoles;Sevilla la Nueva;2.0;1.0;21316.0;1321.0;M-856,M-506,M-501;3;no;58.09
+Móstoles;Somosierra;3.0;1.0;117584.0;5004.0;M-30,A-1;2;no;84.59
+Móstoles;Tielmes;3.0;1.0;64239.0;2782.0;M-50,A-3;2;si;83.13
+Móstoles;Torrejón de Ardoz;2.62;1.25;47652.0;2345.0;M-50;1;si;73.15
+Móstoles;Torrelodones;2.91;1.09;33633.0;1648.0;M-50,A-6;2;si;73.47
+Móstoles;Tres Cantos;3.38;1.25;44884.0;2968.0;A-5,M-30,M-607;3;si;54.44
+Móstoles;Valdemoro;3.61;1.43;26967.0;1433.0;M-50,A-4;2;si;67.75
+Móstoles;Villanueva de la Cañada;2.55;1.09;21456.0;1515.0;M-856,M-501,M-600;3;no;50.98
+Móstoles;Villanueva del Pardillo;3.0;1.0;27324.0;1460.0;M-50,M-509;2;si;67.37
+Móstoles;Villarejo de Salvanés;2.6;1.0;69527.0;2945.0;M-50,A-3;2;si;84.99
+Móstoles;Villaviciosa de Odón;3.16;1.34;6181.0;610.0;M-856;1;no;36.48
+Navacerrada;Boadilla del Monte;3.0;1.0;44529.0;2146.0;M-601,A-6,M-50;3;si;74.7
+Navacerrada;Collado Villalba;3.4;1.2;13361.0;924.0;M-601;1;no;52.06
+Navacerrada;Las Rozas de Madrid;6.0;2.0;82239.0;5573.0;M-614,M-512,M-501;3;no;53.12
+Navacerrada;Madrid;3.27;1.09;51415.0;2856.0;M-601,A-6;2;no;64.81
+Navacerrada;Majadahonda;3.0;1.0;37503.0;2018.0;M-601,A-6;2;no;66.9
+Navacerrada;Móstoles;0.0;1.0;55160.0;2617.0;M-601,A-6,M-50;3;si;75.88
+Navacerrada;Pozuelo de Alarcón;2.0;1.0;45900.0;2311.0;M-601,A-6,M-50;3;si;71.5
+Navacerrada;Rascafría;2.0;1.0;32438.0;2274.0;M-604;1;no;51.35
+Navacerrada;Torrelodones;3.0;1.0;22864.0;1269.0;M-601,A-6;2;no;64.86
+Navacerrada;Valdemoro;2.0;1.0;77740.0;3356.0;A-6,M-50;2;si;83.39
+Navacerrada;Villanueva de la Cañada;3.0;1.0;48523.0;2622.0;M-601,A-6,M-509;3;no;66.62
+Navalafuente;Madrid;2.29;1.0;59751.0;3147.0;A-1;1;no;68.35
+Navalagamella;Brunete;2.0;1.0;20501.0;1420.0;M-521;1;no;51.97
+Navalagamella;Madrid;3.0;1.0;46449.0;3028.0;M-510,M-600,M-503;3;no;55.22
+Navalcarnero;Alcalá de Henares;3.0;1.0;66834.0;3647.0;A-5,M-40,A-2;3;si;65.97
+Navalcarnero;Alcobendas;2.88;1.12;55978.0;2801.0;A-5,M-40,M-30;3;si;71.95
+Navalcarnero;Alcorcón;4.39;1.61;19555.0;1050.0;A-5;1;si;67.05
+Navalcarnero;Aranjuez;1.3;1.0;63682.0;2967.0;A-5,M-50,A-4;3;si;77.27
+Navalcarnero;Arroyomolinos;3.71;1.29;11238.0;760.0;A-5,M-413;2;si;53.23
+Navalcarnero;Boadilla del Monte;3.0;1.0;24827.0;1315.0;A-5,M-50;2;si;67.97
+Navalcarnero;Brunete;2.25;1.0;15032.0;1010.0;M-600;1;no;53.58
+Navalcarnero;Collado Villalba;3.0;1.0;56766.0;2474.0;A-5,M-50,A-6;3;si;82.6
+Navalcarnero;Colmenarejo;3.0;1.0;36662.0;2404.0;M-600;1;no;54.9
+Navalcarnero;El Escorial;3.0;1.0;40946.0;2592.0;M-600;1;no;56.87
+Navalcarnero;El Álamo;3.2;1.2;8292.0;682.0;Calle del Escorial,M-404,Calle de Luis López Oliveros;3;no;43.77
+Navalcarnero;Fuenlabrada;2.5;1.1;25473.0;1344.0;A-5,M-506;2;si;68.23
+Navalcarnero;Galapagar;2.0;1.0;39031.0;2702.0;M-600,M-510;2;no;52.0
+Navalcarnero;Getafe;3.0;1.0;32400.0;1556.0;A-5,M-50;2;si;74.96
+Navalcarnero;Griñón;1.5;1.0;20360.0;1364.0;M-404;1;no;53.74
+Navalcarnero;Guadarrama;2.0;1.0;63864.0;2836.0;A-5,M-50,A-6;3;si;81.07
+Navalcarnero;La Cabrera;3.0;1.0;98205.0;4276.0;A-5,M-30,A-1;3;si;82.68
+Navalcarnero;Las Rozas de Madrid;2.5;1.0;49349.0;3398.0;M-507;1;no;52.28
+Navalcarnero;Leganés;2.86;1.07;27763.0;1561.0;A-5,M-50;2;si;64.03
+Navalcarnero;Madrid;5.72;2.31;33733.0;2060.0;A-5,Avenida de Portugal;2;si;58.95
+Navalcarnero;Majadahonda;3.0;1.0;34976.0;1711.0;A-5,M-50;2;si;73.59
+Navalcarnero;Móstoles;4.87;1.82;15699.0;929.0;A-5;1;si;60.84
+Navalcarnero;Parla;2.0;1.0;29640.0;1724.0;R-5,M-410,A-42;3;si;61.89
+Navalcarnero;Pinto;3.0;1.0;37211.0;1678.0;A-5,M-50;2;si;79.83
+Navalcarnero;Pozuelo de Alarcón;3.5;1.0;35796.0;1769.0;A-5,M-40;2;si;72.85
+Navalcarnero;Quijorna;4.5;1.5;22675.0;1337.0;M-600,M-501,M-522;3;no;61.05
+Navalcarnero;San Lorenzo de El Escorial;0.0;1.0;42905.0;2918.0;M-600;1;no;52.93
+Navalcarnero;San Sebastián de los Reyes;2.67;1.0;56627.0;2875.0;A-5,M-40,M-30;3;si;70.91
+Navalcarnero;Sevilla la Nueva;2.5;1.0;7932.0;614.0;Carretera de Navacerrada,M-600;2;no;46.51
+Navalcarnero;Somosierra;3.0;1.0;130516.0;5336.0;A-5,A-1;2;si;88.05
+Navalcarnero;Torrejón de Ardoz;1.0;1.0;60066.0;2749.0;A-5,M-45;2;si;78.66
+Navalcarnero;Torrelodones;3.0;1.0;45389.0;1987.0;A-5,M-50;2;si;82.23
+Navalcarnero;Tres Cantos;2.67;1.0;56560.0;3241.0;A-5,M-30,M-607;3;si;62.83
+Navalcarnero;Valdemorillo;2.5;1.0;29585.0;1985.0;M-600;1;no;53.66
+Navalcarnero;Valdemoro;1.33;1.0;42735.0;1925.0;A-5,M-50;2;si;79.92
+Navalcarnero;Villa del Prado;3.0;1.0;29077.0;2001.0;M-507;1;no;52.31
+Navalcarnero;Villanueva de Perales;2.0;1.0;16196.0;1245.0;M-600,M-523;2;no;46.83
+Navalcarnero;Villanueva de la Cañada;3.5;1.25;19674.0;1443.0;M-600;1;no;49.08
+Navalcarnero;Villaviciosa de Odón;2.0;1.0;17540.0;1002.0;A-5,M-856;2;si;63.02
+Navarredonda y San Mamés;Buitrago del Lozoya;2.0;1.0;9867.0;777.0;M-634;1;no;45.72
+Navas del Rey;Alcalá de Henares;3.0;1.0;90674.0;4587.0;M-501,M-40;2;si;71.16
+Navas del Rey;Alcorcón;0.0;1.0;42363.0;1984.0;M-501;1;no;76.87
+Navas del Rey;Boadilla del Monte;3.0;1.0;38982.0;1809.0;M-501;1;no;77.58
+Navas del Rey;Brunete;2.86;1.0;25830.0;1138.0;M-501;1;no;81.71
+Navas del Rey;Cadalso de los Vidrios;3.0;1.0;26246.0;1697.0;M-501,M-541;2;no;55.68
+Navas del Rey;Chapinería;3.0;1.0;4128.0;271.0;M-855,M-501;2;no;54.84
+Navas del Rey;Fuenlabrada;4.5;1.5;47872.0;2209.0;M-501,M-506;2;no;78.02
+Navas del Rey;Getafe;0.75;1.0;55003.0;2445.0;M-501,M-50;2;si;80.99
+Navas del Rey;Madrid;3.11;1.17;54423.0;2872.0;M-501;1;no;68.22
+Navas del Rey;Móstoles;3.0;1.0;38728.0;1847.0;M-501;1;no;75.49
+Navas del Rey;Pelayos de la Presa;2.75;1.0;12153.0;825.0;M-501;1;no;53.03
+Navas del Rey;Pinto;3.0;1.0;59814.0;2568.0;M-501,M-50;2;si;83.85
+Navas del Rey;San Martín de Valdeiglesias;4.06;1.44;19120.0;1166.0;M-501;1;no;59.03
+Navas del Rey;Valdemoro;3.0;1.0;65338.0;2815.0;M-501,M-50;2;si;83.56
+Navas del Rey;Villaviciosa de Odón;3.0;1.0;34976.0;1524.0;M-501;1;no;82.62
+Nuevo Baztán;Alcalá de Henares;2.5;1.0;19923.0;1560.0;M-204;1;no;45.98
+Nuevo Baztán;Arganda del Rey;2.0;1.0;23104.0;1757.0;M-219,M-220,M-209;3;no;47.34
+Nuevo Baztán;Campo Real;1.5;1.0;13641.0;974.0;M-219;1;no;50.42
+Nuevo Baztán;Coslada;3.0;1.0;38022.0;2511.0;M-219,M-217,R-3;3;no;54.51
+Nuevo Baztán;Madrid;1.67;1.0;44728.0;2885.0;M-219,M-217,R-3;3;no;55.81
+Nuevo Baztán;Rivas-Vaciamadrid;2.0;1.0;28011.0;1941.0;M-219,M-209,M-300;3;no;51.95
+Nuevo Baztán;San Sebastián de los Reyes;3.0;1.0;50011.0;2991.0;M-204,M-100,R-2;3;no;60.19
+Nuevo Baztán;Torrejón de Ardoz;3.0;1.0;27324.0;2030.0;M-219,M-219,M-206;3;no;48.46
+Nuevo Baztán;Villalbilla;2.0;1.0;11386.0;839.0;M-204;1;no;48.86
+Olmeda de las Fuentes;Campo Real;3.0;1.0;18353.0;1160.0;M-234,M-209;2;no;56.96
+Orusco de Tajuña;Madrid;3.0;1.0;52492.0;2965.0;M-229,M-221,R-3;3;no;63.73
+Paracuellos de Jarama;Ajalvir;3.0;1.0;7071.0;575.0;M-113;1;no;44.27
+Paracuellos de Jarama;Alcalá de Henares;2.0;1.0;20944.0;1615.0;M-113,M-100;2;no;46.69
+Paracuellos de Jarama;Alcobendas;1.5;1.0;18067.0;1277.0;M-111,M-13,M-12;3;no;50.93
+Paracuellos de Jarama;Aranjuez;3.0;1.0;70612.0;3237.0;M-50,A-4;2;si;78.53
+Paracuellos de Jarama;Collado Villalba;3.0;1.0;56969.0;3401.0;M-11,M-30,A-6;3;no;60.3
+Paracuellos de Jarama;Getafe;3.0;1.0;42716.0;2097.0;M-50,M-45;2;si;73.33
+Paracuellos de Jarama;Las Rozas de Madrid;1.0;1.0;111192.0;5971.0;M-30,M-40,M-501;3;si;67.04
+Paracuellos de Jarama;Loeches;2.0;1.0;27784.0;1706.0;M-50,M-206;2;si;58.63
+Paracuellos de Jarama;Madrid;2.82;1.27;22676.0;1924.0;M-111,M-12,A-2;3;si;42.43
+Paracuellos de Jarama;Móstoles;3.0;1.0;44443.0;2832.0;M-14,M-40,R-5;3;si;56.5
+Paracuellos de Jarama;Perales de Tajuña;2.0;1.0;47851.0;2133.0;M-50,R-3;2;si;80.76
+Paracuellos de Jarama;San Sebastián de los Reyes;2.0;1.0;17586.0;1205.0;M-111,M-13,M-12;3;no;52.54
+Paracuellos de Jarama;Talamanca de Jarama;3.0;1.0;31494.0;1891.0;M-111,M-103;2;no;59.96
+Paracuellos de Jarama;Torrejón de Ardoz;2.5;1.2;14615.0;1020.0;M-113,M-50,M-108;3;si;51.58
+Paracuellos de Jarama;Torrelaguna;2.0;1.0;41277.0;2450.0;M-111,M-103,N-320;3;si;60.65
+Paracuellos de Jarama;Valdemoro;3.0;1.0;49665.0;2194.0;M-50;1;si;81.49
+Parla;Alcalá de Henares;2.62;1.0;54660.0;2659.0;A-42,M-50;2;si;74.0
+Parla;Alcobendas;3.8;1.2;43056.0;2354.0;A-42,M-30;2;si;65.85
+Parla;Alcorcón;3.0;1.0;19928.0;1242.0;A-42,M-50;2;si;57.76
+Parla;Algete;3.0;1.0;59385.0;2777.0;A-42,M-50;2;si;76.98
+Parla;Aranjuez;2.38;1.12;33705.0;2003.0;A-4,M-305;2;no;60.58
+Parla;Arganda del Rey;3.0;1.0;40370.0;1965.0;M-50,A-3;2;si;73.96
+Parla;Arroyomolinos;2.0;1.0;16529.0;1139.0;M-410,M-413;2;no;52.24
+Parla;Boadilla del Monte;3.0;1.0;27339.0;1452.0;A-42,M-50;2;si;67.78
+Parla;Brunete;3.0;1.0;35875.0;1822.0;M-50,M-506,M-501;3;si;70.88
+Parla;Buitrago del Lozoya;3.0;1.0;100961.0;4350.0;A-42,A-1;2;si;83.55
+Parla;Casarrubuelos;3.0;1.0;10719.0;759.0;Carretera de Madrid Toledo,Calle de Toledo,A-42;3;si;50.84
+Parla;Collado Villalba;2.83;1.0;59278.0;2612.0;M-50,A-6;2;si;81.7
+Parla;Coslada;2.5;1.0;33997.0;1826.0;A-42,M-45;2;si;67.03
+Parla;Cubas de la Sagra;3.0;1.0;11503.0;797.0;A-42,Camino de Palomero;2;si;51.96
+Parla;Fuenlabrada;3.07;1.33;10753.0;805.0;A-42,M-506;2;si;48.09
+Parla;Getafe;2.79;1.28;9624.0;615.0;A-42;1;si;56.34
+Parla;Griñón;3.0;1.0;10206.0;879.0;Calle Real,M-404,M-404;3;no;41.8
+Parla;Humanes de Madrid;3.0;1.0;9796.0;768.0;M-410,M-405;2;no;45.92
+Parla;Las Rozas de Madrid;4.0;2.0;75798.0;4888.0;M-410,M-507;2;no;55.83
+Parla;Leganés;3.89;1.33;12794.0;870.0;A-42,Avenida del Museo;2;si;52.94
+Parla;Los Molinos;2.0;1.0;71570.0;3359.0;M-50,A-6;2;si;76.7
+Parla;Madrid;3.9;1.86;23949.0;1601.0;A-42;1;si;53.85
+Parla;Mejorada del Campo;1.0;1.0;34682.0;1650.0;A-42,M-50;2;si;75.67
+Parla;Móstoles;2.92;1.17;19145.0;1223.0;A-42,M-50;2;si;56.35
+Parla;Pinto;3.0;1.14;8672.0;811.0;Calle de San Roque,M-408,M-506;3;no;38.49
+Parla;Pozuelo de Alarcón;3.0;1.0;33735.0;1787.0;A-42,M-40;2;si;67.96
+Parla;Rivas-Vaciamadrid;2.5;1.0;32025.0;1474.0;A-42,M-50;2;si;78.22
+Parla;San Fernando de Henares;3.0;1.0;36232.0;1834.0;A-42,M-50;2;si;71.12
+Parla;San Lorenzo de El Escorial;3.0;1.0;66859.0;3630.0;M-50,M-503,M-600;3;si;66.31
+Parla;San Sebastián de los Reyes;3.0;1.0;43705.0;2428.0;A-42,M-30;2;si;64.8
+Parla;Somosierra;3.0;1.0;117594.0;4888.0;A-42,A-1;2;si;86.61
+Parla;Torrejón de Ardoz;2.36;1.09;40972.0;2021.0;M-50;1;si;72.98
+Parla;Torrejón de Velasco;3.0;1.0;7070.0;606.0;Carretera de Madrid Toledo,A-42,M-404;3;si;42.0
+Parla;Torrejón de la Calzada;3.0;1.0;5262.0;522.0;Carretera de Madrid Toledo,Calle Real;2;no;36.29
+Parla;Torrelodones;4.0;1.0;47901.0;2125.0;M-50;1;si;81.15
+Parla;Valdemoro;2.7;1.2;12758.0;961.0;M-408,M-506,A-4;3;no;47.79
+Parla;Villanueva de la Cañada;3.0;1.0;40686.0;2278.0;M-50,M-506,M-501;3;si;64.3
+Parla;Villaviciosa de Odón;3.0;1.0;24559.0;1335.0;A-42,M-50;2;si;66.23
+Patones;Buitrago del Lozoya;3.0;1.0;31834.0;1964.0;M-131,A-1;2;no;58.35
+Patones;El Berrueco;3.0;1.0;16551.0;1128.0;M-102,M-131;2;no;52.82
+Patones;La Cabrera;3.0;1.0;16187.0;1269.0;M-102,M-124;2;no;45.92
+Patones;Madrid;3.11;1.0;66003.0;3506.0;N-320,A-1;2;si;67.77
+Patones;Torrelaguna;3.0;1.0;5881.0;398.0;M-102;1;no;53.19
+Pedrezuela;Arganda del Rey;1.0;1.0;66864.0;2989.0;A-1,M-50,R-3;3;si;80.53
+Pedrezuela;El Molar;3.0;1.0;2879.0;262.0;M-963,Avenida de Madrid;2;no;39.56
+Pedrezuela;Madrid;2.75;1.25;45876.0;2549.0;A-1,M-30;2;no;64.79
+Pedrezuela;Rivas-Vaciamadrid;1.0;1.0;61753.0;2550.0;A-1,M-50;2;si;87.18
+Pedrezuela;San Sebastián de los Reyes;3.0;1.0;26656.0;1513.0;Avenida de Madrid,A-1;2;no;63.42
+Pedrezuela;Valdemoro;2.0;1.0;70774.0;3484.0;A-1,A-4;2;no;73.13
+Pelayos de la Presa;Boadilla del Monte;3.0;1.0;48079.0;2433.0;M-501;1;no;71.14
+Pelayos de la Presa;Brunete;3.0;1.0;34927.0;1762.0;M-855,M-501;2;no;71.36
+Pelayos de la Presa;Cadalso de los Vidrios;3.0;1.0;13586.0;996.0;M-541;1;no;49.11
+Pelayos de la Presa;Chapinería;3.0;1.0;13225.0;895.0;M-501,M-855,M-501;3;no;53.2
+Pelayos de la Presa;Madrid;3.33;1.44;63520.0;3496.0;M-855,M-501;2;no;65.41
+Pelayos de la Presa;Navas del Rey;2.75;1.0;9245.0;639.0;M-501,M-855;2;no;52.08
+Pelayos de la Presa;San Martín de Valdeiglesias;2.67;1.0;6014.0;447.0;M-501;1;no;48.43
+Pelayos de la Presa;Villaviciosa de Odón;3.0;1.0;44073.0;2148.0;M-855,M-501;2;no;73.87
+Perales de Tajuña;Alcalá de Henares;3.0;1.0;33100.0;2352.0;M-220,M-220,M-300;3;no;50.66
+Perales de Tajuña;Arganda del Rey;2.33;1.0;11673.0;821.0;Carretera de Valencia,Avenida de Valencia,Calle Real;3;no;51.18
+Perales de Tajuña;Campo Real;3.0;1.0;14102.0;899.0;M-220,Carretera de Perales,Carretera Villar del Olmo;3;no;56.47
+Perales de Tajuña;Fuentidueña de Tajo;2.25;1.0;24030.0;1074.0;A-3;1;si;80.55
+Perales de Tajuña;Leganés;3.0;1.0;46980.0;2337.0;A-3,M-50,M-45;3;si;72.37
+Perales de Tajuña;Loeches;2.67;1.0;21481.0;1372.0;M-220,M-220,M-219;3;no;56.36
+Perales de Tajuña;Madrid;2.12;1.0;40629.0;2126.0;A-3;1;si;68.8
+Perales de Tajuña;Mejorada del Campo;2.0;1.0;25101.0;1209.0;A-3,R-3;2;si;74.74
+Perales de Tajuña;Móstoles;3.0;1.0;58841.0;2588.0;A-3,M-50;2;si;81.85
+Perales de Tajuña;Paracuellos de Jarama;2.0;1.0;47619.0;2069.0;R-3,M-50;2;si;82.86
+Perales de Tajuña;Rivas-Vaciamadrid;2.25;1.0;21384.0;994.0;A-3;1;si;77.45
+Perales de Tajuña;San Sebastián de los Reyes;2.5;1.0;58215.0;2535.0;R-3,M-50;2;si;82.67
+Perales de Tajuña;Torrejón de Ardoz;2.0;1.0;37301.0;1869.0;A-3,R-3,M-50;3;si;71.85
+Perales de Tajuña;Torrelaguna;2.0;1.0;84735.0;3853.0;R-3,M-50,M-111;3;si;79.17
+Perales de Tajuña;Velilla de San Antonio;2.0;1.0;25375.0;1208.0;A-3,R-3;2;si;75.62
+Perales de Tajuña;Villarejo de Salvanés;2.22;1.0;11692.0;638.0;M-302,A-3;2;si;65.97
+Pinilla del Valle;Madrid;3.0;1.0;91292.0;4522.0;M-604,A-1;2;no;72.68
+Pinto;Alcalá de Henares;3.18;1.29;47889.0;2346.0;M-50,A-2;2;si;73.49
+Pinto;Alcobendas;2.83;1.0;37892.0;2188.0;A-4,M-30;2;no;62.35
+Pinto;Alcorcón;3.8;1.2;23538.0;1284.0;A-4,M-50;2;si;65.99
+Pinto;Algete;3.0;1.0;52614.0;2465.0;A-4,M-50;2;si;76.84
+Pinto;Aranjuez;2.96;1.28;27679.0;1455.0;A-4,M-305;2;no;68.48
+Pinto;Arganda del Rey;2.5;1.0;33599.0;1653.0;M-50,A-3;2;si;73.17
+Pinto;Berzosa del Lozoya;3.0;1.0;111512.0;5324.0;A-4,A-1,M-127;3;no;75.4
+Pinto;Brunete;3.0;1.0;39485.0;1864.0;M-50,M-506,M-501;3;si;76.26
+Pinto;Buitrago del Lozoya;3.0;1.0;95797.0;4185.0;A-4,A-1;2;no;82.41
+Pinto;Campo Real;3.0;1.0;38709.0;1986.0;M-50,A-3,M-209;3;si;70.17
+Pinto;Cercedilla;3.0;1.0;78145.0;3590.0;M-50,A-6;2;si;78.36
+Pinto;Chapinería;1.0;1.0;58753.0;2567.0;M-50,M-501;2;si;82.4
+Pinto;Ciempozuelos;2.75;1.25;14556.0;976.0;A-4,M-404;2;no;53.69
+Pinto;Collado Villalba;2.25;1.12;62888.0;2653.0;M-50,A-6;2;si;85.34
+Pinto;Colmenar Viejo;3.0;1.0;54450.0;2932.0;A-4,M-30,M-607;3;no;66.86
+Pinto;Coslada;3.0;1.0;28449.0;1573.0;A-4,M-45;2;no;65.11
+Pinto;El Boalo;3.0;1.0;74804.0;3804.0;M-50,A-6;2;si;70.79
+Pinto;Fuenlabrada;3.12;1.24;12224.0;972.0;Calle Águilas,M-506;2;no;45.27
+Pinto;Galapagar;3.0;1.0;55601.0;2733.0;M-50,M-505;2;si;73.24
+Pinto;Getafe;2.81;1.26;11750.0;835.0;A-4,M-406;2;no;50.66
+Pinto;Guadalix de la Sierra;1.0;1.0;78607.0;3651.0;A-4,A-1;2;no;77.51
+Pinto;Humanes de Madrid;3.0;1.33;15804.0;1301.0;M-506,M-405;2;no;43.73
+Pinto;Las Rozas de Madrid;2.5;1.17;94730.0;4453.0;M-50,M-501;2;si;76.58
+Pinto;Leganés;2.33;1.0;14377.0;1106.0;M-506,A-42,Avenida del Museo;3;si;46.8
+Pinto;Madrid;4.43;2.2;22166.0;1668.0;A-4;1;no;47.84
+Pinto;Majadahonda;3.0;1.0;41098.0;1891.0;M-50;1;si;78.24
+Pinto;Manzanares el Real;1.0;1.0;71654.0;3787.0;A-4,M-30,M-607;3;no;68.12
+Pinto;Montejo de la Sierra;3.0;1.0;106891.0;5077.0;A-4,A-1,M-135;3;no;75.79
+Pinto;Móstoles;2.58;1.0;22755.0;1265.0;A-4,M-50;2;si;64.76
+Pinto;Navas del Rey;3.0;1.0;61822.0;2680.0;M-50,M-501;2;si;83.04
+Pinto;Parla;2.69;1.08;8150.0;867.0;Paseo de las Artes,Calle Águilas,M-408;3;no;33.84
+Pinto;Perales de Tajuña;3.0;1.0;32844.0;1993.0;M-506,M-302,M-302;3;no;59.33
+Pinto;Pozuelo de Alarcón;2.0;1.0;34431.0;1831.0;A-4,M-45,M-40;3;si;67.7
+Pinto;Rivas-Vaciamadrid;1.79;1.07;25254.0;1162.0;M-50,A-3;2;si;78.24
+Pinto;San Fernando de Henares;3.0;1.0;29461.0;1522.0;A-4,M-50;2;si;69.68
+Pinto;San Lorenzo de El Escorial;2.0;1.0;70469.0;3672.0;M-50,M-503,M-600;3;si;69.09
+Pinto;San Martín de Valdeiglesias;3.0;1.0;80244.0;3709.0;M-50,M-501;2;si;77.89
+Pinto;San Martín de la Vega;3.0;1.0;13349.0;889.0;M-841,M-506;2;no;54.06
+Pinto;San Sebastián de los Reyes;2.2;1.2;38541.0;2262.0;A-4,M-30;2;no;61.34
+Pinto;Somosierra;2.0;1.0;112430.0;4723.0;A-1;1;no;85.7
+Pinto;Torrejón de Ardoz;2.87;1.13;34201.0;1709.0;M-50;1;si;72.04
+Pinto;Torrelodones;1.4;1.0;51511.0;2166.0;M-50;1;si;85.61
+Pinto;Tres Cantos;3.0;1.0;45868.0;2535.0;A-4,M-30,M-607;3;no;65.14
+Pinto;Valdemoro;3.82;1.69;6732.0;412.0;A-4;1;no;58.82
+Pinto;Villanueva de la Cañada;1.5;1.0;44296.0;2320.0;M-50,M-506,M-501;3;si;68.74
+Pinto;Villarejo de Salvanés;3.0;1.0;43948.0;2586.0;M-506,M-302,M-302;3;no;61.18
+Pinto;Villaviciosa de Odón;2.0;1.0;28169.0;1377.0;A-4,M-50;2;si;73.64
+Pozuelo de Alarcón;Alcalá de Henares;3.0;1.06;50618.0;3107.0;M-503,M-30,A-2;3;si;58.65
+Pozuelo de Alarcón;Alcobendas;0.75;1.0;26753.0;2007.0;M-40;1;si;47.99
+Pozuelo de Alarcón;Alcorcón;1.5;1.75;14723.0;872.0;M-40,A-5;2;si;60.78
+Pozuelo de Alarcón;Alpedrete;1.0;1.0;36447.0;1792.0;M-503,M-50,A-6;3;si;73.22
+Pozuelo de Alarcón;Arganda del Rey;3.4;1.0;44801.0;2694.0;M-30,A-3;2;si;59.87
+Pozuelo de Alarcón;Boadilla del Monte;3.0;1.0;8405.0;777.0;M-513;1;no;38.94
+Pozuelo de Alarcón;Brunete;3.0;1.0;18559.0;1382.0;M-513;1;no;48.34
+Pozuelo de Alarcón;Buitrago del Lozoya;3.0;1.0;84658.0;4003.0;A-1;1;no;76.14
+Pozuelo de Alarcón;Collado Villalba;2.73;1.0;34201.0;1660.0;M-50,A-6;2;si;74.17
+Pozuelo de Alarcón;Colmenar Viejo;2.0;1.0;38249.0;2343.0;M-40,M-607;2;si;58.77
+Pozuelo de Alarcón;Coslada;2.88;1.0;30677.0;2080.0;M-503,M-30,M-23;3;no;53.09
+Pozuelo de Alarcón;Fuenlabrada;3.0;1.0;26616.0;1495.0;M-40,A-5,M-506;3;si;64.09
+Pozuelo de Alarcón;Galapagar;3.0;1.0;26914.0;1739.0;M-503,M-50,M-505;3;si;55.72
+Pozuelo de Alarcón;Getafe;2.0;1.0;23438.0;1345.0;M-40,M-45;2;si;62.73
+Pozuelo de Alarcón;Guadarrama;3.0;1.0;41299.0;2022.0;M-503,M-50,A-6;3;si;73.53
+Pozuelo de Alarcón;Las Rozas de Madrid;2.2;1.0;80749.0;3934.0;M-501;1;no;73.89
+Pozuelo de Alarcón;Leganés;2.4;1.0;19868.0;1352.0;M-40,M-425;2;si;52.9
+Pozuelo de Alarcón;Madrid;3.38;1.93;13924.0;1330.0;M-503,M-500,Calle Gran Vía;3;no;37.69
+Pozuelo de Alarcón;Majadahonda;2.59;1.09;9127.0;968.0;Carretera de Majadahonda,M-503,Carretera de Pozuelo de Alarcón;3;no;33.94
+Pozuelo de Alarcón;Meco;3.0;1.0;60320.0;3321.0;M-40,R-2;2;si;65.39
+Pozuelo de Alarcón;Moralzarzal;3.0;1.0;40852.0;2159.0;M-503,M-50,A-6;3;si;68.12
+Pozuelo de Alarcón;Móstoles;2.11;1.0;19403.0;1426.0;M-40,A-5,Avenida de Móstoles;3;si;48.98
+Pozuelo de Alarcón;Navacerrada;2.0;1.0;44776.0;2272.0;M-50,A-6,M-601;3;si;70.95
+Pozuelo de Alarcón;Navalcarnero;2.4;1.0;33741.0;1535.0;M-40,A-5;2;si;79.13
+Pozuelo de Alarcón;Parla;3.0;1.0;31752.0;1743.0;M-40,M-45,A-42;3;si;65.58
+Pozuelo de Alarcón;Rascafría;2.0;1.0;75832.0;4370.0;A-6,M-601,M-604;3;no;62.47
+Pozuelo de Alarcón;Rivas-Vaciamadrid;1.33;1.0;36456.0;2202.0;M-30,A-3;2;si;59.6
+Pozuelo de Alarcón;San Lorenzo de El Escorial;2.0;2.0;40689.0;2519.0;M-503,M-600;2;no;58.15
+Pozuelo de Alarcón;San Martín de Valdeiglesias;3.0;1.0;66263.0;3189.0;M-501;1;no;74.8
+Pozuelo de Alarcón;Sevilla la Nueva;2.0;1.0;30175.0;1607.0;M-513,M-40,M-501;3;si;67.6
+Pozuelo de Alarcón;Torrejón de Ardoz;2.87;1.0;36950.0;2744.0;M-40,A-6,A-2;3;si;48.48
+Pozuelo de Alarcón;Torrelodones;2.8;1.0;22824.0;1173.0;M-503,M-50,A-6;3;si;70.05
+Pozuelo de Alarcón;Valdemorillo;3.5;1.0;27369.0;1587.0;M-503,M-600;2;no;62.08
+Pozuelo de Alarcón;Valdemoro;2.0;1.0;37821.0;1913.0;M-40,M-45,A-4;3;si;71.17
+Pozuelo de Alarcón;Villanueva del Pardillo;0.0;1.0;16515.0;985.0;M-503,M-50,M-509;3;si;60.36
+Puebla de la Sierra;Buitrago del Lozoya;3.0;1.0;31790.0;2308.0;M-130,M-137;2;no;49.59
+Puebla de la Sierra;Cercedilla;3.0;1.0;97135.0;6043.0;M-130,M-127,M-608;3;no;57.87
+Puebla de la Sierra;Guadalix de la Sierra;3.0;1.0;55300.0;3540.0;M-130,M-127,A-1;3;no;56.24
+Puebla de la Sierra;Lozoyuela-Navas-Sieteiglesias;3.0;1.0;35587.0;2598.0;M-130,M-135;2;no;49.31
+Puentes Viejas;Madrid;4.0;1.0;83528.0;4353.0;A-1;1;no;69.08
+Quijorna;Brunete;3.0;1.0;11322.0;657.0;M-522,M-501;2;no;62.04
+Quijorna;Madrid;2.67;1.0;39915.0;2391.0;M-522,M-501,M-511;3;no;60.1
+Quijorna;Navalcarnero;4.5;1.5;23120.0;1420.0;M-522,M-501,M-600;3;no;58.61
+Rascafría;Alameda del Valle;3.0;1.0;4205.0;342.0;M-604;1;no;44.26
+Rascafría;Collado Villalba;2.0;1.0;44345.0;3016.0;M-604,M-601;2;no;52.93
+Rascafría;Getafe;3.0;1.0;94598.0;5150.0;M-604,M-601,A-6;3;no;66.13
+Rascafría;Lozoya;3.0;1.0;9942.0;632.0;M-604;1;no;56.63
+Rascafría;Lozoyuela-Navas-Sieteiglesias;3.0;1.0;27804.0;1687.0;M-604;1;no;59.33
+Rascafría;Madrid;2.57;1.14;82399.0;4949.0;M-604,M-601,A-6;3;no;59.94
+Rascafría;Navacerrada;2.0;1.0;32716.0;2318.0;M-604,M-601;2;no;50.81
+Rascafría;Pinto;3.0;1.0;103200.0;5202.0;M-604,M-601,M-50;3;si;71.42
+Rascafría;Pozuelo de Alarcón;2.0;1.0;76884.0;4403.0;M-604,M-601,A-6;3;no;62.86
+Rascafría;Valdemoro;2.0;1.0;108724.0;5448.0;M-604,M-601,M-50;3;si;71.84
+Rascafría;Venturada;3.0;1.0;44911.0;2311.0;M-604,A-1;2;no;69.96
+Ribatejada;Manzanares el Real;2.0;1.0;58613.0;3648.0;N-320,M-608;2;si;57.84
+Rivas-Vaciamadrid;Ajalvir;3.0;1.0;30484.0;1401.0;A-3,M-50;2;si;78.33
+Rivas-Vaciamadrid;Alcalá de Henares;2.33;1.0;34473.0;1911.0;M-50,A-2,M-300;3;si;64.94
+Rivas-Vaciamadrid;Alcobendas;2.5;1.0;33729.0;2034.0;A-3,M-30,A-1;3;si;59.7
+Rivas-Vaciamadrid;Alcorcón;2.88;1.19;34135.0;1725.0;A-3,M-45;2;si;71.24
+Rivas-Vaciamadrid;Algete;3.0;1.0;39198.0;2030.0;A-3,M-50,M-114;3;si;69.51
+Rivas-Vaciamadrid;Aranjuez;1.83;1.0;51655.0;2542.0;M-50,A-4,M-305;3;si;73.15
+Rivas-Vaciamadrid;Arganda del Rey;2.88;1.19;10230.0;747.0;A-3,AR-30;2;si;49.3
+Rivas-Vaciamadrid;Arroyomolinos;2.33;1.0;47900.0;2162.0;M-50,R-5;2;si;79.76
+Rivas-Vaciamadrid;Boadilla del Monte;3.0;1.0;40499.0;2020.0;A-3,M-45,M-40;3;si;72.18
+Rivas-Vaciamadrid;Buitrago del Lozoya;1.67;1.0;90793.0;3522.0;M-50,A-1;2;si;92.8
+Rivas-Vaciamadrid;Campo Real;3.75;1.25;15340.0;1080.0;A-3,M-300,M-209;3;si;51.13
+Rivas-Vaciamadrid;Cercedilla;2.0;1.0;79267.0;4160.0;A-3,M-30,A-6;3;si;68.6
+Rivas-Vaciamadrid;Collado Villalba;2.75;1.0;64010.0;3223.0;A-3,A-6;2;si;71.5
+Rivas-Vaciamadrid;Colmenar Viejo;2.67;1.0;50287.0;2778.0;A-3,M-30,M-607;3;si;65.17
+Rivas-Vaciamadrid;Colmenar de Oreja;6.0;2.0;33748.0;2111.0;M-311;1;no;57.55
+Rivas-Vaciamadrid;Coslada;2.27;1.0;17667.0;1177.0;Calle de Severo Ochoa,A-3,M-45;3;si;54.04
+Rivas-Vaciamadrid;El Boalo;2.0;1.0;69721.0;3750.0;A-3,M-607;2;si;66.93
+Rivas-Vaciamadrid;El Molar;2.5;1.0;58007.0;2287.0;M-50,A-1;2;si;91.31
+Rivas-Vaciamadrid;Fuenlabrada;2.36;1.09;34033.0;1696.0;M-50;1;si;72.24
+Rivas-Vaciamadrid;Fuentidueña de Tajo;2.2;1.0;45045.0;1837.0;A-3;1;si;88.28
+Rivas-Vaciamadrid;Getafe;2.7;1.13;29276.0;1387.0;A-3,M-50;2;si;75.99
+Rivas-Vaciamadrid;Humanes de Madrid;1.0;1.0;41042.0;1925.0;A-3,M-50,A-42;3;si;76.75
+Rivas-Vaciamadrid;Las Rozas de Madrid;2.89;1.11;110643.0;5063.0;M-50,M-501;2;si;78.67
+Rivas-Vaciamadrid;Leganés;3.09;1.27;26095.0;1611.0;A-3,M-45;2;si;58.31
+Rivas-Vaciamadrid;Loeches;1.67;1.0;17407.0;1133.0;M-300;1;no;55.31
+Rivas-Vaciamadrid;Madrid;6.1;3.29;20456.0;1412.0;Calle de Severo Ochoa,A-3;2;si;52.15
+Rivas-Vaciamadrid;Majadahonda;2.5;1.0;43653.0;2591.0;A-3,M-30,A-6;3;si;60.65
+Rivas-Vaciamadrid;Mejorada del Campo;2.67;1.0;14495.0;903.0;A-3,M-50,M-203;3;si;57.79
+Rivas-Vaciamadrid;Moraleja de Enmedio;3.0;1.0;41200.0;1900.0;M-50,M-407;2;si;78.06
+Rivas-Vaciamadrid;Moralzarzal;3.0;1.0;70661.0;3722.0;A-3,M-30,A-6;3;si;68.34
+Rivas-Vaciamadrid;Morata de Tajuña;3.0;1.0;16654.0;976.0;A-3,M-313;2;si;61.43
+Rivas-Vaciamadrid;Móstoles;2.64;1.18;38668.0;1874.0;M-50;1;si;74.28
+Rivas-Vaciamadrid;Navalcarnero;3.0;1.0;53153.0;2387.0;A-3,M-45,A-5;3;si;80.16
+Rivas-Vaciamadrid;Nuevo Baztán;2.0;1.0;28889.0;1993.0;M-300,M-209,M-219;3;no;52.18
+Rivas-Vaciamadrid;Parla;2.33;1.0;31764.0;1618.0;A-3,M-50;2;si;70.67
+Rivas-Vaciamadrid;Perales de Tajuña;1.83;1.0;21516.0;1025.0;A-3;1;si;75.57
+Rivas-Vaciamadrid;Pinto;1.67;1.08;25184.0;1252.0;A-3,M-50;2;si;72.41
+Rivas-Vaciamadrid;Pozuelo de Alarcón;2.0;1.0;36305.0;2286.0;A-3,M-30,M-503;3;si;57.17
+Rivas-Vaciamadrid;San Martín de la Vega;2.0;1.0;17082.0;1158.0;M-832,M-506;2;no;53.1
+Rivas-Vaciamadrid;San Sebastián de los Reyes;1.8;1.0;34378.0;2108.0;A-3,M-30,A-1;3;si;58.71
+Rivas-Vaciamadrid;Talamanca de Jarama;3.0;1.0;58436.0;2700.0;M-50,M-111,M-103;3;si;77.91
+Rivas-Vaciamadrid;Torrejón de Ardoz;2.62;1.16;20785.0;1274.0;A-3,M-50,M-206;3;si;58.73
+Rivas-Vaciamadrid;Torrelodones;2.67;1.0;52633.0;2736.0;A-3,M-30,A-6;3;si;69.25
+Rivas-Vaciamadrid;Torres de la Alameda;2.0;1.0;23325.0;1529.0;A-3,M-300;2;si;54.92
+Rivas-Vaciamadrid;Tres Cantos;2.0;1.0;41705.0;2381.0;A-3,M-30,M-607;3;si;63.06
+Rivas-Vaciamadrid;Valdemorillo;2.5;1.0;65329.0;3195.0;M-45,M-40,M-503;3;si;73.61
+Rivas-Vaciamadrid;Valdemoro;1.65;1.0;30708.0;1499.0;M-50,A-4;2;si;73.75
+Rivas-Vaciamadrid;Velilla de San Antonio;2.0;1.0;16333.0;925.0;A-3,M-50,R-3;3;si;63.57
+Rivas-Vaciamadrid;Villanueva de la Cañada;2.5;1.0;60209.0;2930.0;M-50,M-506,M-501;3;si;73.98
+Rivas-Vaciamadrid;Villanueva del Pardillo;3.0;1.0;54475.0;2594.0;A-3,M-45,M-40;3;si;75.6
+Rivas-Vaciamadrid;Villarejo de Salvanés;2.17;1.08;32707.0;1402.0;A-3;1;si;83.98
+Rivas-Vaciamadrid;Villaviciosa de Odón;3.27;1.45;44082.0;1987.0;M-50;1;si;79.87
+Robledo de Chavela;Getafe;2.0;1.0;69512.0;3376.0;M-512,M-501,M-50;3;si;74.12
+Robledo de Chavela;Madrid;5.0;2.0;68932.0;3802.0;M-512,M-501;2;no;65.27
+Rozas de Puerto Real;Madrid;3.0;1.0;84746.0;4583.0;M-501,M-855,M-501;3;no;66.57
+Rozas de Puerto Real;San Martín de Valdeiglesias;3.0;1.0;14865.0;873.0;M-501,CL-501,M-501;3;no;61.3
+Rozas de Puerto Real;San Martín de la Vega;3.0;1.0;102461.0;5038.0;M-501,M-501,M-506;3;no;73.22
+San Fernando de Henares;Alcalá de Henares;2.33;1.0;19162.0;1374.0;A-2,M-300;2;si;50.21
+San Fernando de Henares;Ambite;3.0;1.0;43872.0;2724.0;R-3,M-209,M-209;3;no;57.98
+San Fernando de Henares;Aranjuez;2.5;1.0;56128.0;2856.0;M-50,A-4;2;si;70.75
+San Fernando de Henares;Arganda del Rey;3.0;1.0;20893.0;1573.0;M-206,M-208,R-3;3;no;47.82
+San Fernando de Henares;Casarrubuelos;3.0;1.0;46447.0;2199.0;M-50,A-42;2;si;76.04
+San Fernando de Henares;Coslada;3.0;1.0;2862.0;397.0;Calle de Honduras,Avenida de la Constitución;2;no;25.95
+San Fernando de Henares;El Molar;1.0;1.0;44089.0;1887.0;M-50,A-1;2;si;84.11
+San Fernando de Henares;Fuenlabrada;2.0;1.0;35325.0;2102.0;M-45,A-42;2;si;60.5
+San Fernando de Henares;Getafe;2.25;1.0;24617.0;1668.0;M-45;1;no;53.13
+San Fernando de Henares;Loeches;3.0;1.0;17084.0;1316.0;M-206;1;no;46.73
+San Fernando de Henares;Madrid;2.93;1.1;16449.0;1495.0;R-3,M-23,Calle de O'Donnell;3;no;39.61
+San Fernando de Henares;Móstoles;3.0;1.0;38311.0;2182.0;M-45,R-5;2;no;63.21
+San Fernando de Henares;Parla;3.0;1.0;36237.0;1932.0;M-50;1;si;67.52
+San Fernando de Henares;Rivas-Vaciamadrid;3.0;1.0;17557.0;1130.0;M-206,M-50,A-3;3;si;55.93
+San Fernando de Henares;Torrejón de Ardoz;2.3;1.0;8902.0;824.0;Avenida de la Cañada,M-21,A-2;3;si;38.89
+San Fernando de Henares;Torrejón de la Calzada;3.0;1.0;40981.0;1993.0;M-50,A-42;2;si;74.02
+San Fernando de Henares;Valdemoro;2.5;1.0;35181.0;1813.0;M-50,A-4;2;si;69.86
+San Fernando de Henares;Velilla de San Antonio;2.5;1.0;10391.0;942.0;M-206,M-203,M-208;3;no;39.71
+San Lorenzo de El Escorial;Alcalá de Henares;2.67;1.0;76945.0;5126.0;M-505,A-6,A-2;3;si;54.04
+San Lorenzo de El Escorial;Alcobendas;3.0;1.0;56679.0;3956.0;M-505,M-40;2;si;51.58
+San Lorenzo de El Escorial;Boadilla del Monte;3.0;1.0;40215.0;2460.0;M-600,M-503;2;no;58.85
+San Lorenzo de El Escorial;Brunete;3.0;1.0;27890.0;1918.0;M-600;1;no;52.35
+San Lorenzo de El Escorial;Collado Mediano;3.0;1.0;17771.0;1345.0;M-600,M-623;2;no;47.57
+San Lorenzo de El Escorial;Collado Villalba;3.1;1.3;18442.0;1302.0;Ruta Imperial,M-600,AP-6;3;no;50.99
+San Lorenzo de El Escorial;Estremera;3.0;1.0;122698.0;6232.0;M-505,M-30,A-3;3;si;70.88
+San Lorenzo de El Escorial;Fuenlabrada;3.0;1.0;56163.0;3105.0;M-600,M-503,M-50;3;si;65.12
+San Lorenzo de El Escorial;Galapagar;2.75;1.25;13856.0;1071.0;M-505;1;no;46.57
+San Lorenzo de El Escorial;Guadarrama;2.67;1.0;11788.0;889.0;Ruta Imperial,M-600;2;no;47.74
+San Lorenzo de El Escorial;Las Rozas de Madrid;3.07;1.43;59232.0;3859.0;M-512,M-501;2;no;55.26
+San Lorenzo de El Escorial;Leganés;3.0;1.0;55896.0;3361.0;M-600,M-503,M-40;3;si;59.87
+San Lorenzo de El Escorial;Madrid;2.98;1.24;47685.0;3348.0;M-505,A-6;2;no;51.27
+San Lorenzo de El Escorial;Majadahonda;3.0;1.0;32016.0;2362.0;M-505;1;no;48.8
+San Lorenzo de El Escorial;Moralzarzal;2.0;1.0;24923.0;1927.0;M-600,AP-6,M-608;3;no;46.56
+San Lorenzo de El Escorial;Móstoles;3.0;1.0;44284.0;2916.0;M-600,M-501;2;no;54.67
+San Lorenzo de El Escorial;Parla;3.0;1.0;64391.0;3447.0;M-600,M-503,M-50;3;si;67.25
+San Lorenzo de El Escorial;Soto del Real;3.0;1.0;41384.0;3032.0;M-600,M-623,M-608;3;no;49.14
+San Lorenzo de El Escorial;Torrejón de Ardoz;2.75;1.0;66651.0;4579.0;M-505,A-6,A-2;3;si;52.4
+San Lorenzo de El Escorial;Torrelodones;2.5;1.0;21820.0;1638.0;M-505,M-519,A-6;3;no;47.96
+San Lorenzo de El Escorial;Tres Cantos;1.0;1.0;53064.0;3387.0;M-623,M-607;2;no;56.4
+San Lorenzo de El Escorial;Valdemorillo;2.5;1.0;13870.0;1126.0;Avenida de los Reyes Católicos,M-600;2;no;44.34
+San Lorenzo de El Escorial;Valdemoro;3.0;1.0;73426.0;3671.0;M-600,M-503,M-50;3;si;72.01
+San Lorenzo de El Escorial;Villanueva de la Cañada;3.0;1.0;23153.0;1696.0;M-600;1;no;49.15
+San Lorenzo de El Escorial;Villaviciosa de Odón;3.0;1.0;40532.0;2592.0;M-600,M-501;2;no;56.29
+San Martín de Valdeiglesias;Alcalá de Henares;4.0;1.0;109145.0;5612.0;M-501,M-40;2;si;70.01
+San Martín de Valdeiglesias;Aldea del Fresno;2.0;1.0;28845.0;1655.0;M-501,M-510;2;no;62.74
+San Martín de Valdeiglesias;Aranjuez;2.0;1.0;104667.0;4876.0;M-501,M-50,A-4;3;si;77.28
+San Martín de Valdeiglesias;Boadilla del Monte;2.75;1.0;57364.0;2828.0;M-501;1;no;73.02
+San Martín de Valdeiglesias;Brunete;3.29;1.14;44212.0;2157.0;M-501;1;no;73.79
+San Martín de Valdeiglesias;Cadalso de los Vidrios;4.0;1.2;11371.0;743.0;M-501,M-542;2;no;55.1
+San Martín de Valdeiglesias;Cenicientos;3.0;1.0;16529.0;1093.0;M-501,M-542,M-541;3;no;54.44
+San Martín de Valdeiglesias;Chapinería;3.0;1.0;20060.0;1244.0;M-501,M-855;2;no;58.05
+San Martín de Valdeiglesias;Fuenlabrada;3.0;1.0;66254.0;3228.0;M-501;1;no;73.89
+San Martín de Valdeiglesias;Getafe;2.89;1.0;73385.0;3464.0;M-501,M-50;2;si;76.27
+San Martín de Valdeiglesias;Madrid;4.06;1.55;72805.0;3891.0;M-501;1;no;67.36
+San Martín de Valdeiglesias;Majadahonda;3.0;1.0;64218.0;3382.0;M-501,M-513;2;no;68.36
+San Martín de Valdeiglesias;Meco;4.0;1.0;116870.0;5908.0;M-501,M-40;2;si;71.21
+San Martín de Valdeiglesias;Móstoles;3.0;1.0;57110.0;2866.0;M-501;1;no;71.74
+San Martín de Valdeiglesias;Navas del Rey;3.65;1.24;16080.0;988.0;M-501,M-855;2;no;58.59
+San Martín de Valdeiglesias;Pelayos de la Presa;2.78;1.22;6539.0;462.0;M-501,M-541;2;no;50.95
+San Martín de Valdeiglesias;Pinto;3.0;1.0;78196.0;3587.0;M-501,M-50;2;si;78.48
+San Martín de Valdeiglesias;Pozuelo de Alarcón;3.21;1.07;62471.0;3530.0;M-501,M-513;2;no;63.71
+San Martín de Valdeiglesias;Robledo de Chavela;3.0;1.0;28588.0;1814.0;M-501,M-512;2;no;56.73
+San Martín de Valdeiglesias;Rozas de Puerto Real;3.0;1.0;14843.0;870.0;M-501,CL-501,M-501;3;no;61.42
+San Martín de Valdeiglesias;San Fernando de Henares;2.0;1.0;94415.0;4513.0;M-501,M-45;2;no;75.31
+San Martín de Valdeiglesias;San Martín de la Vega;3.0;1.0;90520.0;4345.0;M-501,M-506;2;no;75.0
+San Martín de Valdeiglesias;Valdemoro;3.0;1.0;83720.0;3834.0;M-501,M-50;2;si;78.61
+San Martín de Valdeiglesias;Villaviciosa de Odón;4.0;1.5;53358.0;2543.0;M-501;1;no;75.54
+San Martín de la Vega;Aranjuez;3.0;1.0;24243.0;1556.0;M-307,M-305;2;no;56.09
+San Martín de la Vega;Arganda del Rey;3.0;1.18;22466.0;1527.0;M-506,M-832,A-3;3;si;52.97
+San Martín de la Vega;Boadilla del Monte;3.0;1.0;42650.0;2203.0;M-841,A-4,M-50;3;si;69.7
+San Martín de la Vega;Buitrago del Lozoya;0.0;1.0;106597.0;4405.0;M-50,A-1;2;si;87.12
+San Martín de la Vega;Ciempozuelos;3.85;1.31;9331.0;821.0;M-307;1;no;40.92
+San Martín de la Vega;Leganés;2.0;1.0;28139.0;1686.0;M-506,A-42;2;si;60.08
+San Martín de la Vega;Madrid;2.45;1.0;33867.0;2377.0;M-506,M-841,A-4;3;no;51.29
+San Martín de la Vega;Morata de Tajuña;3.5;1.5;14153.0;935.0;M-506,M-302;2;no;54.49
+San Martín de la Vega;Móstoles;3.0;1.0;34456.0;1974.0;M-841,A-4,M-50;3;si;62.84
+San Martín de la Vega;Pinto;2.67;1.0;13429.0;902.0;M-506,M-841;2;no;53.6
+San Martín de la Vega;Rivas-Vaciamadrid;2.0;1.0;17015.0;1163.0;M-506,M-832;2;no;52.67
+San Martín de la Vega;Rozas de Puerto Real;3.0;1.0;106431.0;5162.0;M-841,M-50,M-501;3;si;74.23
+San Martín de la Vega;San Martín de Valdeiglesias;3.0;1.0;91945.0;4418.0;M-50,M-501;2;si;74.92
+San Martín de la Vega;San Sebastián de los Reyes;2.0;1.0;50242.0;2972.0;M-841,A-4,M-30;3;no;60.86
+San Martín de la Vega;Torrejón de Ardoz;3.0;1.0;36589.0;2157.0;M-506,A-3,M-50;3;si;61.07
+San Martín de la Vega;Valdemoro;2.5;1.0;18291.0;1113.0;M-506,A-4;2;no;59.16
+San Martín de la Vega;Villarejo de Salvanés;3.0;1.0;32840.0;2021.0;M-302,M-302,A-3;3;si;58.5
+San Sebastián de los Reyes;Ajalvir;3.0;1.25;18261.0;1078.0;M-50,M-113;2;si;60.98
+San Sebastián de los Reyes;Alcalá de Henares;2.61;1.21;30169.0;1822.0;M-50,R-2,Avenida de Daganzo;3;si;59.61
+San Sebastián de los Reyes;Alcobendas;3.51;1.41;1745.0;234.0;Calle de Hermenegildo Izquierdo,Calle de Santa Teresa de Jesús,Avenida de España;3;no;26.85
+San Sebastián de los Reyes;Alcorcón;2.19;1.06;35822.0;2234.0;A-1,M-30,M-40;3;si;57.73
+San Sebastián de los Reyes;Algete;3.1;1.2;13909.0;1071.0;Paseo Europa,Antigua Carretera de Burgos,M-106;3;no;46.75
+San Sebastián de los Reyes;Aranjuez;2.12;1.0;64404.0;3588.0;M-30,A-4;2;no;64.62
+San Sebastián de los Reyes;Arganda del Rey;2.0;1.0;42712.0;2546.0;M-30,A-3;2;si;60.39
+San Sebastián de los Reyes;Arroyomolinos;3.0;1.0;49679.0;2788.0;A-1,M-30,R-5;3;no;64.15
+San Sebastián de los Reyes;Buitrago del Lozoya;2.68;1.29;57649.0;2575.0;A-1;1;no;80.6
+San Sebastián de los Reyes;Cobeña;1.5;1.0;15601.0;1013.0;M-50,M-103;2;si;55.44
+San Sebastián de los Reyes;Collado Villalba;4.0;1.44;49305.0;2794.0;M-40,A-6;2;si;63.53
+San Sebastián de los Reyes;Colmenar Viejo;2.0;1.0;22876.0;1547.0;M-616,M-607,Avenida de la Libertad;3;no;53.23
+San Sebastián de los Reyes;Corpa;3.0;1.0;43598.0;2576.0;M-50,R-2,M-300;3;si;60.93
+San Sebastián de los Reyes;Coslada;4.0;1.0;19125.0;1330.0;M-12,M-40;2;si;51.77
+San Sebastián de los Reyes;Daganzo de Arriba;3.05;1.21;20427.0;1341.0;M-50,M-113;2;si;54.84
+San Sebastián de los Reyes;El Molar;3.67;1.33;24863.0;1340.0;Antigua Carretera de Burgos,A-1;2;no;66.8
+San Sebastián de los Reyes;Fuenlabrada;2.0;1.0;43584.0;2617.0;A-1,M-30,A-42;3;si;59.96
+San Sebastián de los Reyes;Galapagar;3.0;1.0;43547.0;2980.0;M-40,A-6,M-505;3;si;52.61
+San Sebastián de los Reyes;Gargantilla del Lozoya y Pinilla de Buitrago;3.0;1.0;62957.0;2975.0;A-1;1;no;76.18
+San Sebastián de los Reyes;Getafe;2.0;1.0;34598.0;2181.0;A-1,M-30,A-42;3;si;57.11
+San Sebastián de los Reyes;Guadalix de la Sierra;2.5;1.0;40389.0;2036.0;A-1,M-608;2;no;71.41
+San Sebastián de los Reyes;La Cabrera;3.0;1.33;41971.0;2053.0;A-1;1;no;73.6
+San Sebastián de los Reyes;Las Rozas de Madrid;2.45;1.09;103528.0;5364.0;M-40,M-501;2;si;69.48
+San Sebastián de los Reyes;Leganés;0.0;1.0;33730.0;2344.0;A-1,M-30,A-42;3;si;51.8
+San Sebastián de los Reyes;Loeches;2.0;1.0;38134.0;2122.0;M-50,M-206;2;si;64.69
+San Sebastián de los Reyes;Lozoya;3.0;1.0;67160.0;3173.0;A-1,M-604;2;no;76.2
+San Sebastián de los Reyes;Lozoyuela-Navas-Sieteiglesias;3.0;1.25;49497.0;2245.0;A-1;1;no;79.37
+San Sebastián de los Reyes;Madrid;5.92;2.6;18559.0;1610.0;A-1,M-30,Calle de Alcalá;3;no;41.5
+San Sebastián de los Reyes;Majadahonda;1.0;1.0;28948.0;2162.0;M-40,A-6;2;si;48.2
+San Sebastián de los Reyes;Mejorada del Campo;2.0;1.0;33084.0;1837.0;M-50,M-206;2;si;64.84
+San Sebastián de los Reyes;Montejo de la Sierra;3.0;1.0;68743.0;3467.0;A-1,M-135;2;no;71.38
+San Sebastián de los Reyes;Móstoles;3.0;1.18;40659.0;2559.0;A-1,M-30,R-5;3;no;57.2
+San Sebastián de los Reyes;Navalcarnero;3.0;1.33;54840.0;2896.0;M-30,M-40,A-5;3;si;68.17
+San Sebastián de los Reyes;Paracuellos de Jarama;1.83;1.0;17166.0;1052.0;M-50;1;si;58.74
+San Sebastián de los Reyes;Parla;3.0;1.0;42914.0;2548.0;M-30,A-42;2;si;60.63
+San Sebastián de los Reyes;Perales de Tajuña;1.5;1.0;58201.0;2549.0;M-50,R-3;2;si;82.2
+San Sebastián de los Reyes;Pezuela de las Torres;3.0;1.0;51138.0;3022.0;M-50,R-2,M-225;3;si;60.92
+San Sebastián de los Reyes;Pinto;2.12;1.25;37933.0;2298.0;M-30,A-4;2;no;59.43
+San Sebastián de los Reyes;Pozuelo de Alarcón;2.75;1.25;24746.0;2048.0;A-1,M-40;2;si;43.5
+San Sebastián de los Reyes;Rivas-Vaciamadrid;2.83;1.0;34367.0;2054.0;M-30,A-3;2;si;60.23
+San Sebastián de los Reyes;San Fernando de Henares;1.0;1.0;20995.0;1455.0;M-12,M-21;2;no;51.95
+San Sebastián de los Reyes;Sevilla la Nueva;2.0;1.0;52954.0;3037.0;M-40,M-501;2;si;62.77
+San Sebastián de los Reyes;Somosierra;3.0;1.0;74282.0;3113.0;A-1;1;no;85.9
+San Sebastián de los Reyes;Talamanca de Jarama;6.0;2.0;29170.0;1802.0;Antigua Carretera de Burgos,M-111,M-103;3;no;58.28
+San Sebastián de los Reyes;Torrejón de Ardoz;1.94;1.0;24965.0;1435.0;M-50,M-108;2;si;62.63
+San Sebastián de los Reyes;Torrelaguna;2.33;1.0;41572.0;2122.0;A-1,N-320;2;si;70.53
+San Sebastián de los Reyes;Torrelodones;2.67;1.0;37928.0;2307.0;M-40,A-6;2;si;59.19
+San Sebastián de los Reyes;Torremocha de Jarama;3.0;1.0;45930.0;2516.0;A-1,N-320;2;si;65.72
+San Sebastián de los Reyes;Tres Cantos;4.0;1.5;14294.0;1150.0;Calle del Marqués de la Valdavia,M-616,M-607;3;no;44.75
+San Sebastián de los Reyes;Valdemorillo;3.0;1.0;49754.0;3057.0;M-40,M-503;2;si;58.59
+San Sebastián de los Reyes;Valdemoro;2.5;1.0;43457.0;2545.0;M-30,A-4;2;no;61.47
+San Sebastián de los Reyes;Valdetorres de Jarama;1.0;1.0;23252.0;1447.0;Antigua Carretera de Burgos,M-111,M-103;3;no;57.85
+San Sebastián de los Reyes;Velilla de San Antonio;4.0;2.0;37031.0;1763.0;M-50;1;si;75.62
+San Sebastián de los Reyes;Venturada;3.0;1.0;34385.0;1687.0;A-1;1;no;73.38
+San Sebastián de los Reyes;Villalbilla;3.0;1.0;39156.0;2273.0;M-50,R-2,M-300;3;si;62.02
+San Sebastián de los Reyes;Villarejo de Salvanés;0.0;1.0;69392.0;2927.0;M-50,R-3;2;si;85.35
+San Sebastián de los Reyes;Villaviciosa de Odón;1.5;1.0;41453.0;2581.0;M-40,M-501;2;si;57.82
+San Sebastián de los Reyes;Villavieja del Lozoya;2.0;1.0;62671.0;2855.0;A-1;1;no;79.02
+Santorcaz;Alcalá de Henares;2.0;1.0;16018.0;1238.0;M-213,M-213,M-300;3;no;46.58
+Santorcaz;San Sebastián de los Reyes;2.0;1.0;45408.0;2396.0;M-226,R-2;2;no;68.23
+Serranillos del Valle;Fuenlabrada;1.5;1.5;14003.0;1001.0;M-404,M-407,M-413;3;no;50.36
+Serranillos del Valle;Griñón;1.0;1.0;3450.0;313.0;Paseo de la Ermita,M-404,Avenida de Navalcarnero;3;no;39.68
+Serranillos del Valle;Humanes de Madrid;1.0;1.0;10057.0;609.0;M-404,M-407,M-405;3;no;59.45
+Serranillos del Valle;Madrid;2.5;1.0;34798.0;2005.0;M-407,R-5,A-42;3;si;62.48
+Serranillos del Valle;Pozuelo de Alarcón;3.0;1.0;36213.0;2025.0;M-407,M-50,M-513;3;si;64.38
+Serranillos del Valle;Torrejón de Ardoz;2.0;1.0;57177.0;2615.0;M-407,M-50;2;si;78.71
+Sevilla la Nueva;Ajalvir;3.0;1.0;75924.0;3264.0;M-501,M-45,M-50;3;si;83.74
+Sevilla la Nueva;Alcalá de Henares;2.0;1.0;72993.0;4035.0;M-501,M-40,A-2;3;si;65.12
+Sevilla la Nueva;Algete;3.0;1.0;67754.0;3713.0;M-501,M-40,A-1;3;si;65.69
+Sevilla la Nueva;Aranjuez;2.0;1.0;68515.0;3299.0;M-50,A-4,M-305;3;si;74.77
+Sevilla la Nueva;Boadilla del Monte;2.0;1.0;21212.0;1251.0;M-600,M-501;2;no;61.04
+Sevilla la Nueva;Brunete;2.67;1.0;8054.0;565.0;M-600;1;no;51.32
+Sevilla la Nueva;Madrid;3.0;1.1;36653.0;2314.0;M-600,M-501,M-511;3;no;57.02
+Sevilla la Nueva;Móstoles;3.33;1.0;20958.0;1289.0;M-600,M-501,M-856;3;no;58.53
+Sevilla la Nueva;Navalcarnero;2.83;1.08;8405.0;695.0;M-523,M-600,Carretera de Navacerrada;3;no;43.54
+Sevilla la Nueva;Villanueva de Perales;3.0;1.0;8370.0;642.0;M-523;1;no;46.93
+Sevilla la Nueva;Villanueva de la Cañada;3.0;1.0;12696.0;999.0;M-600;1;no;45.75
+Sevilla la Nueva;Villaviciosa de Odón;3.5;1.0;17206.0;966.0;M-600,M-501,M-506;3;no;64.12
+Somosierra;Alcobendas;3.0;1.0;78174.0;3233.0;A-1;1;no;87.05
+Somosierra;Alcorcón;3.0;1.0;110735.0;4837.0;A-1;1;no;82.42
+Somosierra;Buitrago del Lozoya;2.06;1.06;17837.0;832.0;A-1;1;no;77.18
+Somosierra;El Molar;2.0;1.0;49590.0;2016.0;A-1;1;no;88.55
+Somosierra;El Álamo;3.0;1.0;135326.0;5759.0;A-1,R-5;2;no;84.59
+Somosierra;Getafe;3.0;1.0;109511.0;4784.0;A-1;1;no;82.41
+Somosierra;La Cabrera;2.17;1.08;33804.0;1522.0;A-1;1;no;79.96
+Somosierra;Madrid;2.29;1.14;93472.0;4213.0;A-1;1;no;79.87
+Somosierra;Móstoles;3.0;1.0;115572.0;5162.0;A-1;1;no;80.6
+Somosierra;Navalcarnero;3.0;1.0;129753.0;5499.0;A-1,A-5;2;si;84.94
+Somosierra;Parla;3.0;1.0;117827.0;5151.0;A-1,A-42;2;si;82.35
+Somosierra;San Sebastián de los Reyes;2.33;1.0;74252.0;3177.0;A-1;1;no;84.14
+Soto del Real;Alcalá de Henares;3.0;1.0;65591.0;3461.0;M-104,A-1,R-2;3;no;68.23
+Soto del Real;Alcobendas;3.0;1.0;32918.0;1807.0;M-609,M-607,M-616;3;no;65.58
+Soto del Real;Alpedrete;2.71;1.0;26874.0;1982.0;M-608;1;no;48.81
+Soto del Real;Aranjuez;3.0;1.0;92526.0;4783.0;M-607,M-30,A-4;3;no;69.64
+Soto del Real;Buitrago del Lozoya;2.0;1.0;41289.0;1984.0;M-608,A-1;2;no;74.92
+Soto del Real;Collado Villalba;3.47;1.2;26336.0;2064.0;M-608;1;no;45.93
+Soto del Real;Colmenar Viejo;2.5;1.0;11502.0;863.0;M-862,M-609,Carretera de Miraflores;3;no;47.98
+Soto del Real;Colmenarejo;3.0;1.0;38817.0;3125.0;M-608,Carretera de Moralzarzal,M-510;3;no;44.72
+Soto del Real;El Boalo;4.55;1.55;13688.0;991.0;Carretera de Torrelaguna a El Escorial,M-608;2;no;49.72
+Soto del Real;Getafe;2.5;1.0;59771.0;3367.0;M-607,M-30,A-42;3;si;63.91
+Soto del Real;Guadalix de la Sierra;2.0;1.0;9469.0;688.0;Carretera de Torrelaguna a El Escorial,M-608;2;no;49.55
+Soto del Real;Madrid;2.95;1.18;46681.0;2805.0;M-607,M-30;2;no;59.91
+Soto del Real;Manzanares el Real;2.67;1.0;8831.0;740.0;Carretera de Torrelaguna a El Escorial,M-608,Avenida de Madrid;3;no;42.96
+Soto del Real;Miraflores de la Sierra;3.0;1.0;8697.0;714.0;M-611;1;no;43.85
+Soto del Real;Moralzarzal;2.85;1.0;20318.0;1487.0;M-608;1;no;49.19
+Soto del Real;San Lorenzo de El Escorial;3.0;1.0;41173.0;3029.0;M-608,M-623,M-600;3;no;48.93
+Soto del Real;Torrelaguna;3.0;1.0;25147.0;1506.0;M-608,N-320;2;si;60.11
+Soto del Real;Tres Cantos;2.43;1.0;22032.0;1244.0;M-609,M-607,Carretera de Colmenar Viejo;3;no;63.76
+Talamanca de Jarama;Alcalá de Henares;2.0;1.0;40979.0;2649.0;M-103,M-100;2;no;55.69
+Talamanca de Jarama;Algete;3.0;1.0;18672.0;1246.0;M-103;1;no;53.95
+Talamanca de Jarama;Buitrago del Lozoya;2.0;1.0;41032.0;2070.0;M-122,A-1;2;no;71.36
+Talamanca de Jarama;Bustarviejo;3.0;1.0;29303.0;2009.0;N-320,M-124,M-610;3;si;52.51
+Talamanca de Jarama;Griñón;1.0;1.0;88926.0;3982.0;M-111,M-50,A-42;3;si;80.4
+Talamanca de Jarama;Madrid;3.75;1.25;47976.0;2912.0;M-103,M-111,A-1;3;no;59.31
+Talamanca de Jarama;Móstoles;3.0;1.0;70076.0;3860.0;A-1,M-30,R-5;3;no;65.36
+Talamanca de Jarama;Paracuellos de Jarama;3.0;1.0;31338.0;1873.0;M-103,M-111;2;no;60.23
+Talamanca de Jarama;San Sebastián de los Reyes;6.0;2.0;28583.0;1773.0;M-103,M-111,Antigua Carretera de Burgos;3;no;58.04
+Talamanca de Jarama;Torrejón de Ardoz;1.0;1.0;38316.0;2413.0;M-103,M-108;2;no;57.16
+Tielmes;Alcalá de Henares;2.0;1.0;31808.0;2297.0;M-224,M-220;2;no;49.85
+Tielmes;Arganda del Rey;2.0;1.0;17712.0;989.0;A-3,Carretera de Valencia;2;si;64.47
+Tielmes;Brea de Tajo;3.0;1.0;19881.0;1158.0;M-204,M-221;2;no;61.81
+Tielmes;Carabaña;2.0;1.0;7733.0;528.0;M-204;1;no;52.72
+Tielmes;Fuentidueña de Tajo;3.0;1.0;25373.0;1161.0;A-3;1;si;78.68
+Tielmes;Leganés;1.0;1.0;51540.0;2505.0;A-3,M-45;2;si;74.07
+Tielmes;Madrid;4.0;1.0;45901.0;2306.0;A-3;1;si;71.66
+Tielmes;Villarejo de Salvanés;3.0;1.0;11075.0;749.0;M-228;1;no;53.23
+Titulcia;Aranjuez;2.0;1.0;21710.0;1316.0;M-307,M-305;2;no;59.39
+Titulcia;Torrejón de Ardoz;3.0;1.0;52690.0;2668.0;A-4,M-50;2;si;71.1
+Titulcia;Valdemoro;2.0;1.0;14750.0;952.0;M-404,A-4;2;no;55.78
+Torrejón de Ardoz;Ajalvir;2.31;1.23;10468.0;819.0;M-108,M-114;2;no;46.01
+Torrejón de Ardoz;Alcalá de Henares;6.1;3.03;12523.0;1035.0;A-2,M-300,Calle de la Ronda Fiscal;3;si;43.56
+Torrejón de Ardoz;Alcobendas;2.5;1.0;25776.0;1668.0;M-108,M-50,R-2;3;si;55.63
+Torrejón de Ardoz;Alcorcón;2.43;1.14;42166.0;2110.0;M-206,M-45;2;no;71.94
+Torrejón de Ardoz;Algete;2.0;1.0;20438.0;1446.0;M-108,M-100,M-103;3;no;50.88
+Torrejón de Ardoz;Ambite;3.0;1.0;36644.0;2480.0;M-206,M-209,M-204;3;no;53.19
+Torrejón de Ardoz;Aranjuez;2.22;1.11;61076.0;3111.0;M-50,A-4;2;si;70.68
+Torrejón de Ardoz;Arganda del Rey;3.36;1.32;22499.0;1809.0;Carretera de Loeches,M-206,M-300;3;no;44.77
+Torrejón de Ardoz;Buitrago del Lozoya;1.4;1.0;74556.0;3115.0;M-50,A-1;2;si;86.16
+Torrejón de Ardoz;Campo Real;2.2;1.0;19101.0;1506.0;Carretera de Loeches,M-206,M-219;3;no;45.66
+Torrejón de Ardoz;Cobeña;2.33;1.0;15026.0;1158.0;M-108,M-114;2;no;46.71
+Torrejón de Ardoz;Collado Villalba;2.92;1.08;60927.0;3685.0;A-2,A-6;2;si;59.52
+Torrejón de Ardoz;Coslada;3.33;1.45;12512.0;1166.0;A-2,Avenida de la Cañada,Avenida de José Gárate;3;si;38.63
+Torrejón de Ardoz;Daganzo de Arriba;1.8;1.0;11759.0;908.0;M-108;1;no;46.62
+Torrejón de Ardoz;El Molar;3.0;1.0;41770.0;1881.0;M-50,A-1;2;si;79.94
+Torrejón de Ardoz;El Álamo;0.0;1.0;66636.0;3068.0;M-45,A-5;2;si;78.19
+Torrejón de Ardoz;Fuenlabrada;2.0;1.25;43454.0;2265.0;M-50;1;si;69.07
+Torrejón de Ardoz;Fuentidueña de Tajo;6.0;2.0;61844.0;2820.0;R-3,A-3;2;si;78.95
+Torrejón de Ardoz;Getafe;3.2;1.29;33180.0;1971.0;M-50,M-45;2;si;60.6
+Torrejón de Ardoz;Guadarrama;2.5;1.0;68025.0;4047.0;A-2,A-6;2;si;60.51
+Torrejón de Ardoz;Humanes de Madrid;3.0;1.0;50463.0;2494.0;M-50,A-42;2;si;72.84
+Torrejón de Ardoz;La Cabrera;2.0;1.0;58878.0;2593.0;M-50,A-1;2;si;81.74
+Torrejón de Ardoz;Las Rozas de Madrid;2.25;1.0;116157.0;5579.0;M-45,M-501;2;no;74.95
+Torrejón de Ardoz;Leganés;2.38;1.0;34126.0;1996.0;M-50,M-45;2;si;61.55
+Torrejón de Ardoz;Loeches;2.38;1.12;11308.0;981.0;Carretera de Loeches,M-206;2;no;41.5
+Torrejón de Ardoz;Los Santos de la Humosa;3.0;1.0;26833.0;1388.0;A-2;1;si;69.6
+Torrejón de Ardoz;Lozoyuela-Navas-Sieteiglesias;2.0;1.0;66404.0;2786.0;M-50,A-1;2;si;85.81
+Torrejón de Ardoz;Madrid;9.97;4.52;23551.0;1902.0;A-2;1;si;44.58
+Torrejón de Ardoz;Majadahonda;2.56;1.0;40570.0;3053.0;A-2,A-6;2;si;47.84
+Torrejón de Ardoz;Meco;2.5;1.0;20248.0;1331.0;A-2,M-121;2;si;54.77
+Torrejón de Ardoz;Mejorada del Campo;2.86;1.43;10517.0;987.0;Carretera de Loeches,M-206,M-203;3;no;38.36
+Torrejón de Ardoz;Móstoles;2.5;1.29;46874.0;2485.0;M-45,R-5;2;no;67.91
+Torrejón de Ardoz;Navalcarnero;2.67;1.0;61184.0;2772.0;M-45,A-5;2;si;79.46
+Torrejón de Ardoz;Paracuellos de Jarama;2.17;1.0;14866.0;1068.0;M-108,M-50,M-113;3;si;50.11
+Torrejón de Ardoz;Parla;2.56;1.0;41185.0;2187.0;M-50;1;si;67.79
+Torrejón de Ardoz;Perales de Tajuña;2.0;1.0;38315.0;2007.0;M-50,R-3;2;si;68.73
+Torrejón de Ardoz;Pinto;2.71;1.24;34605.0;1821.0;M-50;1;si;68.41
+Torrejón de Ardoz;Pozuelo de Alarcón;2.64;1.0;34691.0;2862.0;A-2,M-500,M-503;3;si;43.64
+Torrejón de Ardoz;Rivas-Vaciamadrid;2.89;1.3;22505.0;1385.0;M-50,A-3;2;si;58.5
+Torrejón de Ardoz;San Fernando de Henares;2.6;1.0;8140.0;850.0;Avenida del Sol,M-206,Calle Huerta;3;no;34.48
+Torrejón de Ardoz;San Lorenzo de El Escorial;2.0;1.0;77068.0;4526.0;A-2,A-6;2;si;61.3
+Torrejón de Ardoz;San Martín de la Vega;3.0;1.0;37702.0;2287.0;M-50,A-3,M-506;3;si;59.35
+Torrejón de Ardoz;San Sebastián de los Reyes;2.12;1.17;25462.0;1533.0;M-108,M-50;2;si;59.79
+Torrejón de Ardoz;Serranillos del Valle;2.0;1.0;57117.0;2733.0;M-50,M-407;2;si;75.24
+Torrejón de Ardoz;Talamanca de Jarama;3.0;1.0;38037.0;2433.0;M-108,M-103;2;no;56.28
+Torrejón de Ardoz;Torrejón de Velasco;2.0;1.0;47746.0;2301.0;M-50,A-42;2;si;74.7
+Torrejón de Ardoz;Torrejón de la Calzada;3.0;1.0;45929.0;2248.0;M-50,A-42;2;si;73.55
+Torrejón de Ardoz;Torrelaguna;2.0;1.0;45555.0;3009.0;M-108,M-103,N-320;3;si;54.5
+Torrejón de Ardoz;Torrelodones;3.0;1.0;49550.0;3198.0;A-2,A-6;2;si;55.78
+Torrejón de Ardoz;Torres de la Alameda;3.0;1.0;14544.0;1205.0;M-206,M-225;2;no;43.45
+Torrejón de Ardoz;Tres Cantos;3.0;1.0;34556.0;2245.0;A-2,M-40,M-607;3;si;55.41
+Torrejón de Ardoz;Valdemoro;3.44;1.52;40129.0;2068.0;M-50,A-4;2;si;69.86
+Torrejón de Ardoz;Velilla de San Antonio;3.0;1.25;17145.0;1221.0;M-206,M-50,R-3;3;si;50.55
+Torrejón de Ardoz;Villalbilla;3.0;1.0;19890.0;1515.0;A-2,M-300,M-204;3;si;47.26
+Torrejón de Ardoz;Villanueva de la Cañada;3.0;1.0;58336.0;3774.0;A-2,M-40,M-503;3;si;55.65
+Torrejón de Ardoz;Villarejo de Salvanés;3.0;1.0;49506.0;2385.0;R-3,A-3;2;si;74.73
+Torrejón de Ardoz;Villavieja del Lozoya;2.0;1.0;79578.0;3396.0;M-50,A-1;2;si;84.36
+Torrejón de Velasco;Humanes de Madrid;2.5;1.0;12138.0;831.0;M-404,M-419,M-410;3;no;52.58
+Torrejón de Velasco;Madrid;3.0;1.0;29659.0;1748.0;A-42;1;si;61.08
+Torrejón de Velasco;Parla;3.0;1.0;7923.0;491.0;Avenida de la Constitución,A-42;2;si;58.09
+Torrejón de Velasco;Torrejón de Ardoz;2.0;1.0;46682.0;2168.0;A-42,M-50;2;si;77.52
+Torrejón de Velasco;Torrejón de la Calzada;3.0;1.0;2420.0;217.0;Avenida de la Constitución,M-404;2;no;40.15
+Torrejón de Velasco;Valdemoro;3.0;1.0;9991.0;723.0;M-404,M-423,Calle de Rosalía de Castro;3;no;49.75
+Torrejón de la Calzada;Alcalá de Henares;3.0;1.0;58695.0;2763.0;A-42,M-50;2;si;76.48
+Torrejón de la Calzada;Alcorcón;2.0;1.0;23963.0;1347.0;A-42,M-50;2;si;64.04
+Torrejón de la Calzada;Coslada;3.0;1.0;38032.0;1931.0;A-42,M-45;2;si;70.9
+Torrejón de la Calzada;Cubas de la Sagra;3.0;1.0;4976.0;389.0;M-404,Camino de Parla;2;no;46.05
+Torrejón de la Calzada;Fuenlabrada;3.0;1.0;14788.0;910.0;A-42,M-506;2;si;58.5
+Torrejón de la Calzada;Getafe;3.0;1.0;13659.0;720.0;A-42;1;si;68.3
+Torrejón de la Calzada;Humanes de Madrid;3.0;1.0;9718.0;613.0;M-404,M-419,M-410;3;no;57.07
+Torrejón de la Calzada;Las Rozas de Madrid;2.0;1.0;75720.0;4732.0;R-5,M-507;2;no;57.61
+Torrejón de la Calzada;Leganés;2.0;1.0;16829.0;975.0;A-42;1;si;62.14
+Torrejón de la Calzada;Madrid;2.75;1.5;27984.0;1706.0;A-42;1;si;59.05
+Torrejón de la Calzada;Parla;3.0;1.0;6248.0;449.0;Calle Real,A-42;2;si;50.1
+Torrejón de la Calzada;Pozuelo de Alarcón;3.0;1.0;37770.0;1892.0;A-42,M-40;2;si;71.87
+Torrejón de la Calzada;Rivas-Vaciamadrid;3.0;1.0;36060.0;1579.0;A-42,M-50;2;si;82.21
+Torrejón de la Calzada;San Fernando de Henares;3.0;1.0;40267.0;1939.0;A-42,M-50;2;si;74.76
+Torrejón de la Calzada;Torrejón de Ardoz;3.0;1.0;45007.0;2126.0;A-42,M-50;2;si;76.21
+Torrejón de la Calzada;Torrejón de Velasco;3.0;1.0;2397.0;219.0;M-404,Avenida de la Constitución;2;no;39.4
+Torrelaguna;Alcobendas;3.0;1.0;45094.0;2163.0;A-1;1;no;75.05
+Torrelaguna;Aranjuez;3.0;1.0;106237.0;5121.0;A-1,M-30,A-4;3;no;74.68
+Torrelaguna;Buitrago del Lozoya;3.0;1.0;26052.0;1576.0;M-131,A-1;2;no;59.51
+Torrelaguna;Collado Villalba;3.0;1.0;51336.0;3563.0;N-320,M-608,M-608;3;si;51.87
+Torrelaguna;La Cabrera;3.0;1.0;10576.0;905.0;N-320,M-124;2;si;42.07
+Torrelaguna;Loeches;4.0;2.0;61083.0;3488.0;N-320,M-103,M-100;3;si;63.04
+Torrelaguna;Madrid;2.88;1.0;60392.0;3143.0;N-320,A-1;2;si;69.17
+Torrelaguna;Paracuellos de Jarama;2.0;1.0;41155.0;2430.0;M-103,M-111;2;no;60.97
+Torrelaguna;Perales de Tajuña;2.0;1.0;84998.0;3946.0;M-111,M-50,R-3;3;si;77.55
+Torrelaguna;San Sebastián de los Reyes;2.5;1.0;41172.0;2106.0;N-320,A-1;2;si;70.38
+Torrelaguna;Soto del Real;3.0;1.0;25000.0;1499.0;N-320,M-608;2;si;60.04
+Torrelaguna;Torrejón de Ardoz;4.0;2.0;45380.0;2954.0;N-320,M-103,M-108;3;si;55.3
+Torrelaguna;Valdemoro;3.0;1.0;85290.0;4078.0;A-1,A-4;2;no;75.29
+Torrelaguna;Venturada;2.0;1.0;9417.0;624.0;N-320;1;si;54.33
+Torrelodones;Ajalvir;3.0;1.0;55642.0;2955.0;A-6,M-40,R-2;3;si;67.79
+Torrelodones;Alcalá de Henares;3.0;1.0;58800.0;3557.0;A-6,A-2;2;si;59.51
+Torrelodones;Alcobendas;2.0;1.0;38568.0;2383.0;A-6,M-40;2;si;58.26
+Torrelodones;Alcorcón;3.0;1.0;32932.0;1457.0;M-50;1;si;81.37
+Torrelodones;Algete;0.0;1.0;52801.0;2939.0;A-6,M-40,A-1;3;si;64.68
+Torrelodones;Arganda del Rey;3.0;1.0;60596.0;3155.0;A-6,M-30,A-3;3;si;69.14
+Torrelodones;Arroyomolinos;2.0;1.0;42369.0;1842.0;M-50,A-5;2;si;82.81
+Torrelodones;Boadilla del Monte;2.6;1.0;22688.0;1064.0;A-6,M-50;2;si;76.76
+Torrelodones;Buitrago del Lozoya;2.0;1.0;80027.0;4529.0;M-608,A-1;2;no;63.61
+Torrelodones;Collado Mediano;2.0;1.0;17369.0;988.0;A-6,M-601;2;no;63.29
+Torrelodones;Collado Villalba;2.95;1.31;11525.0;646.0;A-6;1;no;64.23
+Torrelodones;Colmenar Viejo;3.0;1.0;23016.0;1736.0;M-618;1;no;47.73
+Torrelodones;El Boalo;2.0;1.0;23441.0;1796.0;A-6,Carretera de Moralzarzal,M-608;3;no;46.99
+Torrelodones;Fuenlabrada;2.5;1.0;38636.0;1708.0;A-6,M-50;2;si;81.43
+Torrelodones;Fuente el Saz de Jarama;2.0;1.0;54673.0;3135.0;A-6,M-40,A-1;3;si;62.78
+Torrelodones;Fuentidueña de Tajo;3.0;1.0;95411.0;4245.0;A-6,A-3;2;si;80.91
+Torrelodones;Galapagar;1.67;1.0;7141.0;715.0;M-519,M-519;2;no;35.95
+Torrelodones;Getafe;2.67;1.0;41773.0;1976.0;M-50,M-40,M-45;3;si;76.1
+Torrelodones;Guadalix de la Sierra;2.0;1.0;40579.0;3032.0;M-618,M-625;2;no;48.18
+Torrelodones;Guadarrama;2.69;1.0;18623.0;1008.0;A-6,N-VI;2;no;66.51
+Torrelodones;Hoyo de Manzanares;2.67;1.0;7167.0;547.0;M-618;1;no;47.17
+Torrelodones;Las Rozas de Madrid;2.5;1.05;91709.0;4219.0;M-50,M-501;2;si;78.25
+Torrelodones;Leganés;2.5;1.0;38203.0;1984.0;A-6,M-50,M-40;3;si;69.32
+Torrelodones;Madrid;3.62;1.65;29574.0;1775.0;A-6;1;no;59.98
+Torrelodones;Majadahonda;2.69;1.15;15662.0;936.0;A-6,M-50;2;si;60.24
+Torrelodones;Manzanares el Real;2.0;1.0;26968.0;1986.0;A-6,M-608;2;no;48.88
+Torrelodones;Moraleja de Enmedio;2.0;1.0;41331.0;1787.0;A-6,M-50;2;si;83.26
+Torrelodones;Moralzarzal;3.0;1.0;18176.0;1144.0;A-6,M-608;2;no;57.2
+Torrelodones;Móstoles;3.12;1.25;33319.0;1535.0;A-6,M-50;2;si;78.14
+Torrelodones;Navacerrada;3.0;1.0;22100.0;1257.0;A-6,M-601;2;no;63.29
+Torrelodones;Parla;4.0;1.0;46864.0;2051.0;M-50;1;si;82.26
+Torrelodones;Pinto;1.0;1.0;50375.0;2028.0;M-50;1;si;89.42
+Torrelodones;Pozuelo de Alarcón;2.7;1.0;24059.0;1229.0;A-6,M-50,M-503;3;si;70.47
+Torrelodones;Rivas-Vaciamadrid;1.0;1.0;52251.0;2663.0;A-6,M-30,A-3;3;si;70.64
+Torrelodones;San Lorenzo de El Escorial;2.67;1.0;27666.0;1486.0;A-6,AP-6,M-600;3;no;67.02
+Torrelodones;San Sebastián de los Reyes;2.5;1.0;39217.0;2457.0;A-6,M-40;2;si;57.46
+Torrelodones;Soto del Real;2.0;1.0;35083.0;2544.0;A-6,M-608;2;no;49.65
+Torrelodones;Torrejón de Ardoz;2.0;1.0;48540.0;3006.0;A-6,A-2;2;si;58.13
+Torrelodones;Valdemoro;0.0;1.0;55899.0;2274.0;M-50;1;si;88.49
+Torrelodones;Villanueva de la Cañada;3.0;1.0;26682.0;1540.0;A-6,M-50,M-509;3;si;62.37
+Torrelodones;Villarejo de Salvanés;3.0;1.0;83073.0;3810.0;A-6,A-3;2;si;78.49
+Torrelodones;Villaviciosa de Odón;2.0;1.0;29634.0;1436.0;A-6,M-50;2;si;74.29
+Torremocha de Jarama;San Sebastián de los Reyes;3.0;1.0;45570.0;2501.0;N-320,A-1;2;si;65.59
+Torremocha de Jarama;Torrelaguna;3.0;1.0;4668.0;429.0;Calle de Torrelaguna,Calle de Laguna Baja,Camino Laguna Alta;3;no;39.17
+Torremocha de Jarama;Velilla de San Antonio;3.0;1.0;68169.0;3554.0;M-103,M-111,M-50;3;si;69.05
+Torres de la Alameda;Alcalá de Henares;2.5;1.0;10871.0;916.0;M-220,M-300;2;no;42.72
+Torres de la Alameda;Madrid;3.0;1.0;34657.0;2253.0;M-217,R-3,M-23;3;no;55.38
+Tres Cantos;Alcalá de Henares;2.5;1.0;48112.0;2701.0;M-607,M-40,R-2;3;si;64.13
+Tres Cantos;Alcobendas;3.0;1.17;13223.0;926.0;M-607,M-616;2;no;51.41
+Tres Cantos;Alcorcón;1.4;1.0;40137.0;2207.0;M-607,M-40;2;si;65.47
+Tres Cantos;Aranjuez;2.0;1.0;72671.0;3916.0;M-607,M-30,A-4;3;no;66.81
+Tres Cantos;Arganda del Rey;2.0;1.0;51139.0;2860.0;M-607,A-3;2;si;64.37
+Tres Cantos;Buitrago del Lozoya;3.0;1.0;63048.0;3094.0;M-607,M-608,A-1;3;no;73.36
+Tres Cantos;Bustarviejo;2.0;1.0;41912.0;2619.0;M-607,M-611,M-610;3;no;57.61
+Tres Cantos;Cercedilla;2.0;1.0;39715.0;2346.0;M-607;1;no;60.94
+Tres Cantos;Collado Villalba;2.62;1.15;37602.0;2442.0;M-607,M-608;2;no;55.43
+Tres Cantos;Colmenar Viejo;2.95;1.32;10060.0;744.0;M-607,M-962,Avenida de la Libertad;3;no;48.68
+Tres Cantos;El Boalo;2.5;1.0;29494.0;1717.0;M-607;1;no;61.84
+Tres Cantos;El Molar;3.0;1.0;31926.0;1867.0;M-607,M-104,A-1;3;no;61.56
+Tres Cantos;Getafe;3.0;1.0;40076.0;2486.0;M-607,M-30,A-42;3;si;58.03
+Tres Cantos;Guadalix de la Sierra;2.2;1.0;27060.0;1770.0;M-607,M-625;2;no;55.04
+Tres Cantos;Las Rozas de Madrid;3.0;1.0;104335.0;5325.0;M-40,M-501;2;si;70.54
+Tres Cantos;Madrid;6.07;2.54;26986.0;1924.0;M-607,M-30;2;no;50.49
+Tres Cantos;Miraflores de la Sierra;3.0;1.0;30093.0;1946.0;M-607,M-609,M-611;3;no;55.67
+Tres Cantos;Moralzarzal;2.0;1.0;31584.0;1864.0;M-607;1;no;61.0
+Tres Cantos;Móstoles;2.33;1.11;44817.0;2760.0;M-607,M-40;2;si;58.46
+Tres Cantos;Navalcarnero;3.0;1.0;59155.0;2869.0;M-40,A-5;2;si;74.23
+Tres Cantos;Pinto;2.0;1.0;46356.0;2689.0;M-607,M-30,A-4;3;no;62.06
+Tres Cantos;Pozuelo de Alarcón;2.0;1.0;27381.0;1952.0;M-607,M-40;2;si;50.5
+Tres Cantos;Rivas-Vaciamadrid;1.0;1.0;42794.0;2368.0;M-607,A-3;2;si;65.06
+Tres Cantos;San Sebastián de los Reyes;2.25;1.0;15340.0;1188.0;M-607,M-616,Calle de Manuel de Falla;3;no;46.48
+Tres Cantos;Somosierra;3.0;1.0;79681.0;3632.0;M-608,A-1;2;no;78.98
+Tres Cantos;Soto del Real;2.8;1.0;21100.0;1225.0;M-607,M-609;2;no;62.01
+Tres Cantos;Torrejón de Ardoz;3.0;1.0;35112.0;2332.0;M-607,M-40,A-2;3;si;54.2
+Tres Cantos;Torrelodones;1.0;1.0;32669.0;2398.0;M-607,M-618;2;no;49.04
+Tres Cantos;Valdemoro;2.5;1.0;51884.0;2859.0;M-607,M-30,A-4;3;no;65.33
+Valdelaguna;Arganda del Rey;3.0;1.0;22623.0;1260.0;M-317,A-3,Carretera de Valencia;3;si;64.64
+Valdelaguna;Chinchón;3.0;1.0;5145.0;337.0;M-316;1;no;54.96
+Valdelaguna;Colmenar de Oreja;4.5;1.5;8205.0;599.0;M-315;1;no;49.31
+Valdelaguna;Madrid;3.0;1.0;50812.0;2578.0;A-3;1;si;70.96
+Valdemanco;Madrid;3.0;1.0;62839.0;3373.0;A-1,M-30;2;no;67.07
+Valdemorillo;Alcorcón;2.5;1.0;37074.0;1927.0;M-503,M-50;2;si;69.26
+Valdemorillo;Brunete;2.0;1.0;14505.0;992.0;M-600;1;no;52.64
+Valdemorillo;Colmenarejo;3.0;1.0;10020.0;781.0;M-510;1;no;46.19
+Valdemorillo;El Escorial;2.0;1.0;12187.0;830.0;M-600;1;no;52.86
+Valdemorillo;Guadarrama;4.0;1.0;23756.0;1595.0;M-600;1;no;53.62
+Valdemorillo;Madrid;2.31;1.23;40063.0;2531.0;M-600,M-503;2;no;56.98
+Valdemorillo;Majadahonda;2.25;1.0;20967.0;1498.0;M-600,M-509;2;no;50.39
+Valdemorillo;Navalcarnero;2.5;1.0;29774.0;2027.0;M-600;1;no;52.88
+Valdemorillo;Rivas-Vaciamadrid;3.0;1.0;64946.0;3130.0;M-503,M-40,M-45;3;si;74.7
+Valdemorillo;San Lorenzo de El Escorial;2.75;1.0;14146.0;1156.0;M-600,Avenida de los Reyes Católicos;2;no;44.05
+Valdemorillo;Villanueva de la Cañada;4.33;1.5;9768.0;771.0;M-600;1;no;45.61
+Valdemoro;Alameda del Valle;4.0;1.0;118092.0;5497.0;A-4,A-1;2;no;77.34
+Valdemoro;Alcalá de Henares;3.45;1.39;53807.0;2633.0;A-4,M-50;2;si;73.57
+Valdemoro;Alcobendas;2.56;1.0;44081.0;2497.0;A-4,M-30;2;no;63.55
+Valdemoro;Alcorcón;3.11;1.0;29727.0;1592.0;A-4,M-50;2;si;67.22
+Valdemoro;Algete;2.0;1.0;58803.0;2773.0;A-4,M-50;2;si;76.34
+Valdemoro;Aranjuez;4.0;1.94;21681.0;1293.0;A-4,M-305;2;no;60.36
+Valdemoro;Boadilla del Monte;1.6;1.2;37138.0;1802.0;A-4,M-50;2;si;74.19
+Valdemoro;Brunete;3.0;1.0;45674.0;2172.0;A-4,M-50,M-501;3;si;75.7
+Valdemoro;Cercedilla;2.5;1.0;84334.0;3898.0;A-4,M-50,A-6;3;si;77.89
+Valdemoro;Chapinería;3.0;1.0;64942.0;2875.0;M-50,M-501;2;si;81.32
+Valdemoro;Ciempozuelos;2.88;1.19;8558.0;814.0;Avenida de Andalucía,A-4,M-404;3;no;37.85
+Valdemoro;Collado Villalba;2.0;1.08;69077.0;2962.0;M-50,A-6;2;si;83.96
+Valdemoro;Coslada;3.0;1.0;34638.0;1882.0;A-4,M-45;2;no;66.26
+Valdemoro;El Boalo;3.0;1.0;80993.0;4112.0;A-4,M-50,A-6;3;si;70.91
+Valdemoro;Fuenlabrada;3.59;1.28;18852.0;1210.0;A-4,M-506;2;no;56.09
+Valdemoro;Galapagar;2.0;1.0;61519.0;3019.0;M-50,M-505;2;si;73.36
+Valdemoro;Getafe;3.31;1.33;17835.0;1088.0;A-4,M-506,A-42;3;si;59.01
+Valdemoro;Guadarrama;2.5;1.0;76175.0;3324.0;M-50,A-6;2;si;82.5
+Valdemoro;Humanes de Madrid;9.0;3.0;22117.0;1464.0;M-404,M-419,M-410;3;no;54.39
+Valdemoro;Las Rozas de Madrid;2.07;1.07;100919.0;4761.0;M-50,M-501;2;si;76.31
+Valdemoro;Leganés;2.5;1.0;21005.0;1344.0;A-4,M-506,A-42;3;si;56.26
+Valdemoro;Madrid;6.56;3.4;28355.0;1976.0;A-4;1;no;51.66
+Valdemoro;Majadahonda;2.57;1.14;47287.0;2199.0;A-4,M-50;2;si;77.41
+Valdemoro;Meco;2.0;1.0;64667.0;2857.0;M-50,R-2;2;si;81.48
+Valdemoro;Mejorada del Campo;2.67;1.0;34100.0;1646.0;A-4,M-50;2;si;74.58
+Valdemoro;Móstoles;3.79;1.45;28944.0;1573.0;A-4,M-50;2;si;66.24
+Valdemoro;Navacerrada;2.0;1.0;79652.0;3573.0;M-50,A-6;2;si;80.25
+Valdemoro;Navalcarnero;2.33;1.0;45976.0;2037.0;M-50,A-5;2;si;81.25
+Valdemoro;Navas del Rey;3.0;1.0;68011.0;2988.0;M-50,M-501;2;si;81.94
+Valdemoro;Paracuellos de Jarama;2.0;1.0;50708.0;2218.0;A-4,M-50;2;si;82.3
+Valdemoro;Parla;2.27;1.0;14792.0;1136.0;A-4,M-506,M-408;3;no;46.88
+Valdemoro;Pedrezuela;2.0;1.0;71908.0;3482.0;A-4,A-1;2;no;74.34
+Valdemoro;Pinto;3.46;1.63;8124.0;539.0;A-4;1;no;54.26
+Valdemoro;Pozuelo de Alarcón;2.0;1.0;40620.0;2140.0;A-4,M-40;2;si;68.33
+Valdemoro;Rascafría;2.0;1.0;110708.0;5671.0;M-50,M-601,M-604;3;si;70.28
+Valdemoro;Rivas-Vaciamadrid;2.18;1.18;31443.0;1470.0;A-4,M-50;2;si;77.0
+Valdemoro;San Fernando de Henares;3.0;1.0;35650.0;1830.0;A-4,M-50;2;si;70.13
+Valdemoro;San Martín de Valdeiglesias;2.5;1.0;86433.0;4017.0;M-50,M-501;2;si;77.46
+Valdemoro;San Martín de la Vega;2.0;1.0;18618.0;1111.0;A-4,M-506;2;no;60.33
+Valdemoro;San Sebastián de los Reyes;3.0;1.0;44730.0;2571.0;A-4,M-30;2;no;62.63
+Valdemoro;Titulcia;2.5;1.0;14660.0;1046.0;A-4,M-404;2;no;50.46
+Valdemoro;Torrejón de Ardoz;2.74;1.23;40390.0;2017.0;A-4,M-50;2;si;72.09
+Valdemoro;Torrelaguna;3.0;1.0;85909.0;4041.0;A-4,A-1;2;no;76.53
+Valdemoro;Torrelodones;1.75;1.0;57700.0;2474.0;A-4,M-50;2;si;83.96
+Valdemoro;Tres Cantos;2.0;1.0;51786.0;2821.0;A-4,M-30,M-607;3;no;66.09
+Valdemoro;Villanueva del Pardillo;1.0;1.0;51391.0;2287.0;A-4,M-50;2;si;80.9
+Valdeolmos-Alalpardo;Alcobendas;3.0;1.0;19567.0;1533.0;M-123,M-106,Antigua Carretera de Burgos;3;no;45.95
+Valdeolmos-Alalpardo;Madrid;2.0;1.0;37212.0;2443.0;M-123,A-1,M-30;3;no;54.84
+Valdeolmos-Alalpardo;San Sebastián de los Reyes;3.5;1.0;17819.0;1304.0;M-123,M-106,Antigua Carretera de Burgos;3;no;49.19
+Valdepiélagos;Madrid;2.0;1.0;51558.0;3154.0;M-103,M-111,A-1;3;no;58.85
+Valdetorres de Jarama;Madrid;3.0;1.0;42002.0;2574.0;M-111,A-1,M-30;3;no;58.74
+Valdilecha;Alcalá de Henares;2.0;1.0;25333.0;1840.0;M-224,M-220;2;no;49.56
+Velilla de San Antonio;Alcalá de Henares;1.0;1.0;21079.0;1552.0;M-208,M-203,M-300;3;no;48.89
+Velilla de San Antonio;Alcobendas;0.0;1.0;33602.0;1974.0;R-3,M-23,A-1;3;no;61.28
+Velilla de San Antonio;Aranjuez;3.0;1.0;56389.0;2699.0;M-50,A-4,M-305;3;si;75.21
+Velilla de San Antonio;Arganda del Rey;3.0;1.0;11251.0;1041.0;M-208,M-300,Paseo de la Ilusión;3;no;38.91
+Velilla de San Antonio;Buitrago del Lozoya;0.0;1.0;86087.0;3349.0;M-50,A-1;2;si;92.54
+Velilla de San Antonio;Collado Villalba;1.0;1.0;61284.0;3554.0;R-3,A-6;2;no;62.08
+Velilla de San Antonio;Coslada;3.5;1.5;14725.0;1071.0;Calle de Federico García Lorca,R-3;2;no;49.5
+Velilla de San Antonio;Getafe;3.0;1.0;29731.0;1687.0;R-3,M-45;2;no;63.44
+Velilla de San Antonio;Guadarrama;1.0;1.0;68382.0;3916.0;R-3,A-6;2;no;62.86
+Velilla de San Antonio;Las Rozas de Madrid;2.5;1.5;112708.0;5296.0;R-3,M-45,M-501;3;no;76.61
+Velilla de San Antonio;Loeches;3.33;1.33;8223.0;578.0;M-217;1;no;51.22
+Velilla de San Antonio;Madrid;2.33;1.0;21431.0;1445.0;R-3,M-23;2;no;53.39
+Velilla de San Antonio;Mejorada del Campo;2.0;1.0;3881.0;417.0;Calle de Federico García Lorca,M-208,Paseo del Arenero;3;no;33.51
+Velilla de San Antonio;Rivas-Vaciamadrid;2.0;1.0;12802.0;935.0;M-208,M-300,A-3;3;si;49.29
+Velilla de San Antonio;San Sebastián de los Reyes;3.0;2.0;36993.0;1767.0;M-50;1;si;75.37
+Velilla de San Antonio;Torrejón de Ardoz;2.67;1.33;16079.0;1101.0;R-3,M-50,M-206;3;si;52.57
+Velilla de San Antonio;Torrelodones;1.0;1.0;49907.0;3067.0;R-3,M-23,A-6;3;no;58.58
+Velilla de San Antonio;Torremocha de Jarama;3.0;1.0;67842.0;3478.0;M-50,M-111,M-103;3;si;70.22
+Velilla de San Antonio;Valdemoro;3.0;1.0;35442.0;1656.0;M-50,A-4;2;si;77.05
+Venturada;Alcobendas;3.0;1.0;37465.0;1698.0;A-1;1;no;79.43
+Venturada;Buitrago del Lozoya;2.67;1.0;25725.0;1115.0;A-1;1;no;83.06
+Venturada;Collado Villalba;3.0;1.0;47505.0;3113.0;M-608;1;no;54.94
+Venturada;Cubas de la Sagra;0.0;1.0;88112.0;3921.0;A-1,A-42;2;si;80.9
+Venturada;El Boalo;3.0;1.0;34857.0;2040.0;M-608;1;no;61.51
+Venturada;El Molar;3.0;1.0;8881.0;480.0;A-1,M-129;2;no;66.61
+Venturada;La Acebeda;3.0;1.0;38120.0;1586.0;A-1;1;no;86.53
+Venturada;La Cabrera;3.0;1.0;10047.0;593.0;A-1;1;no;60.99
+Venturada;Madrid;2.0;1.0;52763.0;2677.0;A-1;1;no;70.96
+Venturada;Moralzarzal;3.0;1.0;41487.0;2536.0;M-608;1;no;58.89
+Venturada;Somosierra;0.0;1.0;42358.0;1653.0;A-1;1;no;92.25
+Venturada;Soto del Real;3.0;1.0;17389.0;1037.0;M-608;1;no;60.37
+Venturada;Torrelaguna;2.0;1.0;9583.0;638.0;N-320;1;si;54.07
+Villa del Prado;Aldea del Fresno;4.0;1.0;11049.0;655.0;M-507;1;no;60.73
+Villa del Prado;Madrid;3.5;1.17;64013.0;3799.0;M-507,A-5;2;si;60.66
+Villa del Prado;Navalcarnero;3.2;1.0;29045.0;1995.0;M-507;1;no;52.41
+Villa del Prado;Villamanta;4.0;1.0;19732.0;1211.0;M-507;1;no;58.66
+Villaconejos;Alcorcón;0.0;1.0;51497.0;2768.0;M-404,A-4,M-50;3;si;66.98
+Villalbilla;Alcalá de Henares;2.0;1.0;9875.0;871.0;M-204,M-300,Paseo de Pastrana;3;no;40.82
+Villalbilla;Corpa;3.0;1.0;4690.0;336.0;M-233;1;no;50.25
+Villalbilla;Madrid;2.67;1.33;39704.0;2745.0;M-300,A-2;2;si;52.07
+Villalbilla;Nuevo Baztán;2.0;1.0;11390.0;840.0;M-204;1;no;48.81
+Villalbilla;Pezuela de las Torres;3.0;1.0;12230.0;783.0;M-233,M-225;2;no;56.23
+Villalbilla;Torrejón de Ardoz;2.0;1.0;20550.0;1505.0;M-204,M-300,A-2;3;si;49.16
+Villalbilla;Villarejo de Salvanés;3.0;1.0;40457.0;2666.0;M-204,M-221,M-231;3;no;54.63
+Villamanta;Madrid;4.0;1.0;44645.0;2673.0;M-507,A-5;2;si;60.13
+Villamanta;Navalcarnero;4.0;1.0;9677.0;870.0;M-507;1;no;40.04
+Villamantilla;Móstoles;3.0;1.0;32200.0;1694.0;M-501,M-856;2;no;68.43
+Villamantilla;Navalcarnero;3.0;1.0;15127.0;1225.0;M-530,M-507;2;no;44.45
+Villanueva de Perales;Las Rozas de Madrid;3.0;1.0;50512.0;2718.0;M-501,CL-501;2;no;66.9
+Villanueva de Perales;Majadahonda;3.0;1.0;35611.0;2046.0;M-501,M-513,M-50;3;si;62.66
+Villanueva de Perales;Navalcarnero;3.0;1.0;16290.0;1284.0;M-523,M-600;2;no;45.67
+Villanueva de Perales;Sevilla la Nueva;3.0;1.0;8007.0;598.0;M-523;1;no;48.2
+Villanueva de la Cañada;Alcalá de Henares;3.0;1.0;66494.0;4227.0;M-503,A-6,A-2;3;si;56.63
+Villanueva de la Cañada;Alcobendas;2.0;1.0;46037.0;2940.0;M-503,M-40;2;si;56.37
+Villanueva de la Cañada;Alcorcón;2.94;1.29;25035.0;1602.0;M-600,M-501,M-506;3;no;56.26
+Villanueva de la Cañada;Aranjuez;2.0;1.0;68957.0;3475.0;M-50,A-4,M-305;3;si;71.44
+Villanueva de la Cañada;Boadilla del Monte;3.0;1.0;16659.0;1297.0;M-600,M-513;2;no;46.24
+Villanueva de la Cañada;Brunete;2.62;1.12;5006.0;468.0;M-600;1;no;38.51
+Villanueva de la Cañada;Collado Villalba;2.0;1.0;26947.0;2143.0;M-600,M-510,M-528;3;no;45.27
+Villanueva de la Cañada;El Escorial;2.75;1.0;21311.0;1406.0;M-600;1;no;54.57
+Villanueva de la Cañada;Fuenlabrada;2.75;1.17;30544.0;1827.0;M-501,M-506;2;no;60.19
+Villanueva de la Cañada;Getafe;2.33;1.17;37675.0;2063.0;M-501,M-506,M-50;3;si;65.74
+Villanueva de la Cañada;Guadarrama;4.0;1.0;32880.0;2171.0;M-600;1;no;54.52
+Villanueva de la Cañada;Las Rozas de Madrid;2.0;1.0;63257.0;3320.0;M-501;1;no;68.59
+Villanueva de la Cañada;Leganés;2.4;1.0;33038.0;2068.0;M-501,M-506,M-50;3;si;57.51
+Villanueva de la Cañada;Madrid;3.67;1.5;35602.0;2322.0;M-503;1;no;55.2
+Villanueva de la Cañada;Majadahonda;2.43;1.14;16506.0;1290.0;M-503,M-509;2;no;46.06
+Villanueva de la Cañada;Móstoles;2.37;1.11;21400.0;1465.0;M-600,M-501,M-856;3;no;52.59
+Villanueva de la Cañada;Navacerrada;3.0;1.0;48201.0;2745.0;M-509,A-6,M-601;3;no;63.21
+Villanueva de la Cañada;Navalcarnero;2.8;1.6;20275.0;1502.0;M-600;1;no;48.6
+Villanueva de la Cañada;Pinto;1.67;1.0;42486.0;2186.0;M-501,M-506,M-50;3;si;69.97
+Villanueva de la Cañada;Rivas-Vaciamadrid;4.0;1.33;59748.0;2797.0;M-501,M-506,M-50;3;si;76.9
+Villanueva de la Cañada;San Lorenzo de El Escorial;3.33;1.0;23270.0;1732.0;M-600;1;no;48.37
+Villanueva de la Cañada;Sevilla la Nueva;2.33;1.67;12673.0;964.0;Calle de la Luna,M-600,Calle Sevillanos;3;no;47.33
+Villanueva de la Cañada;Torrejón de Ardoz;3.0;1.0;56234.0;3677.0;M-503,A-6,A-2;3;si;55.06
+Villanueva de la Cañada;Torrelodones;3.0;1.0;26249.0;1647.0;M-509,M-50,A-6;3;si;57.37
+Villanueva de la Cañada;Valdemorillo;4.28;1.56;9950.0;800.0;M-600;1;no;44.78
+Villanueva de la Cañada;Valdemoro;3.0;1.25;48010.0;2433.0;M-501,M-50,A-4;3;si;71.04
+Villanueva de la Cañada;Villanueva del Pardillo;2.0;1.0;8268.0;659.0;M-600,M-503,M-509;3;no;45.17
+Villanueva de la Cañada;Villarejo de Salvanés;2.0;1.0;90570.0;3944.0;M-50,A-3;2;si;82.67
+Villanueva de la Cañada;Villaviciosa de Odón;3.0;1.17;17648.0;1142.0;M-600,M-501,M-506;3;no;55.63
+Villanueva del Pardillo;Aranjuez;3.0;1.0;70143.0;3140.0;M-50,A-4;2;si;80.42
+Villanueva del Pardillo;Boadilla del Monte;2.0;1.0;15985.0;888.0;M-509,M-50;2;si;64.8
+Villanueva del Pardillo;Las Rozas de Madrid;1.67;1.0;70933.0;3679.0;M-600,M-501;2;no;69.41
+Villanueva del Pardillo;Leganés;3.0;1.0;31500.0;1807.0;M-509,M-50,M-40;3;si;62.76
+Villanueva del Pardillo;Madrid;2.44;1.0;27973.0;1926.0;M-509,M-851,A-6;3;no;52.29
+Villanueva del Pardillo;Majadahonda;3.0;1.17;8827.0;699.0;M-509;1;no;45.46
+Villanueva del Pardillo;Móstoles;2.0;1.0;26616.0;1359.0;M-509,M-50;2;si;70.51
+Villanueva del Pardillo;Villanueva de la Cañada;2.5;1.0;7945.0;605.0;M-509,M-503,M-600;3;no;47.28
+Villar del Olmo;Madrid;2.0;1.0;49015.0;2773.0;M-209,M-209,R-3;3;no;63.63
+Villarejo de Salvanés;Alcalá de Henares;1.0;1.0;42883.0;3046.0;M-228,M-224,M-220;3;no;50.68
+Villarejo de Salvanés;Arganda del Rey;2.4;1.0;22864.0;1163.0;A-3,Carretera de Valencia;2;si;70.77
+Villarejo de Salvanés;Belmonte de Tajo;3.0;1.0;7263.0;461.0;M-404;1;no;56.72
+Villarejo de Salvanés;Brea de Tajo;3.0;1.0;17781.0;1016.0;M-222;1;no;63.0
+Villarejo de Salvanés;Buitrago del Lozoya;3.0;1.0;117733.0;4471.0;R-3,M-50,A-1;3;si;94.8
+Villarejo de Salvanés;Campo Real;2.0;1.0;25038.0;1298.0;A-3,M-220;2;si;69.44
+Villarejo de Salvanés;Ciempozuelos;3.0;1.0;35886.0;2344.0;M-404,M-404;2;no;55.12
+Villarejo de Salvanés;Colmenar de Oreja;2.0;1.0;13854.0;892.0;M-404,M-311;2;no;55.91
+Villarejo de Salvanés;Coslada;0.0;1.0;46371.0;2194.0;A-3,R-3;2;si;76.09
+Villarejo de Salvanés;El Álamo;2.0;1.0;89231.0;3598.0;A-3,M-50;2;si;89.28
+Villarejo de Salvanés;Fuentidueña de Tajo;2.07;1.0;12978.0;636.0;A-3;1;si;73.46
+Villarejo de Salvanés;Leganés;3.0;1.0;57404.0;2692.0;A-3,M-45;2;si;76.77
+Villarejo de Salvanés;Loeches;2.5;1.0;32417.0;1770.0;A-3,M-220,M-219;3;si;65.93
+Villarejo de Salvanés;Madrid;2.44;1.19;51053.0;2481.0;A-3;1;si;74.08
+Villarejo de Salvanés;Mejorada del Campo;2.0;1.0;35525.0;1564.0;A-3,R-3;2;si;81.77
+Villarejo de Salvanés;Móstoles;2.67;1.0;69265.0;2943.0;A-3,M-50;2;si;84.73
+Villarejo de Salvanés;Perales de Tajuña;2.43;1.0;10990.0;617.0;Calle de Samuel Baltés,A-3;2;si;64.12
+Villarejo de Salvanés;Pinto;3.0;1.0;43145.0;2567.0;M-302,M-302,M-506;3;no;60.51
+Villarejo de Salvanés;Rivas-Vaciamadrid;1.78;1.0;31808.0;1348.0;A-3;1;si;84.95
+Villarejo de Salvanés;San Martín de la Vega;3.0;1.0;32074.0;1997.0;A-3,M-302,M-302;3;si;57.82
+Villarejo de Salvanés;Torrejón de Ardoz;2.5;1.0;47725.0;2223.0;A-3,R-3;2;si;77.29
+Villarejo de Salvanés;Velilla de San Antonio;2.0;1.0;35799.0;1563.0;A-3,R-3;2;si;82.45
+Villaviciosa de Odón;Alcobendas;0.0;1.0;41500.0;2616.0;M-501,M-40;2;si;57.11
+Villaviciosa de Odón;Alcorcón;2.7;1.0;9068.0;686.0;Avenida Príncipe de Asturias,M-506,Paseo de Castilla;3;no;47.59
+Villaviciosa de Odón;Aranjuez;1.0;1.0;52990.0;2559.0;M-50,A-4;2;si;74.55
+Villaviciosa de Odón;Arganda del Rey;3.67;1.67;52126.0;2373.0;M-50,A-3;2;si;79.08
+Villaviciosa de Odón;Boadilla del Monte;4.0;1.33;9191.0;710.0;Avenida Príncipe de Asturias,M-501;2;no;46.6
+Villaviciosa de Odón;Brunete;3.16;1.16;12374.0;666.0;M-506,M-501;2;no;66.89
+Villaviciosa de Odón;Buitrago del Lozoya;2.5;1.0;99405.0;4612.0;M-40,A-1;2;si;77.59
+Villaviciosa de Odón;Cadalso de los Vidrios;3.0;1.0;60259.0;3042.0;M-501;1;no;71.31
+Villaviciosa de Odón;Chapinería;3.0;1.0;31642.0;1369.0;M-501;1;no;83.21
+Villaviciosa de Odón;Collado Villalba;3.0;1.0;41342.0;1934.0;M-50,A-6;2;si;76.96
+Villaviciosa de Odón;Fresnedillas de la Oliva;6.0;2.0;36885.0;2156.0;M-501,M-521,M-521;3;no;61.59
+Villaviciosa de Odón;Fuenlabrada;3.6;1.5;14577.0;911.0;M-506;1;no;57.6
+Villaviciosa de Odón;Getafe;3.2;1.3;21708.0;1147.0;M-506,M-50;2;si;68.13
+Villaviciosa de Odón;La Cabrera;3.0;1.0;83727.0;4090.0;M-40,A-1;2;si;73.7
+Villaviciosa de Odón;Las Rozas de Madrid;8.5;2.5;67619.0;3256.0;M-501;1;no;74.76
+Villaviciosa de Odón;Leganés;2.6;1.1;17071.0;1152.0;M-506,M-50;2;si;53.35
+Villaviciosa de Odón;Madrid;3.81;1.72;23251.0;1752.0;A-5,Avenida de Portugal;2;si;47.78
+Villaviciosa de Odón;Móstoles;3.4;1.38;5942.0;577.0;M-856;1;no;37.07
+Villaviciosa de Odón;Navalcarnero;4.0;1.33;17865.0;918.0;A-5;1;si;70.06
+Villaviciosa de Odón;Navas del Rey;5.0;2.0;34711.0;1483.0;M-501;1;no;84.26
+Villaviciosa de Odón;Parla;3.0;1.0;23008.0;1293.0;M-50,A-42;2;si;64.06
+Villaviciosa de Odón;Pelayos de la Presa;3.0;1.0;46166.0;2170.0;M-501;1;no;76.59
+Villaviciosa de Odón;Pinto;2.0;1.0;26519.0;1270.0;M-50;1;si;75.17
+Villaviciosa de Odón;Pozuelo de Alarcón;3.33;1.0;19655.0;1235.0;M-501,M-40;2;si;57.29
+Villaviciosa de Odón;Rivas-Vaciamadrid;2.75;1.12;43781.0;1881.0;M-50;1;si;83.79
+Villaviciosa de Odón;San Lorenzo de El Escorial;3.0;1.0;40416.0;2598.0;M-501,M-600;2;no;56.0
+Villaviciosa de Odón;San Martín de Valdeiglesias;3.0;1.25;53133.0;2511.0;M-501;1;no;76.18
+Villaviciosa de Odón;San Sebastián de los Reyes;3.0;1.0;42149.0;2690.0;M-501,M-40;2;si;56.41
+Villaviciosa de Odón;Sevilla la Nueva;3.0;1.0;17045.0;928.0;M-506,M-501,Calle Sevillanos;3;no;66.12
+Villaviciosa de Odón;Valdemoro;2.5;1.5;32043.0;1516.0;M-50,A-4;2;si;76.09
+Villaviciosa de Odón;Valdilecha;3.0;1.0;69621.0;2996.0;M-50,A-3;2;si;83.66
+Villaviciosa de Odón;Villanueva de la Cañada;2.44;1.0;17185.0;1123.0;M-501,M-600;2;no;55.09
+Zarzalejo;Aranjuez;3.0;1.0;94795.0;4690.0;M-503,M-50,A-4;3;si;72.76
+Zarzalejo;Collado Villalba;3.0;1.0;28763.0;2170.0;M-533,M-600,AP-6;3;no;47.72
+Zarzalejo;Las Rozas de Madrid;3.0;1.0;56303.0;3635.0;M-512,M-501;2;no;55.76
+Zarzalejo;Madrid;3.0;1.0;53870.0;3433.0;M-533,M-600,M-503;3;no;56.49
+Zarzalejo;Majadahonda;3.0;1.0;34774.0;2400.0;M-533,M-600,M-509;3;no;52.16
